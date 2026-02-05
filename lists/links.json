@@ -1,485 +1,2522 @@
-{
-https://github.com/webkom/vote
-https://paywithz.cash/
-
- https://www.sdkc.org/where-to-kayak/
-    {"url":"https://3boxlabs.com/","tags":["blockchain","decentralized identity"]},
-    {"url":"https://www.adsrsounds.com/","tags":["music"]},
-    {"url":"https://github.com/zricethezav/gitleaks","tags":["security"]},
-    {"url":"http://admonymous.co/ anonymous admonitions feedback","tags":[""]},
-    {"url":"http://blogs.valvesoftware.com/economics/why-valve-or-what-do-we-need-corporations-for-and-how-does-valves-management-structure-fit-into-todays-corporate-world/","tags":[""]},
-    {"url":"http://doperaider.com/","tags":[""]},
-    {"url":"http://everynoise.com/engenremap.html","tags":[""]},
-    {"url":"http://fortune.com/2018/11/24/asteroid-mining-space-planetary-resources/","tags":[""]},
-    {"url":"http://lightbot.com/","tags":[""]},
-    {"url":"http://mastersofblockchain.org/","tags":[""]},
-    {"url":"http://peepsdemocracy.com/","tags":[""]},
-    {"url":"http://swap.liquality.io/","tags":[""]},
-    {"url":"http://wiki.leadwise.co/doku.php?id=agreements","tags":[""]},
-    {"url":"http://www-formal.stanford.edu/jmc/future/index.html","tags":[""]},
-    {"url":"http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html","tags":[""]},
-    {"url":"http://www.noblockno.party/","tags":[""]},
-    {"url":"http://www.reinventingorganizationswiki.com/Dismissal","tags":[""]},
-    {"url":"http://www.thefutureisbeautiful.co/2018/12/13/e43-vinay-gupta-on-blockchain-biotech-and-consciousness-raising-the-floor-of-humanity-through-cultural-activism-and-hard-capitalism/","tags":[""]},
-    {"url":"https://academy.datastax.com/resources/ds101-introduction-cassandra?path=administrator","tags":[""]},
-    {"url":"https://airtable.com/shrttIVwldUmtBwYY/tbl6ZFkidzXfTO40z/viwmqVR9L4WZued04","tags":[""]},
-    {"url":"https://alexcabal.com/creating-the-perfect-gpg-keypair","tags":[""]},
-    {"url":"https://althea.net/","tags":["meshnet"]},
-    {"url":"https://anallergytoanalogy.github.io/blockchain-adventure/","tags":[""]},
-    {"url":"https://andersbrownworth.com/blockchain/blockchain","tags":["blockchain"]},
-    {"url":"https://arewedistributedyet.com/","tags":[""]},
-    {"url":"https://arxiv.org/pdf/1811.02881.pdf","tags":[""]},
-    {"url":"https://audius.co/ crypto music","tags":[""]},
-    {"url":"https://awesome.ipfs.io/","tags":[""]},
-    {"url":"https://aws.amazon.com/whitepapers/overview-of-risk-and-compliance/","tags":[""]},
-    {"url":"https://beakerbrowser.com/","tags":[""]},
-    {"url":"https://beta.bounties.network/bounty/v1/536","tags":[""]},
-    {"url":"https://beta.catalog.works/ crypto music","tags":[""]},
-    {"url":"https://beta.cent.co/","tags":[""]},
-    {"url":"https://beta.zerion.io/add-wallet","tags":[""]},
-    {"url":"https://bitwarden.com/","tags":[""]},
-    {"url":"https://blog.airswap.io/airswap-team-update-apr-5th-2018-d8b51be3f89","tags":[""]},
-    {"url":"https://blog.ethereum.org/2018/12/10/devcon4-videos-and-pictures-released/","tags":[""]},
-    {"url":"https://blog.golemproject.net/walking-the-talk-talking-the-walk/","tags":[""]},
-    {"url":"https://blog.linuxserver.io/2016/02/02/the-perfect-media-server-2016/","tags":[""]},
-    {"url":"https://blog.lolli.com/announcing-safeway/","tags":[""]},
-    {"url":"https://blog.makerdao.com/executive-vote-stability-fee-11-5/","tags":[""]},
-    {"url":"https://blog.nomics.com/flippening/security-token-documentary/","tags":[""]},
-    {"url":"https://blog.timescale.com/analyzing-ethereum-bitcoin-and-1200-cryptocurrencies-using-postgresql-3958b3662e51","tags":[""]},
-    {"url":"https://browser.blockstack.org/","tags":[""]},
-    {"url":"https://bunz.com/ pin 9929","tags":[""]},
-    {"url":"https://caylent.com/50-useful-kubernetes-tools/","tags":[""]},
-    {"url":"https://chrome.google.com/webstore/detail/jitsi-meetings/kglhbbefdnlheedjiejgomgmfplipfeb?hl=en-US","tags":[""]},
-    {"url":"https://civil.co/","tags":[""]},
-    {"url":"https://civilizationemerging.com/","tags":[""]},
-    {"url":"https://cloud.google.com/knative/","tags":[""]},
-    {"url":"https://cloud.google.com/security/overview/whitepaper","tags":[""]},
-    {"url":"https://coincentral.com/ethereum-vs-eos/","tags":[""]},
-    {"url":"https://coinmap.org/","tags":[""]},
-    {"url":"https://cointelegraph.com/news/ethereum-hackathon-ethdenver-partners-with-unicef-on-blockchain-bounty-system","tags":[""]},
-    {"url":"https://compound.finance/","tags":[""]},
-    {"url":"https://content.breaker.io/?type=movies&id=966d93c03ab342a523c98dc1f8ef90e07677542a3116858abdece53dd09545e3","tags":[""]},
-    {"url":"https://content.pivotal.io/ebooks/getting-started-with-knative","tags":[""]},
-    {"url":"https://coreos.com/blog/introducing-operator-framework","tags":[""]},
-    {"url":"https://crowdvoice.org/","tags":[""]},
-    {"url":"https://cryptofinance.jbuty.com/","tags":[""]},
-    {"url":"https://cryptomapia.org/","tags":[""]},
-    {"url":"https://cvdazzle.com/ fight facial recognition AI","tags":[""]},
-    {"url":"https://daihardhome.wpcomstaging.com/ unkillable crypto fiat gateway like bisq or localethereum","tags":[""]},
-    {"url":"https://dappradar.com/","tags":[""]},
-    {"url":"https://dappradar.com/eos/692/karma","tags":[""]},
-    {"url":"https://darkcrystal.pw/","tags":[""]},
-    {"url":"https://datastudio.google.com/u/0/reporting/1LXQfLUBIqofZWjB380-W_sWHl92C3Cbp/page/6zXD","tags":[""]},
-    {"url":"https://deadcoins.com/","tags":[""]},
-    {"url":"https://decryptmedia.com/","tags":[""]},
-    {"url":"https://defipulse.com/","tags":[""]},
-    {"url":"https://democracy.earth/","tags":[""]},
-    {"url":"https://destinia.co.uk - pay for flights and hotels with crypto","tags":[""]},
-    {"url":"https://deviating.net/","tags":[""]},
-    {"url":"https://discuss.kubernetes.io/","tags":[""]},
-    {"url":"https://docs.google.com/document/d/10qc52rnqHaTFj7uLlftMfSPjqW2Qa7YqKRVVCtb3JHI/edit","tags":[""]},
-    {"url":"https://docs.google.com/document/d/1vuYQz02ET8UNuEKO4Ap4nI_aCNViHmpcVvOkPZGT1Nc/edit#heading=h.vfsmzthktdan","tags":[""]},
-    {"url":"https://docs.google.com/presentation/d/1VY997VIsbLdjePiLh4fAF0t-JKlcMJk4A1oJJ_oNqns/edit#slide=id.g3d4e599995_0_198","tags":[""]},
-    {"url":"https://docs.wixstatic.com/ugd/8246de_248a47ddbd3c4d209667ff5508ee300b.pdf","tags":[""]},
-    {"url":"https://earn.com/","tags":[""]},
-    {"url":"https://en.wikipedia.org/wiki/Freetown_Christiania","tags":[""]},
-    {"url":"https://en.wikipedia.org/wiki/Liberland","tags":[""]},
-    {"url":"https://en.wikipedia.org/wiki/Teal_organisation","tags":[""]},
-    {"url":"https://eth.wiki/","tags":[""]},
-    {"url":"https://etherisc.com/","tags":[""]},
-    {"url":"https://ethhub.io/","tags":[""]},
-    {"url":"https://ethicalos.org/","tags":[""]},
-    {"url":"https://ethlend.io/","tags":[""]},
-    {"url":"https://ethresear.ch/t/phase-one-and-done-eth2-as-a-data-availability-engine/5269","tags":[""]},
-    {"url":"https://files.kyber.network/Kyber_Protocol_22_April_v0.1.pdf","tags":[""]},
-    {"url":"https://fission.io/","tags":[""]},
-    {"url":"https://forum.batcommunity.org/t/interested-in-becoming-a-regional-leader-heres-how/36","tags":[""]},
-    {"url":"https://geti2p.net/en/","tags":[""]},
-    {"url":"https://github.com/CirclesUBI","tags":[""]},
-    {"url":"https://github.com/CirclesUBI/docs/blob/master/Circles.md","tags":[""]},
-    {"url":"https://github.com/CirclesUBI/infrastructure-provisioning","tags":[""]},
-    {"url":"https://github.com/FairwindsOps/polaris FairwindsOps/polaris: Validation of best practices in your Kubernetes clusters","tags":[""]},
-    {"url":"https://github.com/L4ventures/awesome-cryptoeconomics","tags":[""]},
-    {"url":"https://github.com/ahmetb/kubectx","tags":[""]},
-    {"url":"https://github.com/aquasecurity/kube-hunter","tags":[""]},
-    {"url":"https://github.com/box/kube-applier kubernetes ci/cd gitops","tags":[""]},
-    {"url":"https://github.com/controlplaneio/netassert","tags":[""]},
-    {"url":"https://github.com/coreos/prometheus-operator","tags":[""]},
-    {"url":"https://github.com/coreos/prometheus-operator/blob/master/helm/kube-prometheus/README.md","tags":[""]},
-    {"url":"https://github.com/cristim/autospotting","tags":[""]},
-    {"url":"https://github.com/devsecops/awesome-devsecops","tags":[""]},
-    {"url":"https://github.com/eldada/jenkins-pipeline-kubernetes/blob/master/Jenkinsfile example pipeline that implement full CI/CD for a simple static web site packed in a Docker image","tags":[""]},
-    {"url":"https://github.com/ethereum/wiki","tags":[""]},
-    {"url":"https://github.com/fabric8io/gitcontroller","tags":[""]},
-    {"url":"https://github.com/freach/kubernetes-security-best-practice/blob/master/README.md","tags":[""]},
-    {"url":"https://github.com/gravitational/teleport","tags":[""]},
-    {"url":"https://github.com/hjacobs/kubernetes-failure-stories","tags":[""]},
-    {"url":"https://github.com/i0natan/nodebestpractices","tags":[""]},
-    {"url":"https://github.com/iancoleman/bip39","tags":[""]},
-    {"url":"https://github.com/ipfs-shipyard/discussify-browser-extension","tags":[""]},
-    {"url":"https://github.com/ipfs-shipyard/ipfs-companion","tags":[""]},
-    {"url":"https://github.com/kausalco/public/tree/master/prometheus-ksonnet","tags":[""]},
-    {"url":"https://github.com/knative","tags":[""]},
-    {"url":"https://github.com/kubernetes-incubator/descheduler","tags":[""]},
-    {"url":"https://github.com/kubernetes-monitoring/kubernetes-mixin","tags":[""]},
-    {"url":"https://github.com/kubernetes-sigs/kubespray/tree/master/contrib/terraform/aws","tags":[""]},
-    {"url":"https://github.com/kubernetes/ingress-nginx/tree/master/docs/examples/auth/oauth-external-auth","tags":[""]},
-    {"url":"https://github.com/ong/awesome-decentralized-finance","tags":[""]},
-    {"url":"https://github.com/pandonetwork/pando","tags":[""]},
-    {"url":"https://github.com/riptano/ccm","tags":[""]},
-    {"url":"https://github.com/roboll/helmfile","tags":[""]},
-    {"url":"https://github.com/roboll/helmfile","tags":[""]},
-    {"url":"https://github.com/rook/rook/issues/1488#issuecomment-405796752","tags":[""]},
-    {"url":"https://github.com/snario/awesome-cryptoeconomics","tags":[""]},
-    {"url":"https://github.com/stefanprodan","tags":[""]},
-    {"url":"https://github.com/tomeshnet/ipfs-live-streaming","tags":[""]},
-    {"url":"https://github.com/valer-cara/mgo","tags":[""]},
-    {"url":"https://github.com/wal-e/wal-e","tags":[""]},
-    {"url":"https://github.com/weaveworks/flagger","tags":[""]},
-    {"url":"https://github.com/weaveworks/flux/blob/master/site/fluxctl.md","tags":[""]},
-    {"url":"https://github.com/zalando-incubator/postgres-operator","tags":[""]},
-    {"url":"https://goodmoney.com/","tags":[""]},
-    {"url":"https://halasystems.com/","tags":[""]},
-    {"url":"https://handshake.org/","tags":[""]},
-    {"url":"https://heighliner.com/","tags":[""]},
-    {"url":"https://hub.docker.com/r/ncarlier/webhookd/ trigger scripts to run by sending a request to a specific URL","tags":[""]},
-    {"url":"https://iknowwhatyoudownload.com/","tags":[""]},
-    {"url":"https://inteltechniques.com/data/workbook.pdf","tags":[""]},
-    {"url":"https://ipfswap.com","tags":[""]},
-    {"url":"https://istio.io/","tags":[""]},
-    {"url":"https://itnext.io/protect-kubernetes-dashboard-with-openid-connect-104b9e75e39c","tags":[""]},
-    {"url":"https://jenkins-x.io/","tags":[""]},
-    {"url":"https://jenkinsci.github.io/job-dsl-plugin/#method/javaposse.jobdsl.dsl.helpers.publisher.PublisherContext.sonar","tags":[""]},
-    {"url":"https://jpkoning.blogspot.com/2019/05/revisiting-stablecoins.html","tags":[""]},
-    {"url":"https://khalilstemmler.com/articles/solid-principles/solid-typescript/","tags":[""]},
-    {"url":"https://kinzen.com/ - waiting for them to launch an Android app...","tags":[""]},
-    {"url":"https://ksonnet.io/","tags":[""]},
-    {"url":"https://kubeapps.com/","tags":[""]},
-    {"url":"https://kubernetes.io/blog/2018/07/10/coredns-ga-for-kubernetes-cluster-dns/","tags":[""]},
-    {"url":"https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/","tags":[""]},
-    {"url":"https://kubespray.io/#/?id=tools-and-projects-on-top-of-kubespray","tags":[""]},
-    {"url":"https://l2beat.com/?view=risk","tags":[""]},
-    {"url":"https://l2fees.info/","tags":[""]},
-    {"url":"https://landstream.atlassian.net/secure/Dashboard.jspa","tags":[""]},
-    {"url":"https://litepaper.com/","tags":[""]},
-    {"url":"https://lobste.rs/recent","tags":[""]},
-    {"url":"https://longhorn.io/","tags":["kubernetes"]},
-    {"url":"https://marginalrevolution.com/marginalrevolution/2018/09/liberal-radicalism-mechanism-producing-public-goods.html","tags":[""]},
-    {"url":"https://martinfowler.com/articles/feature-toggles.html","tags":[""]},
-    {"url":"https://media.consensys.net/40-ethereum-apps-you-can-use-right-now-d643333769f7?_hsenc=p2ANqtz---UaMXr2ZW9Lc6aIyGrQzvDEqWqunHutdS83BdrL62THAqBsUHhNhDP40TDbkk8LANb5P-nj5EuVTx_1qAb09sLbILlw&_hsmi=68571040","tags":[""]},
-    {"url":"https://media.consensys.net/a-warm-welcome-to-web3-89d49e61a7c5","tags":[""]},
-    {"url":"https://media.consensys.net/how-i-fell-out-of-love-with-the-internet-1a8d3f9dc0c3","tags":[""]},
-    {"url":"https://media.consensys.net/the-11-best-sources-for-ethereum-news-and-learning-783ef4803ab0","tags":[""]},
-    {"url":"https://medium.com/3box/3box-js-7-use-cases-for-social-dapps-e6263787ba44","tags":[""]},
-    {"url":"https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1","tags":[""]},
-    {"url":"https://medium.com/@gmaliar/dynamic-secrets-on-kubernetes-pods-using-vault-35d9094d169","tags":[""]},
-    {"url":"https://medium.com/@hellhound_eth/privacy-by-design-for-all-dapps-now-7f792b88dae3","tags":[""]},
-    {"url":"https://medium.com/@int128/kubectl-with-openid-connect-43120b451672","tags":[""]},
-    {"url":"https://medium.com/@johndstorey/damanhur-my-experience-796c254c2661","tags":[""]},
-    {"url":"https://medium.com/@maiavictor/updates-on-ethereums-moon-project-535f8c0497ef?source=linkShare-9cdd320de5c9-1535724575","tags":[""]},
-    {"url":"https://medium.com/@mrbobbytables/kubernetes-day-2-operations-authn-authz-with-oidc-and-a-little-help-from-keycloak-de4ea1bdbbe","tags":[""]},
-    {"url":"https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8","tags":[""]},
-    {"url":"https://medium.com/alpineintel/on-abstraction-and-risk-e981e06830f3","tags":[""]},
-    {"url":"https://medium.com/consensys-diligence/all-ethereum-security-tools-built-by-consensys-diligence-dd918248f978","tags":[""]},
-    {"url":"https://medium.com/design-voices/corporate-culture-and-the-games-ais-play-ad246290ce68","tags":[""]},
-    {"url":"https://medium.com/getamis/elastikube-self-hosted-and-highly-configurable-kubernetes-building-blocks-97cd7afccef","tags":[""]},
-    {"url":"https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475","tags":[""]},
-    {"url":"https://medium.com/spankchain/we-got-spanked-what-we-know-so-far-d5ed3a0f38fe","tags":[""]},
-    {"url":"https://medium.com/swlh/the-silent-meeting-manifesto-v1-189e9e3487eb","tags":[""]},
-    {"url":"https://medium.com/textileio/this-single-page-web-app-can-edit-itself-62734dac2700","tags":[""]},
-    {"url":"https://medium.com/uport/leading-the-way-to-a-better-ux-for-decentralized-identity-f3edcf8f959b","tags":[""]},
-    {"url":"https://messari.io/ crypto news research","tags":[""]},
-    {"url":"https://metamask.io/","tags":[""]},
-    {"url":"https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/","tags":[""]},
-    {"url":"https://mrcoles.com/full-page-screen-capture-chrome-extension/","tags":[""]},
-    {"url":"https://neocities.org/ (in Portland?!?)","tags":[""]},
-    {"url":"https://nordicapis.com/stemming-the-flood-how-to-rate-limit-an-api/","tags":[""]},
-    {"url":"https://onezero.medium.com/landlord-2-0-techs-new-rentier-capitalism-a0bfe491b463","tags":[""]},
-    {"url":"https://open.edx.org/","tags":[""]},
-    {"url":"https://ournetworks.ca/conference/recorded-talks/","tags":[""]},
-    {"url":"https://pages.consensys.net/build-on-ethereum-with-consensys?hs_preview=DGPMWWkx-8027881007","tags":[""]},
-    {"url":"https://paywithmoon.com/","tags":[""]},
-    {"url":"https://pegasusprojectpdx.com (not on google maps, but go check them out)","tags":[""]},
-    {"url":"https://poolside.fm/","tags":[""]},
-    {"url":"https://portlanddsa.org/","tags":[""]},
-    {"url":"https://prism-break.org/","tags":[""]},
-    {"url":"https://radio.garden/","tags":[""]},
-    {"url":"https://retroshare.cc/","tags":[""]},
-    {"url":"https://rollingjubilee.org/","tags":[""]},
-    {"url":"https://rook.io/","tags":[""]},
-    {"url":"https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/","tags":[""]},
-    {"url":"https://scratch.mit.edu/","tags":[""]},
-    {"url":"https://secushare.org/","tags":[""]},
-    {"url":"https://silentcicero.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/ Pro-Tips for Ethereum Wallet Management","tags":[""]},
-    {"url":"https://silentcicero.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/","tags":[""]},
-    {"url":"https://slatestarcodex.com/2014/07/30/meditations-on-moloch/","tags":[""]},
-    {"url":"https://solid.mit.edu/","tags":[""]},
-    {"url":"https://spark.adobe.com/","tags":[""]},
-    {"url":"https://star.vote/","tags":[""]},
-    {"url":"https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar","tags":[""]},
-    {"url":"https://steveperkins.com/migrating-projects-from-github-to-gitlab/","tags":[""]},
-    {"url":"https://swaps.ramp.network/ fiat to crypto!!!","tags":[""]},
-    {"url":"https://techcrunch.com/2018/05/13/the-crypto-alternative/","tags":[""]},
-    {"url":"https://thebkp.com/","tags":[""]},
-    {"url":"https://thedecider.app/","tags":["decide"]},
-    {"url":"https://thegoodwellcompany.com/products/be","tags":[""]},
-    {"url":"https://tokeneconomy.co/liquid-airdrops-6df03114e172","tags":[""]},
-    {"url":"https://tokeneconomy.co/validator-economics-of-ethereum-2-0-part-2-the-ether-vacuum-418f1b32c99e","tags":[""]},
-    {"url":"https://tokeneconomy.co/validator-economics-of-ethereum-2-0-part-one-bc188173cdca","tags":[""]},
-    {"url":"https://trofisecurity.com/assets/img/iso27001-2013.pdf","tags":["compliance"]},
-    {"url":"https://trustmachinefilm.com/","tags":[""]},
-    {"url":"https://twitter.com/AlethioEthstats/status/1130507179063205888","tags":[""]},
-    {"url":"https://twitter.com/VitalikButerin/status/1029900695925706753","tags":[""]},
-    {"url":"https://txstreet.com/","tags":["blockchain"]},
-    {"url":"https://unbounce.com/","tags":[""]},
-    {"url":"https://unchainedpodcast.com/how-blockchains-can-help-create-little-democracies-everywhere/","tags":[""]},
-    {"url":"https://universallogin.io/","tags":[""]},
-    {"url":"https://voatz.com/","tags":[""]},
-    {"url":"https://whatconsumesme.com/2018/04/13/how-do-we-decide/","tags":["decide"]},
-    {"url":"https://whisp.money/ global payroll with crypto","tags":[""]},
-    {"url":"https://wiki.parity.io/Docker#more-options","tags":[""]},
-    {"url":"https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/serviceorganization-smanagement.html","tags":["compliance"]},
-    {"url":"https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment","tags":[""]},
-    {"url":"https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow","tags":[""]},
-    {"url":"https://www.battlemesh.org/","tags":["meshnet"]},
-    {"url":"https://www.bittorrent.com/btt/","tags":[""]},
-    {"url":"https://www.bloomberg.com/view/articles/2018-09-26/abacus-cdo-bites-goldman-back","tags":[""]},
-    {"url":"https://www.businessinnovationfactory.com/video/ben-siegel-connecting-our-future-through-blockchain/","tags":[""]},
-    {"url":"https://www.caringbridge.org/visit/johnjrobinson/planner","tags":[""]},
-    {"url":"https://www.coindesk.com/the-crypto-winter-is-here-and-we-only-have-ourselves-to-blame","tags":[""]},
-    {"url":"https://www.coindesk.com/understanding-the-radicalxchange-movement-and-its-cypherpunk-appeal","tags":[""]},
-    {"url":"https://www.diviproject.org/","tags":[""]},
-    {"url":"https://www.dropbox.com/s/58ddnhyp0nlpm3o/cofi-no-signup.mp4?dl=0","tags":[""]},
-    {"url":"https://www.dropbox.com/sh/970yvkfm1pv3bcf/AAAKTaDNQvt23isIK04GvN3ga?dl=0&preview=cofi-abridged.mp4","tags":[""]},
-    {"url":"https://www.ec2instances.info/","tags":[""]},
-    {"url":"https://www.fitzii.com/go/changing-colors-helping-new-employees-go-teal/","tags":[""]},
-    {"url":"https://www.humanitydao.org/ sybil attack resistance","tags":[""]},
-    {"url":"https://www.independent.co.uk/life-style/gadgets-and-tech/news/torrent-website-download-safe-legal-privacy-i-know-what-you-friends-spying-a7504266.html","tags":[""]},
-    {"url":"https://www.johnorionyoung.com/index.html","tags":[""]},
-    {"url":"https://www.kiali.io/","tags":[""]},
-    {"url":"https://www.lesswrong.com/","tags":[""]},
-    {"url":"https://www.lolli.com/","tags":[""]},
-    {"url":"https://www.loomio.org/","tags":["decide"]},
-    {"url":"https://www.nationalgeographic.com/tv/valley-of-the-boom/","tags":[""]},
-    {"url":"https://www.nytimes.com/2018/12/12/technology/tech-friction-frictionless.html?emc=edit_th_181213&nl=todaysheadlines&nlid=463278541213","tags":[""]},
-    {"url":"https://www.open-mesh.org/projects/open-mesh/wiki","tags":["meshnet"]},
-    {"url":"https://www.openfaas.com/","tags":[""]},
-    {"url":"https://www.owasp.org/index.php/OWASP_Testing_Project","tags":[""]},
-    {"url":"https://www.owasp.org/index.php/Threat_Risk_Modeling","tags":[""]},
-    {"url":"https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet","tags":[""]},
-    {"url":"https://www.pcisecuritystandards.org/documents/SAQ-InstrGuidelines-v3_2.pdf","tags":["compliance"]},
-    {"url":"https://www.polygon.com/features/2018/10/10/17952674/the-12-best-indie-metroidvania-games","tags":[""]},
-    {"url":"https://www.reddit.com/r/ethereum/comments/bue6q4/the_dxdao_is_a_large_experiment_in_onchain/","tags":[""]},
-    {"url":"https://www.resistancecalendar.org/","tags":[""]},
-    {"url":"https://www.root-me.org/","tags":[""]},
-    {"url":"https://www.runatlantis.io/","tags":[""]},
-    {"url":"https://www.sandiego.org/articles/tours-sightseeing/exploring-san-diegos-charismatic-neighborhoods.aspx","tags":[""]},
-    {"url":"https://www.scuttlebutt.nz/","tags":[""]},
-    {"url":"https://www.sendwyre.com/ API to turn USD into ETH via ACH","tags":[""]},
-    {"url":"https://www.sendwyre.com/ ach crypto","tags":[""]},
-    {"url":"https://www.shodan.io/","tags":[""]},
-    {"url":"https://www.slideshare.net/DCGCo/how-to-not-be-a-shitcoin-what-ive-learned-about-markets-psychology-and-value-creation","tags":[""]},
-    {"url":"https://www.slideshare.net/Diacode/cicd-with-kubernetes-helm-wercker-madscalability","tags":[""]},
-    {"url":"https://www.smh.com.au/business/companies/cryptocurrency-behind-great-keppel-island-s-300-million-resurrection-20180903-p501ip.html?crpt=homepage","tags":[""]},
-    {"url":"https://www.spinnaker.io/","tags":[""]},
-    {"url":"https://www.ssllabs.com/ssltest/analyze.html?d=www.balanc3.net&s=107.23.47.41&latest","tags":[""]},
-    {"url":"https://www.stitcher.com/podcast/radio-gag-gays-against-guns/e/59660494?autoplay=true 11:00","tags":[""]},
-    {"url":"https://www.tcr.party/","tags":[""]},
-    {"url":"https://www.timeanddate.com/worldclock/meetingtime.html?iso=20180806&p1=202&p2=159&p3=4826&p4=367&p5=44","tags":[""]},
-    {"url":"https://www.tokendaily.co/blog/a-taxonomy-of-stablecoins","tags":[""]},
-    {"url":"https://www.totle.com/","tags":[""]},
-    {"url":"https://www.upfiring.com/","tags":[""]},
-    {"url":"https://www.vessel.us/","tags":[""]},
-    {"url":"https://www.vice.com/en_us/article/paj8z8/a-diy-internet-network-has-drastically-expanded-its-coverage-in-nyc","tags":["meshnet"]},
-    {"url":"https://www.voterfied.com/voters/voter-welcome.html","tags":[""]},
-    {"url":"https://www.vulnhub.com/","tags":[""]},
-    {"url":"https://www.weave.works/docs/net/latest/tasks/manage/security-untrusted-networks/","tags":[""]},
-    {"url":"https://www.weave.works/technologies/gitops/","tags":[""]},
-    {"url":"https://www.websocket.org/echo.html","tags":[""]},
-    {"url":"https://www.with.in/","tags":[""]},
-    {"url":"https://www.wolfe.id.au/2017/11/05/aws-user-federation-with-keycloak/","tags":[""]},
-    {"url":"https://www.wolfe.id.au/2017/11/05/aws-user-federation-with-keycloak/","tags":[""]},
-    {"url":"https://www.wweek.com/bars/2018/09/05/portlands-first-bar-dedicated-to-esports-is-opening-next-month/","tags":[""]},
-    {"url":"https://www.yangdao.org/about","tags":[""]},
-    {"url":"https://www.ynharari.com/book/sapiens/","tags":[""]},
-    {"url":"https://youtu.be/W-3W-s_Yw-8","tags":[""]},
-    {"url":"https://youtu.be/cip3eNm2PU4","tags":[""]},
-    {"url":"https://zoom.us/","tags":[""]},
-    {"url":"inreallife.io (relationship quiz app written by Parker Place and Jon Sanders)","tags":[""]},
-    {"url":"settle.finance","tags":[""]},
-    {"url":"totem.network","tags":[""]}
-}
 [
-  {"title":"27 Surreal Places To Visit Before You Die - BuzzFeed","url":"http://www.buzzfeed.com/ariellecalderon/surreal-places-to-visit-before-you-die?s=mobile","tags":["travel","surreal"]},
-  {"title":"Aggro Gator: View and comment on images submitted by users. Image 170277","url":"http://aggro-gator.com/"},
-  {"title":"Amberdata - transactions","url":"https://amberdata.io/dashboards/transactions?size=10"},
-  {"title":"An Overview of JavaScript Testing in 2018 - welldone-software - Medium","url":"https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3"},
-  {"title":"Apache Guacamole™","url":"http://guacamole.apache.org/"},
-  {"title":"Artopia - Paint the World","url":"https://paintwithartopia.com/"},
-  {"title":"Asgardia - The Space Nation","url":"https://asgardia.space/en/word"},
-  {"title":"Automating Amazon EBS Snapshot Management with AWS Step Functions and Amazon CloudWatch Events | AWS Compute Blog","url":"https://aws.amazon.com/blogs/compute/automating-amazon-ebs-snapshot-management-with-aws-step-functions-and-amazon-cloudwatch-events/"},
-  {"title":"Awesome products designed by independent artists | Redbubble","url":"https://www.redbubble.com/"},
-  {"title":"BLENDO Games","url":"http://blendogames.com/"},
-  {"title":"Bit-Nation/Pangea-Docs: Get started with BITNATION and the Pangea Jurisdiction!","url":"https://github.com/Bit-Nation/Pangea-Docs"},
-  {"title":"BitMarkets","url":"https://voluntary.net/bitmarkets/"},
-  {"title":"Bitnation, Liberland, Puertopia and Other Micronations Are Gaining Independence via Crypto, but Crypto Alone May Not Be Enough","url":"https://cointelegraph.com/news/bitnation-liberland-puertopia-and-other-micronations-are-gaining-independence-via-crypto-but-crypto-alone-may-not-be-enough"},
-  {"title":"Blockchain Demo","url":"https://anders.com/blockchain/"},
-  {"title":"Blockstack, building the decentralized internet","url":"https://blockstack.org/"},
-  {"title":"Brewster Kahle's Blog","url":"http://brewster.kahle.org/"},
-  {"title":"CSS Reference - A free visual guide to CSS","url":"http://cssreference.io/"},
-  {"title":"Calling Bullshit","url":"http://callingbullshit.org/"},
-  {"title":"Classic Pico de Gallo Recipe | Serious Eats","url":"https://www.seriouseats.com/recipes/2013/06/classic-pico-de-gallo-salsa-fresca-recipe.html"},
-  {"title":"Cloud Native Landscape","url":"https://landscape.cncf.io/"},
-  {"title":"Coinomi - Fintech's Finest Security-First Multi-Asset Wallet for Bitcoin, Ethereum, Altcoins and Tokens","url":"https://coinomi.com/"},
-  {"title":"Concerning AI - Is there an existential risk to humanity from AI? If so, what do we do about it?","url":"https://concerning.ai/"},
-  {"title":"Concur","url":"https://www.concursolutions.com/"},
-  {"title":"CryptoBridge - Decentralized Cryptocurrency Exchange","url":"https://crypto-bridge.org/"},
-  {"title":"CryptoCurrency Market Capitalizations","url":"https://coinmarketcap.com/"},
-  {"title":"Decentralized picture hosting in ipfs","url":"https://ipfs.pics/"},
-  {"title":"Declarative application management in Kubernetes - Google Docs","url":"https://docs.google.com/document/d/1cLPGweVEYrVqQvBLJg6sxV-TrE5Rm2MNOBA_cxZP2WU/edit"},
-  {"title":"DemocracyOS - Change the Tool","url":"http://democracyos.org/"},
-  {"title":"Dock: Own & Control Your Personal Data","url":"https://dock.io/"},
-  {"title":"Downloads - SAFE Network","url":"https://safenetwork.org/downloads/#safe-launcher"},
-  {"title":"ETH to USD GDAX","url":"https://www.gdax.com/trade/ETH-USD"},
-  {"title":"Envisioning the Cellarius V1 Facility, Part 1 - Genesis Thought - Medium","url":"https://medium.com/genesis-thought/envisioning-the-cellarius-v1-facility-part-1-417793b3f998"},
-  {"title":"Esther Perel","url":"https://www.estherperel.com/podcast"},
-  {"title":"Ethereum Developers Conference (Devcon3)","url":"https://ethereumfoundation.org/devcon3/"},
-  {"title":"Ethereum ETH to Bitcoin BTC instant exchange - Changelly.com","url":"https://changelly.com/"},
-  {"title":"Ethical Theory and Moral Practice - Springer","url":"https://link.springer.com/journal/10677"},
-  {"title":"Evans Tucker / evanstucker.com · GitLab","url":"https://gitlab.com/evanstucker/evanstucker.com"},
-  {"title":"FOAM • The Future of Proof of Location","url":"https://www.foam.space/"},
-  {"title":"Flyp.me - The instant crypto exchange, private and secure","url":"https://flyp.me/"},
-  {"title":"Food is Free: Growing Food & Community in the Front Yard!","url":"http://foodisfreeproject.org/"},
-  {"title":"Freeing Myself from Facebook","url":"https://cleverdevil.io/2018/freeing-myself-from-facebook"},
-  {"title":"Georgism - Wikipedia","url":"https://en.wikipedia.org/wiki/Georgism"},
-  {"title":"GitHub - plexinc/pms-docker: Plex Media Server Docker repo, for all your PMS docker needs.","url":"https://github.com/plexinc/pms-docker"},
-  {"title":"GitHub - soulfx/gmusic-playlist.js: a javascript version of gmusic-playlist","url":"https://github.com/soulfx/gmusic-playlist.js"},
-  {"title":"Giveth","url":"https://giveth.io/"},
-  {"title":"Golem","url":"https://golem.network/"},
-  {"title":"Google - Site Reliability Engineering","url":"https://landing.google.com/sre/book/chapters/introduction.html"},
-  {"title":"Grid+","url":"https://gridplus.io/"},
-  {"title":"Grilled Skirt Steak Fajitas Recipe | Serious Eats","url":"https://www.seriouseats.com/recipes/2013/06/grilled-skirt-steak-fajitas-food-lab-recipe.html"},
-  {"title":"Groovy Language Documentation","url":"http://docs.groovy-lang.org/latest/html/documentation/index.html"},
-  {"title":"Grow Open Source | Gitcoin","url":"https://gitcoin.co/"},
-  {"title":"Guerrilla Development","url":"http://guerrilladev.co/"},
-  {"title":"Home - Taiga","url":"https://tree.taiga.io/"},
-  {"title":"Home Page - Cloud Native Computing Foundation","url":"https://www.cncf.io/"},
-  {"title":"Home | Ceptr","url":"http://ceptr.org/"},
-  {"title":"Home | Matrix.org","url":"https://matrix.org/blog/home/"},
-  {"title":"How Would a Billion Immigrants Change the American Polity? | Open Borders: The Case","url":"https://openborders.info/blog/billion-immigrants-change-american-polity/"},
-  {"title":"How to get your private keys from the PIVX android mobile wallet and to restore it in the PIVX PC Wallet : Pivx","url":"https://pivx.freshdesk.com/support/solutions/articles/30000025585-how-to-get-your-private-keys-from-the-pivx-android-mobile-wallet-and-to-restore-it-in-the-pivx-pc-wal"},
-  {"title":"How to make a difference with your career - 80,000 Hours","url":"https://80000hours.org/"},
-  {"title":"IOTA - Next Generation Blockchain","url":"https://iota.org/"},
-  {"title":"IPFS is the Distributed Web","url":"https://ipfs.io/"},
-  {"title":"ISO 4217 - Wikipedia","url":"https://en.wikipedia.org/wiki/ISO_4217"},
-  {"title":"Icarus Proudbottom Teaches Typing!","url":"http://www.holywowstudios.com/teachestyping/"},
-  {"title":"InVision","url":"https://projects.invisionapp.com/d/main#/projects"},
-  {"title":"IndieWeb","url":"https://indieweb.org/"},
-  {"title":"Initializing Amazon EBS Volumes - Amazon Elastic Compute Cloud","url":"https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-initialize.html"},
-  {"title":"Internet Archive Blogs | A blog from the team at archive.org","url":"http://blog.archive.org/"},
-  {"title":"Internet Archive: Digital Library of Free Books, Movies, Music & Wayback Machine","url":"https://archive.org/"},
-  {"title":"Introduction · A Beginner's Guide to Ethereum and Dapp Development","url":"https://sunnya97.gitbooks.io/a-beginner-s-guide-to-ethereum-and-dapp-developme/content/"},
-  {"title":"Introduction · Blockchain Basics","url":"https://consensys.gitbooks.io/blockchain-in-business/content/"},
-  {"title":"Jenkins-as-Code: Creating Jenkins jobs with text, not clicks - marcesher.com","url":"https://marcesher.com/2016/06/08/jenkins-as-code-creating-jenkins-jobs-with-text-not-clicks/"},
-  {"title":"Jolly Roger Telephone Company, saving the world from bad telemarketing","url":"http://www.jollyrogertelco.com/"},
-  {"title":"Justworks","url":"https://secure.justworks.com/"},
-  {"title":"Keybase","url":"https://keybase.io/"},
-  {"title":"Kialo - Empowering Reason","url":"https://www.kialo.com/"},
-  {"title":"KubeApps Hub: Discover & launch great Kubernetes-ready apps | KubeApps Hub","url":"https://hub.kubeapps.com/"},
-  {"title":"Kubernetes Gardener","url":"https://gardener.cloud/"},
-  {"title":"Kubernetes Operators","url":"https://blog.couchbase.com/kubernetes-operators-game-changer/"},
-  {"title":"LinuxServer.io","url":"https://www.linuxserver.io/"},
-  {"title":"MESH TV","url":"http://meshtv.net/#"},
-  {"title":"Mattermost Private Cloud Messaging","url":"https://about.mattermost.com/"},
-  {"title":"Monoprice","url":"https://www.monoprice.com/"},
-  {"title":"Music | Cardiacs","url":"https://alphabet-business-concern.bandcamp.com/"},
-  {"title":"NGINX Ingress Controller","url":"https://kubernetes.github.io/ingress-nginx/"},
-  {"title":"New Relic","url":"https://rpm.newrelic.com/accounts/1994724/setup"},
-  {"title":"NuoDB","url":"https://www.nuodb.com/"},
-  {"title":"Nussoft","url":"http://www.neoaq.net/"},
-  {"title":"Octopus Deploy","url":"https://octopus.com/"},
-  {"title":"Open Sourcing Coinbase's Secure Deployment Pipeline","url":"https://engineering.coinbase.com/open-sourcing-coinbases-secure-deployment-pipeline-ae6c78e25517"},
-  {"title":"PIVX Places | Explore PIVX Places Near You!","url":"http://pivxplaces.com/"},
-  {"title":"POSSE - IndieWeb","url":"https://indieweb.org/POSSE"},
-  {"title":"Pangea development update 03 - August 2017 - Steemit","url":"https://steemit.com/bitnation/@bitnation/pangea-development-update-03-august-2017"},
-  {"title":"Persona","url":"https://persona.im/"},
-  {"title":"Portland Food Project","url":"http://portlandfoodproject.org/donor-signup-form.php"},
-  {"title":"Principles of Chaos Engineering","url":"http://principlesofchaos.org/"},
-  {"title":"Radar Relay","url":"https://radarrelay.com/"},
-  {"title":"Republic Protocol","url":"https://republicprotocol.com/"},
-  {"title":"Resistance Manual","url":"https://www.resistancemanual.org/Resistance_Manual_Home"},
-  {"title":"Riot - Riot - open team collaboration","url":"https://about.riot.im/"},
-  {"title":"Robinhood adds zero-fee cryptocurrency trading and tracking - TechCrunch","url":"https://www.google.com/amp/s/techcrunch.com/2018/01/25/free-cryptocurrency-trading-app/amp/"},
-  {"title":"Rook.io","url":"https://rook.io/"},
-  {"title":"S1 (synth)","url":"http://s1portland.com/"},
-  {"title":"Sandstorm","url":"https://sandstorm.io/"},
-  {"title":"Sentry | Error Tracking Software - JavaScript, Python, PHP, Ruby, more","url":"https://sentry.io/welcome/"},
-  {"title":"Sobol (formerly TMNT)","url":"https://sobol.io/"},
-  {"title":"Spinnaker","url":"https://www.spinnaker.io/"},
-  {"title":"State of Decentralized Exchanges, 2018 - ConsenSys Media","url":"https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79"},
-  {"title":"TOP 40+ BITCOIN EXCHANGE LIST: Best Sites to Buy & Sell","url":"https://www.bestbitcoinexchange.io/"},
-  {"title":"The Blockchain Man","url":"https://www.ribbonfarm.com/2017/10/10/the-blockchain-man/"},
-  {"title":"The Bounties Network","url":"https://bounties.network/"},
-  {"title":"The Gauntlet - Seidr - Ginnungagap (full album) mp3","url":"http://www.thegauntlet.com/music/259/Seidr-Ginnungagap-full-album"},
-  {"title":"The Wirecutter","url":"http://thewirecutter.com/"},
-  {"title":"The ecological impact of compute","url":"https://www.hashicorp.com/resources/ecological-impact-compute"},
-  {"title":"The top four Internet Relay Chat clients | Opensource.com","url":"https://opensource.com/life/15/11/top-open-source-irc-clients"},
-  {"title":"Tiny Desk : NPR","url":"https://www.npr.org/series/tiny-desk-concerts/"},
-  {"title":"U.S. Coast Guard Navigation Center","url":"http://www.navcen.uscg.gov/?pageName=navRulesContent"},
-  {"title":"United ★ Liquid Democracy for America","url":"https://united.vote/"},
-  {"title":"UserBenchmark: 861 Solid State Drives Ranked","url":"http://ssd.userbenchmark.com/Comparison"},
-  {"title":"Using Nexus 3 as Your Repository - Part 2: npm Packages","url":"https://blog.sonatype.com/using-nexus-3-as-your-repository-part-2-npm-packages"},
-  {"title":"VCS Repository Structure - Workspaces - Terraform Enterprise - Terraform by HashiCorp","url":"https://www.terraform.io/docs/enterprise/workspaces/repo-structure.html"},
-  {"title":"Veggie Fajitas - Plant-Based Vegan Recipe","url":"https://www.forksoverknives.com/recipes/veggie-fajitas/"},
-  {"title":"Web Font Optimization | Web | Google Developers","url":"https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization"},
-  {"title":"Web Search for a Planet: The Google Cluster Architecture","url":"https://research.google.com/pubs/pub49.html"},
-  {"title":"Welcome to Open Library | Open Library","url":"https://openlibrary.org/"},
-  {"title":"What !? - basicincome.co","url":"http://www.basicincome.co/what.html"},
-  {"title":"Wondermark » Archive » #1257; No Fêtes but What We Make","url":"http://wondermark.com/c1257/"},
-  {"title":"XML to Job DSL","url":"https://wiki.jenkins.io/display/JENKINS/XML+Job+to+Job+DSL"},
-  {"title":"Xi (letter) - Wikipedia","url":"https://en.wikipedia.org/wiki/Xi_(letter)"},
-  {"title":"YSlow - Official Open Source Project Website","url":"http://yslow.org/"},
-  {"title":"Your first Dapp | Dapps for Beginners","url":"https://dappsforbeginners.wordpress.com/tutorials/your-first-dapp/"},
-  {"title":"ZeppelinOS","url":"https://zeppelinos.org/"},
-  {"title":"ZeroNet: Decentralized websites using Bitcoin crypto and the BitTorrent network","url":"https://zeronet.io/"},
-  {"title":"Zoom","url":"https://zoom.us/"},
-  {"title":"argoproj/argo: Get stuff done with container-native workflows for Kubernetes.","url":"https://github.com/argoproj/argo"},
-  {"title":"create-react-app","url":"https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md"},
-  {"title":"deepstreamHub | sync persistent high-speed data between any device","url":"https://deepstreamhub.com/"},
-  {"title":"ethergit by Epic Labs","url":"https://www.ethergit.io/"},
-  {"title":"faq - ethtrader","url":"https://www.reddit.com/r/ethtrader/wiki/faq"},
-  {"title":"fission/fission: Fast Serverless Functions for Kubernetes","url":"https://github.com/fission/fission"},
-  {"title":"givecrypto","url":"https://www.givecrypto.org/"},
-  {"title":"heptio/ark: Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.","url":"https://github.com/heptio/ark"},
-  {"title":"https://docs.helm.sh/using_helm/#quickstart-guide","url":"https://docs.helm.sh/using_helm/#quickstart-guide"},
-  {"title":"https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/#storage-backends","url":"https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/#storage-backends"},
-  {"title":"identifi/identifi: Identifi home repository","url":"https://github.com/identifi/identifi"},
-  {"title":"js-ipfs/examples/browser-script-tag at master · ipfs/js-ipfs","url":"https://github.com/ipfs/js-ipfs/tree/master/examples/browser-script-tag"},
-  {"title":"melon","url":"https://ipfs.io/ipns/melon.email/"},
-  {"title":"mhausenblas/reshifter: Kubernetes cluster state management","url":"https://github.com/mhausenblas/reshifter"},
-  {"title":"mingfang (Ming Fang)","url":"https://github.com/mingfang"},
-  {"title":"musicForProgramming","url":"https://musicforprogramming.net/?four"},
-  {"title":"resilience.me - Home","url":"http://www.resilience.me/"},
-  {"title":"roboll/helmfile: Deploy Kubernetes Helm Charts","url":"https://github.com/roboll/helmfile"},
-  {"title":"rook/rook: File, Block, and Object Storage Services for your Cloud-Native Environment","url":"https://github.com/rook/rook"},
-  {"title":"sbilly/awesome-security: A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.","url":"https://github.com/sbilly/awesome-security"},
-  {"url":"http://ceptr.org/"},
-  {"url":"http://docs.sonarqube.org/"},
-  {"url":"http://slither.io/"},
-  {"url":"https://cachethq.io/"},
-  {"url":"https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-Resource-requests-and-limits.html"},
-  {"url":"https://diffuse.sh/"},
-  {"url":"https://docs.google.com/presentation/d/1Juo1RVJdclQNgfavOTpDPXhZjFioYK2wTaHxmRR7ZXo/edit#slide=id.g3babc6e7cf_0_7"},
-  {"url":"https://github.com/apsdehal/awesome-ctf"},
-  {"url":"https://grnh.se/8k44qj0n1"},
-  {"url":"https://holochain.org/"},
-  {"url":"https://kubernetes.github.io/ingress-nginx/user-guide/exposing-tcp-udp-services/"},
-  {"url":"https://luxproject.luxoft.com/jira/browse/MD01-186?filter=-1"},
-  {"url":"https://mobius.network/"},
-  {"url":"https://techcrunch.com/2018/07/06/vitalik-buterin-i-definitely-hope-centralized-exchanges-go-burn-in-hell-as-much-as-possible/"},
-  {"url":"https://tomsegura.com/"},
-  {"url":"https://www.joincircles.net/"},
-  {"url":"https://www.manyver.se/"},
-  {"url":"https://www.boredpanda.com/strange-vintage-food-cooking-recipes/"},
-  {"url":"https://kiali.io/ observability istio service mesh"}
+  {
+    "url": "https://artificialanalysis.ai/leaderboards/providers",
+    "tags": [
+      "ai"
+    ],
+    "description": "Comparison of API provider performance"
+  },
+  {
+    "title": "27 Surreal Places To Visit Before You Die - BuzzFeed",
+    "url": "http://www.buzzfeed.com/ariellecalderon/surreal-places-to-visit-before-you-die?s=mobile",
+    "tags": [
+      "travel",
+      "surreal"
+    ]
+  },
+  {
+    "url": "http://admonymous.co/ anonymous admonitions feedback",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://blogs.valvesoftware.com/economics/why-valve-or-what-do-we-need-corporations-for-and-how-does-valves-management-structure-fit-into-todays-corporate-world/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://doperaider.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://everynoise.com/engenremap.html",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://fortune.com/2018/11/24/asteroid-mining-space-planetary-resources/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://lightbot.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://mastersofblockchain.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://peepsdemocracy.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://swap.liquality.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://wiki.leadwise.co/doku.php?id=agreements",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://www-formal.stanford.edu/jmc/future/index.html",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://www.noblockno.party/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://www.reinventingorganizationswiki.com/Dismissal",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "http://www.thefutureisbeautiful.co/2018/12/13/e43-vinay-gupta-on-blockchain-biotech-and-consciousness-raising-the-floor-of-humanity-through-cultural-activism-and-hard-capitalism/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://academy.datastax.com/resources/ds101-introduction-cassandra?path=administrator",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://airtable.com/shrttIVwldUmtBwYY/tbl6ZFkidzXfTO40z/viwmqVR9L4WZued04",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://alexcabal.com/creating-the-perfect-gpg-keypair",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://anallergytoanalogy.github.io/blockchain-adventure/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://arewedistributedyet.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://arxiv.org/pdf/1811.02881.pdf",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://audius.co/ crypto music",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://awesome.ipfs.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://aws.amazon.com/whitepapers/overview-of-risk-and-compliance/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://beakerbrowser.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://beta.bounties.network/bounty/v1/536",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://beta.catalog.works/ crypto music",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://beta.cent.co/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://beta.zerion.io/add-wallet",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://bitwarden.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://blog.airswap.io/airswap-team-update-apr-5th-2018-d8b51be3f89",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://blog.ethereum.org/2018/12/10/devcon4-videos-and-pictures-released/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://blog.golemproject.net/walking-the-talk-talking-the-walk/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://blog.linuxserver.io/2016/02/02/the-perfect-media-server-2016/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://blog.lolli.com/announcing-safeway/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://blog.makerdao.com/executive-vote-stability-fee-11-5/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://blog.nomics.com/flippening/security-token-documentary/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://blog.timescale.com/analyzing-ethereum-bitcoin-and-1200-cryptocurrencies-using-postgresql-3958b3662e51",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://browser.blockstack.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://bunz.com/ pin 9929",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://caylent.com/50-useful-kubernetes-tools/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://chrome.google.com/webstore/detail/jitsi-meetings/kglhbbefdnlheedjiejgomgmfplipfeb?hl=en-US",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://civil.co/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://civilizationemerging.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://cloud.google.com/knative/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://cloud.google.com/security/overview/whitepaper",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://coincentral.com/ethereum-vs-eos/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://coinmap.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://cointelegraph.com/news/ethereum-hackathon-ethdenver-partners-with-unicef-on-blockchain-bounty-system",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://compound.finance/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://content.breaker.io/?type=movies&id=966d93c03ab342a523c98dc1f8ef90e07677542a3116858abdece53dd09545e3",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://content.pivotal.io/ebooks/getting-started-with-knative",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://coreos.com/blog/introducing-operator-framework",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://crowdvoice.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://cryptofinance.jbuty.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://cryptomapia.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://cvdazzle.com/ fight facial recognition AI",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://daihardhome.wpcomstaging.com/ unkillable crypto fiat gateway like bisq or localethereum",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://dappradar.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://dappradar.com/eos/692/karma",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://darkcrystal.pw/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://datastudio.google.com/u/0/reporting/1LXQfLUBIqofZWjB380-W_sWHl92C3Cbp/page/6zXD",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://deadcoins.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://decryptmedia.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://defipulse.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://democracy.earth/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://destinia.co.uk - pay for flights and hotels with crypto",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://deviating.net/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://discuss.kubernetes.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://docs.google.com/document/d/10qc52rnqHaTFj7uLlftMfSPjqW2Qa7YqKRVVCtb3JHI/edit",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://docs.google.com/document/d/1vuYQz02ET8UNuEKO4Ap4nI_aCNViHmpcVvOkPZGT1Nc/edit#heading=h.vfsmzthktdan",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://docs.google.com/presentation/d/1VY997VIsbLdjePiLh4fAF0t-JKlcMJk4A1oJJ_oNqns/edit#slide=id.g3d4e599995_0_198",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://docs.wixstatic.com/ugd/8246de_248a47ddbd3c4d209667ff5508ee300b.pdf",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://earn.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Freetown_Christiania",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Liberland",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Teal_organisation",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://eth.wiki/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://etherisc.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://ethhub.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://ethicalos.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://ethlend.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://ethresear.ch/t/phase-one-and-done-eth2-as-a-data-availability-engine/5269",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://files.kyber.network/Kyber_Protocol_22_April_v0.1.pdf",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://fission.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://forum.batcommunity.org/t/interested-in-becoming-a-regional-leader-heres-how/36",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://geti2p.net/en/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/CirclesUBI",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/CirclesUBI/docs/blob/master/Circles.md",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/CirclesUBI/infrastructure-provisioning",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/FairwindsOps/polaris FairwindsOps/polaris: Validation of best practices in your Kubernetes clusters",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/L4ventures/awesome-cryptoeconomics",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/ahmetb/kubectx",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/aquasecurity/kube-hunter",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/box/kube-applier kubernetes ci/cd gitops",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/controlplaneio/netassert",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/coreos/prometheus-operator",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/coreos/prometheus-operator/blob/master/helm/kube-prometheus/README.md",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/cristim/autospotting",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/devsecops/awesome-devsecops",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/eldada/jenkins-pipeline-kubernetes/blob/master/Jenkinsfile example pipeline that implement full CI/CD for a simple static web site packed in a Docker image",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/ethereum/wiki",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/fabric8io/gitcontroller",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/freach/kubernetes-security-best-practice/blob/master/README.md",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/gravitational/teleport",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/hjacobs/kubernetes-failure-stories",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/iancoleman/bip39",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/ipfs-shipyard/discussify-browser-extension",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/ipfs-shipyard/ipfs-companion",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/kausalco/public/tree/master/prometheus-ksonnet",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/knative",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/kubernetes-incubator/descheduler",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/kubernetes-monitoring/kubernetes-mixin",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/kubernetes-sigs/kubespray/tree/master/contrib/terraform/aws",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/kubernetes/ingress-nginx/tree/master/docs/examples/auth/oauth-external-auth",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/ong/awesome-decentralized-finance",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/pandonetwork/pando",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/riptano/ccm",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/roboll/helmfile",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/roboll/helmfile",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/rook/rook/issues/1488#issuecomment-405796752",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/snario/awesome-cryptoeconomics",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/stefanprodan",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/tomeshnet/ipfs-live-streaming",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/valer-cara/mgo",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/wal-e/wal-e",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/weaveworks/flagger",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/weaveworks/flux/blob/master/site/fluxctl.md",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://github.com/zalando-incubator/postgres-operator",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://goodmoney.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://halasystems.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://handshake.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://heighliner.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://hub.docker.com/r/ncarlier/webhookd/ trigger scripts to run by sending a request to a specific URL",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://iknowwhatyoudownload.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://inteltechniques.com/data/workbook.pdf",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://ipfswap.com",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://istio.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://itnext.io/protect-kubernetes-dashboard-with-openid-connect-104b9e75e39c",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://jenkins-x.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://jenkinsci.github.io/job-dsl-plugin/#method/javaposse.jobdsl.dsl.helpers.publisher.PublisherContext.sonar",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://jpkoning.blogspot.com/2019/05/revisiting-stablecoins.html",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://khalilstemmler.com/articles/solid-principles/solid-typescript/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://kinzen.com/ - waiting for them to launch an Android app...",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://ksonnet.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://kubeapps.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://kubernetes.io/blog/2018/07/10/coredns-ga-for-kubernetes-cluster-dns/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://kubespray.io/#/?id=tools-and-projects-on-top-of-kubespray",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://l2beat.com/?view=risk",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://l2fees.info/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://landstream.atlassian.net/secure/Dashboard.jspa",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://litepaper.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://lobste.rs/recent",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2018/09/liberal-radicalism-mechanism-producing-public-goods.html",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://martinfowler.com/articles/feature-toggles.html",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://media.consensys.net/40-ethereum-apps-you-can-use-right-now-d643333769f7?_hsenc=p2ANqtz---UaMXr2ZW9Lc6aIyGrQzvDEqWqunHutdS83BdrL62THAqBsUHhNhDP40TDbkk8LANb5P-nj5EuVTx_1qAb09sLbILlw&_hsmi=68571040",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://media.consensys.net/a-warm-welcome-to-web3-89d49e61a7c5",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://media.consensys.net/how-i-fell-out-of-love-with-the-internet-1a8d3f9dc0c3",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://media.consensys.net/the-11-best-sources-for-ethereum-news-and-learning-783ef4803ab0",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/3box/3box-js-7-use-cases-for-social-dapps-e6263787ba44",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/@gmaliar/dynamic-secrets-on-kubernetes-pods-using-vault-35d9094d169",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/@hellhound_eth/privacy-by-design-for-all-dapps-now-7f792b88dae3",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/@int128/kubectl-with-openid-connect-43120b451672",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/@johndstorey/damanhur-my-experience-796c254c2661",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/@maiavictor/updates-on-ethereums-moon-project-535f8c0497ef?source=linkShare-9cdd320de5c9-1535724575",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/@mrbobbytables/kubernetes-day-2-operations-authn-authz-with-oidc-and-a-little-help-from-keycloak-de4ea1bdbbe",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/alpineintel/on-abstraction-and-risk-e981e06830f3",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/consensys-diligence/all-ethereum-security-tools-built-by-consensys-diligence-dd918248f978",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/design-voices/corporate-culture-and-the-games-ais-play-ad246290ce68",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/getamis/elastikube-self-hosted-and-highly-configurable-kubernetes-building-blocks-97cd7afccef",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/spankchain/we-got-spanked-what-we-know-so-far-d5ed3a0f38fe",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/swlh/the-silent-meeting-manifesto-v1-189e9e3487eb",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/textileio/this-single-page-web-app-can-edit-itself-62734dac2700",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://medium.com/uport/leading-the-way-to-a-better-ux-for-decentralized-identity-f3edcf8f959b",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://messari.io/ crypto news research",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://metamask.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://moox.io/blog/keep-in-sync-git-repos-on-github-gitlab-bitbucket/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://mrcoles.com/full-page-screen-capture-chrome-extension/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://neocities.org/ (in Portland?!?)",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://nordicapis.com/stemming-the-flood-how-to-rate-limit-an-api/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://onezero.medium.com/landlord-2-0-techs-new-rentier-capitalism-a0bfe491b463",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://open.edx.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://ournetworks.ca/conference/recorded-talks/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://pages.consensys.net/build-on-ethereum-with-consensys?hs_preview=DGPMWWkx-8027881007",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://paywithmoon.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://pegasusprojectpdx.com (not on google maps, but go check them out)",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://poolside.fm/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://portlanddsa.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://prism-break.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://radio.garden/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://retroshare.cc/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://rollingjubilee.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://rook.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://ruben.verborgh.org/blog/2017/12/20/paradigm-shifts-for-the-decentralized-web/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://scratch.mit.edu/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://secushare.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://silentcicero.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://silentcicero.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/ Pro-Tips for Ethereum Wallet Management",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://slatestarcodex.com/2014/07/30/meditations-on-moloch/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://solid.mit.edu/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://spark.adobe.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://star.vote/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://steemit.com/tauchain/@rok-sivante/tauchain-101-essential-reading-on-one-of-the-most-revolutionary-blockchain-project-under-the-radar",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://steveperkins.com/migrating-projects-from-github-to-gitlab/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://swaps.ramp.network/ fiat to crypto!!!",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://techcrunch.com/2018/05/13/the-crypto-alternative/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://thebkp.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://thegoodwellcompany.com/products/be",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://tokeneconomy.co/liquid-airdrops-6df03114e172",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://tokeneconomy.co/validator-economics-of-ethereum-2-0-part-2-the-ether-vacuum-418f1b32c99e",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://tokeneconomy.co/validator-economics-of-ethereum-2-0-part-one-bc188173cdca",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://trustmachinefilm.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://twitter.com/AlethioEthstats/status/1130507179063205888",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://twitter.com/VitalikButerin/status/1029900695925706753",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://unbounce.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://unchainedpodcast.com/how-blockchains-can-help-create-little-democracies-everywhere/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://universallogin.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://voatz.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://whisp.money/ global payroll with crypto",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://wiki.parity.io/Docker#more-options",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.bittorrent.com/btt/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.bloomberg.com/view/articles/2018-09-26/abacus-cdo-bites-goldman-back",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.businessinnovationfactory.com/video/ben-siegel-connecting-our-future-through-blockchain/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.caringbridge.org/visit/johnjrobinson/planner",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.coindesk.com/the-crypto-winter-is-here-and-we-only-have-ourselves-to-blame",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.coindesk.com/understanding-the-radicalxchange-movement-and-its-cypherpunk-appeal",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.diviproject.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.dropbox.com/s/58ddnhyp0nlpm3o/cofi-no-signup.mp4?dl=0",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.dropbox.com/sh/970yvkfm1pv3bcf/AAAKTaDNQvt23isIK04GvN3ga?dl=0&preview=cofi-abridged.mp4",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.ec2instances.info/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.fitzii.com/go/changing-colors-helping-new-employees-go-teal/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.humanitydao.org/ sybil attack resistance",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/torrent-website-download-safe-legal-privacy-i-know-what-you-friends-spying-a7504266.html",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.johnorionyoung.com/index.html",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.kiali.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.lesswrong.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.lolli.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.nationalgeographic.com/tv/valley-of-the-boom/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.nytimes.com/2018/12/12/technology/tech-friction-frictionless.html?emc=edit_th_181213&nl=todaysheadlines&nlid=463278541213",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.openfaas.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.owasp.org/index.php/OWASP_Testing_Project",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.owasp.org/index.php/Threat_Risk_Modeling",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.owasp.org/index.php/Web_Application_Security_Testing_Cheat_Sheet",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.polygon.com/features/2018/10/10/17952674/the-12-best-indie-metroidvania-games",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.reddit.com/r/ethereum/comments/bue6q4/the_dxdao_is_a_large_experiment_in_onchain/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.resistancecalendar.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.root-me.org/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.runatlantis.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.sandiego.org/articles/tours-sightseeing/exploring-san-diegos-charismatic-neighborhoods.aspx",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.scuttlebutt.nz/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.sendwyre.com/ API to turn USD into ETH via ACH",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.sendwyre.com/ ach crypto",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.shodan.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.slideshare.net/DCGCo/how-to-not-be-a-shitcoin-what-ive-learned-about-markets-psychology-and-value-creation",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.slideshare.net/Diacode/cicd-with-kubernetes-helm-wercker-madscalability",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.smh.com.au/business/companies/cryptocurrency-behind-great-keppel-island-s-300-million-resurrection-20180903-p501ip.html?crpt=homepage",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.spinnaker.io/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.ssllabs.com/ssltest/analyze.html?d=www.balanc3.net&s=107.23.47.41&latest",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.stitcher.com/podcast/radio-gag-gays-against-guns/e/59660494?autoplay=true 11:00",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.tcr.party/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.timeanddate.com/worldclock/meetingtime.html?iso=20180806&p1=202&p2=159&p3=4826&p4=367&p5=44",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.tokendaily.co/blog/a-taxonomy-of-stablecoins",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.totle.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.upfiring.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.vessel.us/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.voterfied.com/voters/voter-welcome.html",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.vulnhub.com/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.weave.works/docs/net/latest/tasks/manage/security-untrusted-networks/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.weave.works/technologies/gitops/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.websocket.org/echo.html",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.with.in/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.wolfe.id.au/2017/11/05/aws-user-federation-with-keycloak/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.wolfe.id.au/2017/11/05/aws-user-federation-with-keycloak/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.wweek.com/bars/2018/09/05/portlands-first-bar-dedicated-to-esports-is-opening-next-month/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.yangdao.org/about",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://www.ynharari.com/book/sapiens/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://youtu.be/W-3W-s_Yw-8",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://youtu.be/cip3eNm2PU4",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://zoom.us/",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "inreallife.io (relationship quiz app written by Parker Place and Jon Sanders)",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "settle.finance",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "totem.network",
+    "tags": [
+      ""
+    ]
+  },
+  {
+    "url": "https://andersbrownworth.com/blockchain/blockchain",
+    "tags": [
+      "blockchain"
+    ]
+  },
+  {
+    "url": "https://txstreet.com/",
+    "tags": [
+      "blockchain"
+    ]
+  },
+  {
+    "url": "https://3boxlabs.com/",
+    "tags": [
+      "blockchain",
+      "decentralized identity"
+    ]
+  },
+  {
+    "url": "https://trofisecurity.com/assets/img/iso27001-2013.pdf",
+    "tags": [
+      "compliance"
+    ]
+  },
+  {
+    "url": "https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/serviceorganization-smanagement.html",
+    "tags": [
+      "compliance"
+    ]
+  },
+  {
+    "url": "https://www.pcisecuritystandards.org/documents/SAQ-InstrGuidelines-v3_2.pdf",
+    "tags": [
+      "compliance"
+    ]
+  },
+  {
+    "url": "https://thedecider.app/",
+    "tags": [
+      "decide"
+    ]
+  },
+  {
+    "url": "https://whatconsumesme.com/2018/04/13/how-do-we-decide/",
+    "tags": [
+      "decide"
+    ]
+  },
+  {
+    "url": "https://www.loomio.org/",
+    "tags": [
+      "decide"
+    ]
+  },
+  {
+    "url": "https://longhorn.io/",
+    "tags": [
+      "kubernetes"
+    ]
+  },
+  {
+    "url": "https://althea.net/",
+    "tags": [
+      "meshnet"
+    ]
+  },
+  {
+    "url": "https://www.battlemesh.org/",
+    "tags": [
+      "meshnet"
+    ]
+  },
+  {
+    "url": "https://www.open-mesh.org/projects/open-mesh/wiki",
+    "tags": [
+      "meshnet"
+    ]
+  },
+  {
+    "url": "https://www.vice.com/en_us/article/paj8z8/a-diy-internet-network-has-drastically-expanded-its-coverage-in-nyc",
+    "tags": [
+      "meshnet"
+    ]
+  },
+  {
+    "url": "https://www.adsrsounds.com/",
+    "tags": [
+      "music"
+    ]
+  },
+  {
+    "url": "https://github.com/zricethezav/gitleaks",
+    "tags": [
+      "security"
+    ]
+  },
+  {
+    "title": "Aggro Gator: View and comment on images submitted by users. Image 170277",
+    "url": "http://aggro-gator.com/"
+  },
+  {
+    "title": "Amberdata - transactions",
+    "url": "https://amberdata.io/dashboards/transactions?size=10"
+  },
+  {
+    "title": "An Overview of JavaScript Testing in 2018 - welldone-software - Medium",
+    "url": "https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3"
+  },
+  {
+    "title": "Apache Guacamole™",
+    "url": "http://guacamole.apache.org/"
+  },
+  {
+    "title": "Artopia - Paint the World",
+    "url": "https://paintwithartopia.com/"
+  },
+  {
+    "title": "Asgardia - The Space Nation",
+    "url": "https://asgardia.space/en/word"
+  },
+  {
+    "title": "Automating Amazon EBS Snapshot Management with AWS Step Functions and Amazon CloudWatch Events | AWS Compute Blog",
+    "url": "https://aws.amazon.com/blogs/compute/automating-amazon-ebs-snapshot-management-with-aws-step-functions-and-amazon-cloudwatch-events/"
+  },
+  {
+    "title": "Awesome products designed by independent artists | Redbubble",
+    "url": "https://www.redbubble.com/"
+  },
+  {
+    "title": "BLENDO Games",
+    "url": "http://blendogames.com/"
+  },
+  {
+    "title": "Bit-Nation/Pangea-Docs: Get started with BITNATION and the Pangea Jurisdiction!",
+    "url": "https://github.com/Bit-Nation/Pangea-Docs"
+  },
+  {
+    "title": "BitMarkets",
+    "url": "https://voluntary.net/bitmarkets/"
+  },
+  {
+    "title": "Bitnation, Liberland, Puertopia and Other Micronations Are Gaining Independence via Crypto, but Crypto Alone May Not Be Enough",
+    "url": "https://cointelegraph.com/news/bitnation-liberland-puertopia-and-other-micronations-are-gaining-independence-via-crypto-but-crypto-alone-may-not-be-enough"
+  },
+  {
+    "title": "Blockchain Demo",
+    "url": "https://anders.com/blockchain/"
+  },
+  {
+    "title": "Blockstack, building the decentralized internet",
+    "url": "https://blockstack.org/"
+  },
+  {
+    "title": "Brewster Kahle's Blog",
+    "url": "http://brewster.kahle.org/"
+  },
+  {
+    "title": "CSS Reference - A free visual guide to CSS",
+    "url": "http://cssreference.io/"
+  },
+  {
+    "title": "Calling Bullshit",
+    "url": "http://callingbullshit.org/"
+  },
+  {
+    "title": "Classic Pico de Gallo Recipe | Serious Eats",
+    "url": "https://www.seriouseats.com/recipes/2013/06/classic-pico-de-gallo-salsa-fresca-recipe.html"
+  },
+  {
+    "title": "Cloud Native Landscape",
+    "url": "https://landscape.cncf.io/"
+  },
+  {
+    "title": "Coinomi - Fintech's Finest Security-First Multi-Asset Wallet for Bitcoin, Ethereum, Altcoins and Tokens",
+    "url": "https://coinomi.com/"
+  },
+  {
+    "title": "Concerning AI - Is there an existential risk to humanity from AI? If so, what do we do about it?",
+    "url": "https://concerning.ai/"
+  },
+  {
+    "title": "Concur",
+    "url": "https://www.concursolutions.com/"
+  },
+  {
+    "title": "CryptoBridge - Decentralized Cryptocurrency Exchange",
+    "url": "https://crypto-bridge.org/"
+  },
+  {
+    "title": "CryptoCurrency Market Capitalizations",
+    "url": "https://coinmarketcap.com/"
+  },
+  {
+    "title": "Decentralized picture hosting in ipfs",
+    "url": "https://ipfs.pics/"
+  },
+  {
+    "title": "Declarative application management in Kubernetes - Google Docs",
+    "url": "https://docs.google.com/document/d/1cLPGweVEYrVqQvBLJg6sxV-TrE5Rm2MNOBA_cxZP2WU/edit"
+  },
+  {
+    "title": "DemocracyOS - Change the Tool",
+    "url": "http://democracyos.org/"
+  },
+  {
+    "title": "Dock: Own & Control Your Personal Data",
+    "url": "https://dock.io/"
+  },
+  {
+    "title": "Downloads - SAFE Network",
+    "url": "https://safenetwork.org/downloads/#safe-launcher"
+  },
+  {
+    "title": "ETH to USD GDAX",
+    "url": "https://www.gdax.com/trade/ETH-USD"
+  },
+  {
+    "title": "Envisioning the Cellarius V1 Facility, Part 1 - Genesis Thought - Medium",
+    "url": "https://medium.com/genesis-thought/envisioning-the-cellarius-v1-facility-part-1-417793b3f998"
+  },
+  {
+    "title": "Esther Perel",
+    "url": "https://www.estherperel.com/podcast"
+  },
+  {
+    "title": "Ethereum Developers Conference (Devcon3)",
+    "url": "https://ethereumfoundation.org/devcon3/"
+  },
+  {
+    "title": "Ethereum ETH to Bitcoin BTC instant exchange - Changelly.com",
+    "url": "https://changelly.com/"
+  },
+  {
+    "title": "Ethical Theory and Moral Practice - Springer",
+    "url": "https://link.springer.com/journal/10677"
+  },
+  {
+    "title": "Evans Tucker / evanstucker.com · GitLab",
+    "url": "https://gitlab.com/evanstucker/evanstucker.com"
+  },
+  {
+    "title": "FOAM • The Future of Proof of Location",
+    "url": "https://www.foam.space/"
+  },
+  {
+    "title": "Flyp.me - The instant crypto exchange, private and secure",
+    "url": "https://flyp.me/"
+  },
+  {
+    "title": "Food is Free: Growing Food & Community in the Front Yard!",
+    "url": "http://foodisfreeproject.org/"
+  },
+  {
+    "title": "Freeing Myself from Facebook",
+    "url": "https://cleverdevil.io/2018/freeing-myself-from-facebook"
+  },
+  {
+    "title": "Georgism - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Georgism"
+  },
+  {
+    "title": "GitHub - plexinc/pms-docker: Plex Media Server Docker repo, for all your PMS docker needs.",
+    "url": "https://github.com/plexinc/pms-docker"
+  },
+  {
+    "title": "GitHub - soulfx/gmusic-playlist.js: a javascript version of gmusic-playlist",
+    "url": "https://github.com/soulfx/gmusic-playlist.js"
+  },
+  {
+    "title": "Giveth",
+    "url": "https://giveth.io/"
+  },
+  {
+    "title": "Golem",
+    "url": "https://golem.network/"
+  },
+  {
+    "title": "Google - Site Reliability Engineering",
+    "url": "https://landing.google.com/sre/book/chapters/introduction.html"
+  },
+  {
+    "title": "Grid+",
+    "url": "https://gridplus.io/"
+  },
+  {
+    "title": "Grilled Skirt Steak Fajitas Recipe | Serious Eats",
+    "url": "https://www.seriouseats.com/recipes/2013/06/grilled-skirt-steak-fajitas-food-lab-recipe.html"
+  },
+  {
+    "title": "Groovy Language Documentation",
+    "url": "http://docs.groovy-lang.org/latest/html/documentation/index.html"
+  },
+  {
+    "title": "Grow Open Source | Gitcoin",
+    "url": "https://gitcoin.co/"
+  },
+  {
+    "title": "Guerrilla Development",
+    "url": "http://guerrilladev.co/"
+  },
+  {
+    "title": "Home - Taiga",
+    "url": "https://tree.taiga.io/"
+  },
+  {
+    "title": "Home Page - Cloud Native Computing Foundation",
+    "url": "https://www.cncf.io/"
+  },
+  {
+    "title": "Home | Ceptr",
+    "url": "http://ceptr.org/"
+  },
+  {
+    "title": "Home | Matrix.org",
+    "url": "https://matrix.org/blog/home/"
+  },
+  {
+    "title": "How Would a Billion Immigrants Change the American Polity? | Open Borders: The Case",
+    "url": "https://openborders.info/blog/billion-immigrants-change-american-polity/"
+  },
+  {
+    "title": "How to get your private keys from the PIVX android mobile wallet and to restore it in the PIVX PC Wallet : Pivx",
+    "url": "https://pivx.freshdesk.com/support/solutions/articles/30000025585-how-to-get-your-private-keys-from-the-pivx-android-mobile-wallet-and-to-restore-it-in-the-pivx-pc-wal"
+  },
+  {
+    "title": "How to make a difference with your career - 80,000 Hours",
+    "url": "https://80000hours.org/"
+  },
+  {
+    "title": "IOTA - Next Generation Blockchain",
+    "url": "https://iota.org/"
+  },
+  {
+    "title": "IPFS is the Distributed Web",
+    "url": "https://ipfs.io/"
+  },
+  {
+    "title": "ISO 4217 - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/ISO_4217"
+  },
+  {
+    "title": "Icarus Proudbottom Teaches Typing!",
+    "url": "http://www.holywowstudios.com/teachestyping/"
+  },
+  {
+    "title": "InVision",
+    "url": "https://projects.invisionapp.com/d/main#/projects"
+  },
+  {
+    "title": "IndieWeb",
+    "url": "https://indieweb.org/"
+  },
+  {
+    "title": "Initializing Amazon EBS Volumes - Amazon Elastic Compute Cloud",
+    "url": "https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-initialize.html"
+  },
+  {
+    "title": "Internet Archive Blogs | A blog from the team at archive.org",
+    "url": "http://blog.archive.org/"
+  },
+  {
+    "title": "Internet Archive: Digital Library of Free Books, Movies, Music & Wayback Machine",
+    "url": "https://archive.org/"
+  },
+  {
+    "title": "Introduction · A Beginner's Guide to Ethereum and Dapp Development",
+    "url": "https://sunnya97.gitbooks.io/a-beginner-s-guide-to-ethereum-and-dapp-developme/content/"
+  },
+  {
+    "title": "Introduction · Blockchain Basics",
+    "url": "https://consensys.gitbooks.io/blockchain-in-business/content/"
+  },
+  {
+    "title": "Jenkins-as-Code: Creating Jenkins jobs with text, not clicks - marcesher.com",
+    "url": "https://marcesher.com/2016/06/08/jenkins-as-code-creating-jenkins-jobs-with-text-not-clicks/"
+  },
+  {
+    "title": "Jolly Roger Telephone Company, saving the world from bad telemarketing",
+    "url": "http://www.jollyrogertelco.com/"
+  },
+  {
+    "title": "Justworks",
+    "url": "https://secure.justworks.com/"
+  },
+  {
+    "title": "Keybase",
+    "url": "https://keybase.io/"
+  },
+  {
+    "title": "Kialo - Empowering Reason",
+    "url": "https://www.kialo.com/"
+  },
+  {
+    "title": "KubeApps Hub: Discover & launch great Kubernetes-ready apps | KubeApps Hub",
+    "url": "https://hub.kubeapps.com/"
+  },
+  {
+    "title": "Kubernetes Gardener",
+    "url": "https://gardener.cloud/"
+  },
+  {
+    "title": "Kubernetes Operators",
+    "url": "https://blog.couchbase.com/kubernetes-operators-game-changer/"
+  },
+  {
+    "title": "LinuxServer.io",
+    "url": "https://www.linuxserver.io/"
+  },
+  {
+    "title": "MESH TV",
+    "url": "http://meshtv.net/#"
+  },
+  {
+    "title": "Mattermost Private Cloud Messaging",
+    "url": "https://about.mattermost.com/"
+  },
+  {
+    "title": "Monoprice",
+    "url": "https://www.monoprice.com/"
+  },
+  {
+    "title": "Music | Cardiacs",
+    "url": "https://alphabet-business-concern.bandcamp.com/"
+  },
+  {
+    "title": "NGINX Ingress Controller",
+    "url": "https://kubernetes.github.io/ingress-nginx/"
+  },
+  {
+    "title": "New Relic",
+    "url": "https://rpm.newrelic.com/accounts/1994724/setup"
+  },
+  {
+    "title": "NuoDB",
+    "url": "https://www.nuodb.com/"
+  },
+  {
+    "title": "Nussoft",
+    "url": "http://www.neoaq.net/"
+  },
+  {
+    "title": "Octopus Deploy",
+    "url": "https://octopus.com/"
+  },
+  {
+    "title": "Open Sourcing Coinbase's Secure Deployment Pipeline",
+    "url": "https://engineering.coinbase.com/open-sourcing-coinbases-secure-deployment-pipeline-ae6c78e25517"
+  },
+  {
+    "title": "PIVX Places | Explore PIVX Places Near You!",
+    "url": "http://pivxplaces.com/"
+  },
+  {
+    "title": "POSSE - IndieWeb",
+    "url": "https://indieweb.org/POSSE"
+  },
+  {
+    "title": "Pangea development update 03 - August 2017 - Steemit",
+    "url": "https://steemit.com/bitnation/@bitnation/pangea-development-update-03-august-2017"
+  },
+  {
+    "title": "Persona",
+    "url": "https://persona.im/"
+  },
+  {
+    "title": "Portland Food Project",
+    "url": "http://portlandfoodproject.org/donor-signup-form.php"
+  },
+  {
+    "title": "Principles of Chaos Engineering",
+    "url": "http://principlesofchaos.org/"
+  },
+  {
+    "title": "Radar Relay",
+    "url": "https://radarrelay.com/"
+  },
+  {
+    "title": "Republic Protocol",
+    "url": "https://republicprotocol.com/"
+  },
+  {
+    "title": "Resistance Manual",
+    "url": "https://www.resistancemanual.org/Resistance_Manual_Home"
+  },
+  {
+    "title": "Riot - Riot - open team collaboration",
+    "url": "https://about.riot.im/"
+  },
+  {
+    "title": "Robinhood adds zero-fee cryptocurrency trading and tracking - TechCrunch",
+    "url": "https://www.google.com/amp/s/techcrunch.com/2018/01/25/free-cryptocurrency-trading-app/amp/"
+  },
+  {
+    "title": "Rook.io",
+    "url": "https://rook.io/"
+  },
+  {
+    "title": "S1 (synth)",
+    "url": "http://s1portland.com/"
+  },
+  {
+    "title": "Sandstorm",
+    "url": "https://sandstorm.io/"
+  },
+  {
+    "title": "Sentry | Error Tracking Software - JavaScript, Python, PHP, Ruby, more",
+    "url": "https://sentry.io/welcome/"
+  },
+  {
+    "title": "Sobol (formerly TMNT)",
+    "url": "https://sobol.io/"
+  },
+  {
+    "title": "Spinnaker",
+    "url": "https://www.spinnaker.io/"
+  },
+  {
+    "title": "State of Decentralized Exchanges, 2018 - ConsenSys Media",
+    "url": "https://media.consensys.net/state-of-decentralized-exchanges-2018-276dad340c79"
+  },
+  {
+    "title": "TOP 40+ BITCOIN EXCHANGE LIST: Best Sites to Buy & Sell",
+    "url": "https://www.bestbitcoinexchange.io/"
+  },
+  {
+    "title": "The Blockchain Man",
+    "url": "https://www.ribbonfarm.com/2017/10/10/the-blockchain-man/"
+  },
+  {
+    "title": "The Bounties Network",
+    "url": "https://bounties.network/"
+  },
+  {
+    "title": "The Gauntlet - Seidr - Ginnungagap (full album) mp3",
+    "url": "http://www.thegauntlet.com/music/259/Seidr-Ginnungagap-full-album"
+  },
+  {
+    "title": "The Wirecutter",
+    "url": "http://thewirecutter.com/"
+  },
+  {
+    "title": "The ecological impact of compute",
+    "url": "https://www.hashicorp.com/resources/ecological-impact-compute"
+  },
+  {
+    "title": "The top four Internet Relay Chat clients | Opensource.com",
+    "url": "https://opensource.com/life/15/11/top-open-source-irc-clients"
+  },
+  {
+    "title": "Tiny Desk : NPR",
+    "url": "https://www.npr.org/series/tiny-desk-concerts/"
+  },
+  {
+    "title": "U.S. Coast Guard Navigation Center",
+    "url": "http://www.navcen.uscg.gov/?pageName=navRulesContent"
+  },
+  {
+    "title": "United ★ Liquid Democracy for America",
+    "url": "https://united.vote/"
+  },
+  {
+    "title": "UserBenchmark: 861 Solid State Drives Ranked",
+    "url": "http://ssd.userbenchmark.com/Comparison"
+  },
+  {
+    "title": "Using Nexus 3 as Your Repository - Part 2: npm Packages",
+    "url": "https://blog.sonatype.com/using-nexus-3-as-your-repository-part-2-npm-packages"
+  },
+  {
+    "title": "VCS Repository Structure - Workspaces - Terraform Enterprise - Terraform by HashiCorp",
+    "url": "https://www.terraform.io/docs/enterprise/workspaces/repo-structure.html"
+  },
+  {
+    "title": "Veggie Fajitas - Plant-Based Vegan Recipe",
+    "url": "https://www.forksoverknives.com/recipes/veggie-fajitas/"
+  },
+  {
+    "title": "Web Font Optimization | Web | Google Developers",
+    "url": "https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization"
+  },
+  {
+    "title": "Web Search for a Planet: The Google Cluster Architecture",
+    "url": "https://research.google.com/pubs/pub49.html"
+  },
+  {
+    "title": "Welcome to Open Library | Open Library",
+    "url": "https://openlibrary.org/"
+  },
+  {
+    "title": "What !? - basicincome.co",
+    "url": "http://www.basicincome.co/what.html"
+  },
+  {
+    "title": "Wondermark » Archive » #1257; No Fêtes but What We Make",
+    "url": "http://wondermark.com/c1257/"
+  },
+  {
+    "title": "XML to Job DSL",
+    "url": "https://wiki.jenkins.io/display/JENKINS/XML+Job+to+Job+DSL"
+  },
+  {
+    "title": "Xi (letter) - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Xi_(letter)"
+  },
+  {
+    "title": "YSlow - Official Open Source Project Website",
+    "url": "http://yslow.org/"
+  },
+  {
+    "title": "Your first Dapp | Dapps for Beginners",
+    "url": "https://dappsforbeginners.wordpress.com/tutorials/your-first-dapp/"
+  },
+  {
+    "title": "ZeppelinOS",
+    "url": "https://zeppelinos.org/"
+  },
+  {
+    "title": "ZeroNet: Decentralized websites using Bitcoin crypto and the BitTorrent network",
+    "url": "https://zeronet.io/"
+  },
+  {
+    "title": "Zoom",
+    "url": "https://zoom.us/"
+  },
+  {
+    "title": "argoproj/argo: Get stuff done with container-native workflows for Kubernetes.",
+    "url": "https://github.com/argoproj/argo"
+  },
+  {
+    "title": "create-react-app",
+    "url": "https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md"
+  },
+  {
+    "title": "deepstreamHub | sync persistent high-speed data between any device",
+    "url": "https://deepstreamhub.com/"
+  },
+  {
+    "title": "ethergit by Epic Labs",
+    "url": "https://www.ethergit.io/"
+  },
+  {
+    "title": "faq - ethtrader",
+    "url": "https://www.reddit.com/r/ethtrader/wiki/faq"
+  },
+  {
+    "title": "fission/fission: Fast Serverless Functions for Kubernetes",
+    "url": "https://github.com/fission/fission"
+  },
+  {
+    "title": "givecrypto",
+    "url": "https://www.givecrypto.org/"
+  },
+  {
+    "title": "heptio/ark: Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.",
+    "url": "https://github.com/heptio/ark"
+  },
+  {
+    "title": "https://docs.helm.sh/using_helm/#quickstart-guide",
+    "url": "https://docs.helm.sh/using_helm/#quickstart-guide"
+  },
+  {
+    "title": "https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/#storage-backends",
+    "url": "https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/#storage-backends"
+  },
+  {
+    "title": "identifi/identifi: Identifi home repository",
+    "url": "https://github.com/identifi/identifi"
+  },
+  {
+    "title": "js-ipfs/examples/browser-script-tag at master · ipfs/js-ipfs",
+    "url": "https://github.com/ipfs/js-ipfs/tree/master/examples/browser-script-tag"
+  },
+  {
+    "title": "melon",
+    "url": "https://ipfs.io/ipns/melon.email/"
+  },
+  {
+    "title": "mhausenblas/reshifter: Kubernetes cluster state management",
+    "url": "https://github.com/mhausenblas/reshifter"
+  },
+  {
+    "title": "mingfang (Ming Fang)",
+    "url": "https://github.com/mingfang"
+  },
+  {
+    "title": "musicForProgramming",
+    "url": "https://musicforprogramming.net/?four"
+  },
+  {
+    "title": "resilience.me - Home",
+    "url": "http://www.resilience.me/"
+  },
+  {
+    "title": "roboll/helmfile: Deploy Kubernetes Helm Charts",
+    "url": "https://github.com/roboll/helmfile"
+  },
+  {
+    "title": "rook/rook: File, Block, and Object Storage Services for your Cloud-Native Environment",
+    "url": "https://github.com/rook/rook"
+  },
+  {
+    "title": "sbilly/awesome-security: A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+    "url": "https://github.com/sbilly/awesome-security"
+  },
+  {
+    "url": "http://ceptr.org/"
+  },
+  {
+    "url": "http://docs.sonarqube.org/"
+  },
+  {
+    "url": "http://slither.io/"
+  },
+  {
+    "url": "https://cachethq.io/"
+  },
+  {
+    "url": "https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-Resource-requests-and-limits.html"
+  },
+  {
+    "url": "https://diffuse.sh/"
+  },
+  {
+    "url": "https://docs.google.com/presentation/d/1Juo1RVJdclQNgfavOTpDPXhZjFioYK2wTaHxmRR7ZXo/edit#slide=id.g3babc6e7cf_0_7"
+  },
+  {
+    "url": "https://github.com/apsdehal/awesome-ctf"
+  },
+  {
+    "url": "https://github.com/webkom/vote"
+  },
+  {
+    "url": "https://grnh.se/8k44qj0n1"
+  },
+  {
+    "url": "https://holochain.org/"
+  },
+  {
+    "url": "https://kiali.io/ observability istio service mesh"
+  },
+  {
+    "url": "https://kubernetes.github.io/ingress-nginx/user-guide/exposing-tcp-udp-services/"
+  },
+  {
+    "url": "https://luxproject.luxoft.com/jira/browse/MD01-186?filter=-1"
+  },
+  {
+    "url": "https://mobius.network/"
+  },
+  {
+    "url": "https://paywithz.cash/"
+  },
+  {
+    "url": "https://techcrunch.com/2018/07/06/vitalik-buterin-i-definitely-hope-centralized-exchanges-go-burn-in-hell-as-much-as-possible/"
+  },
+  {
+    "url": "https://tomsegura.com/"
+  },
+  {
+    "url": "https://www.boredpanda.com/strange-vintage-food-cooking-recipes/"
+  },
+  {
+    "url": "https://www.joincircles.net/"
+  },
+  {
+    "url": "https://www.manyver.se/"
+  },
+  {
+    "url": "https://www.sdkc.org/where-to-kayak/"
+  }
 ]
