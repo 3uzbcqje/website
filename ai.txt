@@ -1,0 +1,34 @@
+#TODO: vulkan isn't work? install regular ollama instead
+
+Install ollama-vulkan opencode-bin
+
+sudo systemctl edit ollama.service
+
+Based on:
+https://docs.ollama.com/faq#setting-environment-variables-on-linux
+https://docs.ollama.com/gpu#vulkan-gpu-support
+Add this:
+```
+[Service]
+Environment="OLLAMA_VULKAN=1"
+```
+
+sudo systemctl enable ollama.service
+
+sudo systemctl start ollama.service
+
+ollama pull glm-4.7-flash:q4_K_M
+
+ollama run glm-4.7-flash:q4_K_M
+/set parameter num_ctx 32768
+/save glm-4.7-flash:q4_K_M-32k
+
+Create opencode config for local ollama:
+https://opencode.ai/docs/providers/#ollama
+https://docs.ollama.com/integrations/opencode#manual-setup
+For example:
+```
+```
+
+Open opencode and switch the provider to Ollama (Local). Press Esc when it asks for an API key.
+Select your model.
