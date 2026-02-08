@@ -1,0 +1,58 @@
+As a lazy, lazy person, I don't like to bother with Terraform versions like this:
+
+terraform {
+  required_version = ">= 1.0.0"
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+      version = ">= 4.47"
+    }
+    cloudflare = {
+      source = "cloudflare/cloudflare"
+      version = "~> 4"
+    }
+  }
+}
+
+I prefer to rip required_version and version lines out completely, add a tflint.hcl like this:
+
+rule "terraform_module_version" {
+  enabled = false
+}
+rule "terraform_required_providers" {
+  enabled = false
+}
+rule "terraform_required_version" {
+  enabled = false
+}
+
+And then do something like this:
+
+terraform {
+  required_providers {
+    aws = {
+      source  = "hashicorp/aws"
+    }
+    cloudflare = {
+      source = "cloudflare/cloudflare"
+    }
+  }
+}
+
+The Terraform version is stored in .terraform-version and the versions of the all of the providers and modules are stored in the .terraform.lock.hcl . By doing this, we don't have to edit version lines in any files when we want to upgrade. Instead, we can just run terraform init -upgrade  to generate a new .terraform.lock.hcl file. Obviously, major updates happen automatically, so we need to be aware that we might be doing a major upgrade when we run that command. But... I dunno... this is the desired state for me. Thoughts? Should we promote this pattern everywhere?
+
+Terraform advice
+Don't specific blank or dummy default values in Terraform variables. If vars are missing, Terraform SHOULD fail. If someone forgot to set an ID somewhere, we don't want to actually deploy ID=SET_ME.
+
+Terraform Pipeline:
+1. Create a PR in terraform-dev git repo, which automatically triggers a pipeline with a webhook.
+  1. Pipeline runs `terraform fmt -recursive -check` to check for formatting issues.
+  1. Pipeline runs `tflint`.
+  1. Pipeline runs `tfsec`.
+  1. If this is a module (how do we detect this?), pipeline runs `terraform-docs md document .`.
+  1. Pipeline runs `terraform plan`.
+1. Approve and merge PR to default branch.
+  1. Pipeline runs `terraform apply` to deploy code to dev environment.
+1. Copy code to next environment's git repo (e.g., terraform-test or terraform-prod), and create a PR, which starts this process again in that repo.
+
+gpg -vv --recv-keys --keyserver keys.openpgp.org A6310ACC4672475C
