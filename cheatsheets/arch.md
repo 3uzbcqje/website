@@ -63,3 +63,8 @@ https://wiki.archlinux.org/index.php/Systemd-resolved#DNS_over_TLS
    DNSOverTLS=yes
    Domains=~.
    ```
+
+# Don't build debug packages
+
+sudo vim /etc/makepkg.conf
+Change `debug` to `!debug`
