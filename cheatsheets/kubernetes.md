@@ -527,3 +527,19 @@ k delete pods -A --field-selector=status.phase=Failed
 ```
 k get secrets -A --field-selector='type=kubernetes.io/dockerconfigjson' -o json | jq -r '.items[] | "\(.metadata.namespace) \(.metadata.name) \(.data[".dockerconfigjson"] |= @base64d | .data[".dockerconfigjson"] | fromjson.auths | .[] | .auth |= @base64d)"' | column -t
 ```
+
+# Use netshoot to debug things
+
+https://github.com/nicolaka/netshoot?tab=readme-ov-file#netshoot-with-kubernetes
+
+```
+# if you want to debug using an ephemeral container in an existing pod:
+
+kubectl debug mypod -it --image=nicolaka/netshoot
+
+# if you want to spin up a throw away pod for debugging.
+kubectl run tmp-shell --rm -i --tty --image nicolaka/netshoot
+
+# if you want to spin up a container on the host's network namespace.
+kubectl run tmp-shell --rm -i --tty --overrides='{"spec": {"hostNetwork": true}}'  --image nicolaka/netshoot
+```
