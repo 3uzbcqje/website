@@ -177,3 +177,9 @@ echo 'eval "$(atuin init bash --disable-up-arrow)"' >> ~/.bashrc
 # reboot
 atuin import auto
 ```
+
+# Show a date in UTC
+
+```
+date --iso-8601=minutes -u -d "2025-12-04 16:42 PST"
+```

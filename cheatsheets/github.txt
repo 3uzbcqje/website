@@ -1,0 +1,8 @@
+# List doopydur repos that I have starred
+
+```
+for org in doopydur doopydur-lab doopydur-ops; do
+  echo "### ${org}"
+  gh repo list $org --json name,viewerHasStarred | jq '.[] | select(.viewerHasStarred == true) | .name'
+done
+```
