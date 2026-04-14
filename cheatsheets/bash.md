@@ -167,3 +167,13 @@ undo (C-_, C-x C-u)
 revert-line (M-r)
        Undo all changes made to this line.  This is like executing the undo command enough times to return the line to its initial state.
 ```
+
+## Atiun
+
+```
+pacman -S atuin bash-preexec
+echo '[[ -f /usr/share/bash-preexec/bash-preexec.sh ]] && source /usr/share/bash-preexec/bash-preexec.sh' >> ~/.bashrc
+echo 'eval "$(atuin init bash --disable-up-arrow)"' >> ~/.bashrc
+# reboot
+atuin import auto
+```

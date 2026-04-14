@@ -543,3 +543,21 @@ kubectl run tmp-shell --rm -i --tty --image nicolaka/netshoot
 # if you want to spin up a container on the host's network namespace.
 kubectl run tmp-shell --rm -i --tty --overrides='{"spec": {"hostNetwork": true}}'  --image nicolaka/netshoot
 ```
+
+# Find all errors
+
+```
+kubectl get events -A --field-selector type!=Normal
+```
+
+# Only get events from the last 10 minutes
+
+```
+kubectl get events -A -o json   | jq -r '
+    .items[]
+    | select(.type != "Normal")
+    | select((.lastTimestamp // .eventTime) >= (now - 600 | todateiso8601))
+    | [.type, .reason, .involvedObject.name, .message]
+    | @tsv
+  '
+```

@@ -220,3 +220,11 @@ https://stackoverflow.com/questions/15292391/is-it-possible-to-perform-a-grep-se
 ```
 git grep <regexp> $(git rev-list --all)
 ```
+
+# Generate a patch
+
+```
+diff -urN downstream upstream > update.patch
+# Apply the patch
+patch -p1 -d downstream < update.patch
+```
