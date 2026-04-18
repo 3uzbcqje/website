@@ -2556,5 +2556,61 @@
   },
   {
     "url": "https://drdemento.com/"
+  },
+  {
+    "url": "https://www.kwaai.ai/",
+    "tags": [
+      "ai",
+      "decentralization"
+    ]
+  },
+  {
+    "url": "https://generate-random.org/phone-numbers",
+    "tags": [
+      "privacy"
+    ],
+    "description": "Generate random, valid phone numbers for forms."
+  },
+  {
+    "url": "https://www.fiftyfifty.one/",
+    "tags": [
+      "activism"
+    ]
+  },
+  {
+    "url": "https://tv.theindiebeat.fm/",
+    "tags": [
+      "decentralized",
+      "music"
+    ],
+    "description": "Streaming music videos"
+  },
+  {
+    "url": "https://frigate.video/",
+    "tags": [
+      "decentralized",
+      "security"
+    ],
+    "description": "Frigate is an open source NVR built around real-time AI object detection. All processing is performed locally on your own hardware, and your camera feeds never leave your home."
+  },
+  {
+    "url": "https://www.keephq.dev/",
+    "tags": [
+      "alerts",
+      "devops"
+    ],
+    "description": "The open-source AIOps and alert management platform"
+  },
+  {
+    "url": "https://goalert.me/",
+    "tags": [
+      "alerts",
+      "devops"
+    ],
+    "description": "Target's alert management platform"
+  },
+  {
+    "url": "https://ntfy.sh/",
+    "description": "ntfy (pronounced notify) is a simple HTTP-based pub-sub notification service. It allows you to send notifications to your phone or desktop via scripts from any computer, and/or using a REST API. It's infinitely flexible, and 100% free software."
   }
 ]

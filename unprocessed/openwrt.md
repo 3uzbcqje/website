@@ -60,3 +60,17 @@ Set WAN6 to /56 prefix so you can use /64s for guest and LAN interfaces
 
 opkg install diffutils # for `diff`
 opkg install vim-fuller # for `vim -d`
+
+## Add a UCI firewall rule for IPv6 in /etc/config/firewall
+
+```
+uci add firewall rule
+uci set firewall.@rule[-1].name='Allow-IPv6-HTTP-HTTPS'
+uci set firewall.@rule[-1].src='wan'
+uci set firewall.@rule[-1].proto='tcp'
+uci set firewall.@rule[-1].dest_ip='2603:8001:5800:8cf::7'
+uci set firewall.@rule[-1].dest_port='80 443'
+uci set firewall.@rule[-1].target='ACCEPT'
+uci commit firewall
+/etc/init.d/firewall restart
+```
