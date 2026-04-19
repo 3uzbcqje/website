@@ -13,3 +13,9 @@ pre-commit install --config /home/user/git/devopscoop/dotfiles/3uzbcqje/.pre-com
 ```
 
 But then you have to remember to install it every time you clone a repo...
+
+Tasks:
+
+- create a script that checks to see if .pre-commit-config.yaml is stored in git. If not:
+  - remove .pre-commit-config.yaml from everywhere except the dotfiles directory
+  - remove .pre-commit-config.yaml from .gitignore
