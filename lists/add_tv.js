@@ -9,13 +9,13 @@ Usage: node add_tv.js [options]
 
 Options:
   --title <title>     TV show title (required)
-  --rating <rating>   Star rating like "★★★☆☆" (optional)
+  --rating <rating>   Rating 0-5 (optional)
   --review <review>   Review: 👍 or 👎 (optional)
   --notes <notes>     Notes text (optional)
   -h, --help         Show this help message
 
 Example:
-  node add_tv.js --title "Show Name" --review "👍" --notes "Recommended by John"
+  node add_tv.js --title "Show Name" --rating 4 --review "👍" --notes "Recommended by John"
 `;
 
 if (args.includes('-h') || args.includes('--help')) {
@@ -40,7 +40,10 @@ const newShow = { title };
 
 const ratingIndex = args.indexOf('--rating');
 if (ratingIndex !== -1 && args[ratingIndex + 1]) {
-  newShow.rating = args[ratingIndex + 1];
+  const rating = parseInt(args[ratingIndex + 1]);
+  if (!isNaN(rating) && rating >= 0 && rating <= 5) {
+    newShow.rating = rating.toString();
+  }
 }
 
 const reviewIndex = args.indexOf('--review');

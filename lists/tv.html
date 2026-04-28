@@ -272,8 +272,6 @@
                 return '<span class="tv-review positive">👍</span>';
             } else if (show.review === '👎') {
                 return '<span class="tv-review negative">👎</span>';
-            } else if (show.rating && show.rating.includes('★')) {
-                return `<span class="tv-review neutral">${show.rating}</span>`;
             }
             return '';
         }
@@ -297,8 +295,8 @@
                         ${getReviewDisplay(show)}
                 `;
 
-                if (show.rating && !show.rating.includes('★')) {
-                    html += `<div class="tv-rating">Rating: ${show.rating}</div>`;
+                if (show.rating) {
+                    html += `<div class="tv-rating rating-${show.rating}">Rating: ${show.rating}/5</div>`;
                 }
 
                 if (show.notes) {
