@@ -61,7 +61,10 @@ try {
   process.exit(1);
 }
 
-movies.push(newMovie);
+const exists = movies.some(m => m._title === title);
+if (!exists) {
+  movies.push(newMovie);
+}
 
 try {
   fs.writeFileSync(moviesPath, JSON.stringify(movies, null, 2) + '\n');

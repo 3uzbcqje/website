@@ -20,7 +20,7 @@ Example:
 
 if (args.includes('-h') || args.includes('--help')) {
   console.log(usage);
-  process.exit(1);
+  process.exit(0);
 }
 
 const titleIndex = args.indexOf('--title');
