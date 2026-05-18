@@ -1,3 +1,4 @@
+fossify contacts
 aegis
 antennapod
 arlo
@@ -70,3 +71,7 @@ wifi analyzer
 wikipedia
 youtube
 zoom
+
+## Do Not Use
+
+- Contacts (com.android.contacts): In practice on Android (confirmed up through Android 12/13), the built-in Contacts app exports only vCard 2.1 and can import vCard 2.1 and 3.0, but has no working support for vCard 4.0. Version 1.7.34 (targeting API 33 / Android 13) follows the same behavior — it's based on the AOSP com.android.vcard framework which declares v4.0 support in code but in practice does not properly handle it.
