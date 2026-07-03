@@ -68,3 +68,11 @@ https://wiki.archlinux.org/index.php/Systemd-resolved#DNS_over_TLS
 
 sudo vim /etc/makepkg.conf
 Change `debug` to `!debug`
+
+# Firmware updates
+
+```
+sudo fwupdmgr refresh
+sudo fwupdmgr get-updates
+sudo fwupdmgr update
+```
