@@ -1,6 +1,5 @@
 Book Id,Title,Author,Author l-f,Additional Authors,ISBN,ISBN13,My Rating,Average Rating,Publisher,Binding,Number of Pages,Year Published,Original Publication Year,Date Read,Date Added,Bookshelves,Bookshelves with positions,Exclusive Shelf,My Review,Spoiler,Private Notes,Read Count,Owned Copies
-41429774,The Bobiverse (Signed Limited Edition),Dennis E. Taylor,"Taylor, Dennis E.",,"=""1680680722""","=""9781680680720""",3,4.73,Ethan Ellenberg Literary Agency,Hardcover,918,2018,2018,,2019/12/12,did-not-finish,did-not-finish (#13),read,,,,1,0
-17863,Accelerando,Charles Stross,"Stross, Charles",,"=""0441014151""","=""9780441014156""",0,3.87,Ace,Mass Market Paperback,415,2006,2005,,2025/12/14,to-read,to-read (#186),to-read,,,,0,0
+17863,Accelerando,Charles Stross,"Stross, Charles",,"=""0441014151""","=""9780441014156""",0,3.87,Ace,Mass Market Paperback,415,2006,2005,,2025/12/14,to-read,to-read (#186),to-read,,,recommended by Ian,0,0
 355862,Erasure,Percival Everett,"Everett, Percival",,"=""0786888156""","=""9780786888153""",0,4.17,Hyperion,Paperback,280,2002,2001,,2025/12/14,to-read,to-read (#185),to-read,,,,0,0
 22328,Neuromancer (Sprawl #1),William Gibson,"Gibson, William",,"=""""","=""""",0,3.89,Ace Books,Mass Market Paperback,271,1985,1984,,2017/02/11,to-read,to-read (#6),to-read,,,,0,0
 668019,"Firstborn (Dragonlance:  Elven Nations, #1)",Paul B. Thompson,"Thompson, Paul B.",Tonya C. Cook,"=""0786933674""","=""9780786933679""",0,3.89,Wizards of the Coast,Mass Market Paperback,310,2004,1991,,2017/02/13,forgot,forgot (#98),read,,,,1,0
@@ -153,7 +152,7 @@ Book Id,Title,Author,Author l-f,Additional Authors,ISBN,ISBN13,My Rating,Average
 6328,Revolting Rhymes,Roald Dahl,"Dahl, Roald",Quentin Blake,"=""0142302260""","=""9780142302262""",0,4.15,Puffin,Paperback,32,2003,1982,,2017/02/15,to-read,to-read (#91),to-read,,,,0,0
 26212082,Doctor Strange: The Oath #1 (of 5),Brian K. Vaughan,"Vaughan, Brian K.","Marcos Martín, Álvaro López","=""""","=""""",0,4.12,Marvel,Kindle Edition,24,2006,2006,,2017/02/14,to-read,to-read (#90),to-read,,,,0,0
 5776788,"Sandman Slim (Sandman Slim, #1)",Richard Kadrey,"Kadrey, Richard",,"=""0061714305""","=""9780061714306""",0,3.95,Harper Voyager,Hardcover,388,2009,2009,,2017/02/14,to-read,to-read (#89),to-read,,,,0,0
-47212,"Storm Front (The Dresden Files, #1)",Jim  Butcher,"Butcher, Jim",,"=""0451457811""","=""9780451457813""",0,3.97,Penguin ROC,Paperback,372,2000,2000,,2017/02/14,to-read,to-read (#88),to-read,,,,0,0
+47212,"Storm Front (The Dresden Files, #1)",Jim  Butcher,"Butcher, Jim",,"=""0451457811""","=""9780451457813""",3,3.97,Penguin ROC,Paperback,372,2000,2000,,2017/02/14,,,read,,,,1,0
 26883558,The Ballad of Black Tom,Victor LaValle,"LaValle, Victor",,"=""0765387867""","=""9780765387868""",0,3.82,Tordotcom,Paperback,149,2016,2016,,2017/02/14,to-read,to-read (#87),to-read,,,,0,0
 31357411,Toddlers Are Assholes,Bunmi Laditan,"Laditan, Bunmi",,"=""0147523567""","=""9780147523563""",0,4.13,Penguin Random House Audio Publishing Group,Audiobook,,2015,2015,,2017/02/14,to-read,to-read (#86),to-read,,,,0,0
 6158627,The Complete Guide to Rocks & Minerals,John Farndon,"Farndon, John",,"=""1572152222""","=""9781572152229""",0,4.20,JG Press,Hardcover,256,2008,2006,,2017/02/11,,,read,,,,2,0
@@ -170,7 +169,7 @@ Book Id,Title,Author,Author l-f,Additional Authors,ISBN,ISBN13,My Rating,Average
 9569,Villa Incognito,Tom Robbins,"Robbins, Tom",,"=""1842431021""","=""9781842431023""",3,3.69,No Exit Press,Paperback,256,2004,2003,,2017/02/13,,,read,,,,2,0
 8682,Jitterbug Perfume,Tom Robbins,"Robbins, Tom",,"=""1842430351""","=""9781842430354""",0,4.23,No Exit Press,Paperback,342,2001,1984,,2017/02/13,forgot,forgot (#163),read,,,,1,0
 9566,Still Life with Woodpecker,Tom Robbins,"Robbins, Tom",,"=""184243022X""","=""9781842430224""",4,4.04,No Exit Press,Paperback,277,2001,1980,,2017/02/13,,,read,,,,1,0
-4980,Breakfast of Champions,Kurt Vonnegut Jr.,"Jr., Kurt Vonnegut",,"=""0385334206""","=""9780385334204""",0,4.06,Dell Publishing,Paperback,303,1999,1973,,2017/02/13,forgot,forgot (#162),read,,,,1,0
+4980,Breakfast of Champions,Kurt Vonnegut Jr.,"Jr., Kurt Vonnegut",,"=""0385334206""","=""9780385334204""",4,4.06,Dell Publishing,Paperback,303,1999,1973,,2017/02/13,forgot,forgot (#162),read,,,,1,0
 135479,Cat’s Cradle,Kurt Vonnegut Jr.,"Jr., Kurt Vonnegut",,"=""""","=""""",5,4.15,Penguin,Paperback,306,1999,1963,,2017/02/13,,,read,,,,2,0
 4981,Slaughterhouse-Five,Kurt Vonnegut Jr.,"Jr., Kurt Vonnegut",,"=""""","=""""",0,4.10,Dial Press,Paperback,275,1999,1969,,2017/02/13,forgot,forgot (#161),read,,,,1,0
 472331,Watchmen,Alan             Moore,"Moore, Alan","Dave Gibbons, John    Higgins","=""0930289234""","=""9780930289232""",3,4.39,DC Comics,Paperback,416,2005,1987,,2017/02/13,,,read,,,,2,0
@@ -384,7 +383,7 @@ Book Id,Title,Author,Author l-f,Additional Authors,ISBN,ISBN13,My Rating,Average
 745717,Wanderlust,Michael  Clinton,"Clinton, Michael",,"=""1576872246""","=""9781576872246""",0,4.75,Glitterati Incorporated,Hardcover,170,2006,2004,,2017/02/11,forgot,forgot (#1),read,,,,2,0
 134825,The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary,Eric S. Raymond,"Raymond, Eric S.",,"=""0596001088""","=""9780596001087""",0,3.83,O'Reilly Media,Paperback,241,2001,1999,,2017/02/11,to-read,to-read (#75),to-read,,,,0,0
 35924,"The Lure of the Basilisk (The Lords of Dûs, #1)",Lawrence Watt-Evans,"Watt-Evans, Lawrence",,"=""1587155877""","=""9781587155871""",0,3.75,Wildside Press,Paperback,207,2024,1980,,2017/02/11,to-read,to-read (#74),to-read,,,,0,0
-317474,"The Wizard Lord (The Annals of the Chosen, #1)",Lawrence Watt-Evans,"Watt-Evans, Lawrence",,"=""0765349019""","=""9780765349019""",0,3.59,Tor Fantasy,Mass Market Paperback,384,2007,2006,,2017/02/11,to-read,to-read (#73),to-read,,,,0,0
+317474,"The Wizard Lord (The Annals of the Chosen, #1)",Lawrence Watt-Evans,"Watt-Evans, Lawrence",,"=""0765349019""","=""9780765349019""",4,3.59,Tor Fantasy,Mass Market Paperback,384,2007,2006,,2017/02/11,,,read,,,,1,0
 390245,"The Spell of the Black Dagger (Ethshar, #6)",Lawrence Watt-Evans,"Watt-Evans, Lawrence",,"=""0345377125""","=""9780345377128""",0,3.97,Del Rey,Mass Market Paperback,312,1993,1993,,2017/02/11,to-read,to-read (#72),to-read,,,,2,0
 13664797,"Tales of Ethshar (Ethshar, #11.5)",Lawrence Watt-Evans,"Watt-Evans, Lawrence",,"=""""","=""""",0,3.94,Wildside Press,Kindle Edition,224,2012,2012,,2017/02/11,to-read,to-read (#71),to-read,,,,0,0
 23964234,"Relics of War (Ethshar, #13)",Lawrence Watt-Evans,"Watt-Evans, Lawrence",,"=""1479404659""","=""9781479404650""",0,4.01,Wildside Press,Kindle Edition,260,2014,2014,,2017/02/11,to-read,to-read (#70),to-read,,,,0,0
@@ -537,3 +536,34 @@ Book Id,Title,Author,Author l-f,Additional Authors,ISBN,ISBN13,My Rating,Average
 9548075,"Machine of Death: A Collection of Stories About People Who Know How They Will Die (Machine of Death, #1)",Ryan North,"North, Ryan","Matthew Bennardo, David Malki","=""0982167121""","=""9780982167120""",5,3.93,Bearstache Books,Paperback,452,2010,2010,,2015/07/02,,,read,,,,1,0
 873165,The Annapolis Book of Seamanship,John Rousmaniere,"Rousmaniere, John",Mark Smith,"=""0684854201""","=""9780684854205""",5,4.45,Simon & Schuster,Hardcover,403,1999,,,2015/07/02,,,read,,,,1,0
 18007564,The Martian,Andy Weir,"Weir, Andy",,"=""0804139024""","=""9780804139021""",5,4.42,Crown Publishers,Hardcover,369,2014,2011,,2015/07/02,,,read,,,,1,0
+,"A Marriage at Sea: A True Story of Love, Obsession, and Shipwreck",Sophie Elmhirst,"Elmhirst, Sophie",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,recommended by Luisa,0,0
+,"Revelation Space (Revelation Space, #1)",Alastair Reynolds,"Reynolds, Alastair",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,recommended by Ian (said anything by Alastair Reynolds),0,0
+,"Live Free or Die (Troy Rising, #1)",John Ringo,"Ringo, John",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,recommended by Ian (the Troy Rising series),0,0
+,"On Basilisk Station (Honor Harrington, #1)",David Weber,"Weber, David",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,recommended by Ian (the Honor Harrington series),0,0
+,Naked Lunch,William S. Burroughs,"Burroughs, William S.",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,recommended by a coworker at Dfinity,0,0
+,Heroes: A Novel of Pearl Harbor,Alan Gratz,"Gratz, Alan",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,recommended by Nico,0,0
+,"The Apothecary (The Apothecary, #1)",Maile Meloy,"Meloy, Maile",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,recommended by Nico,0,0
+,"Persepolis: The Story of a Childhood (Persepolis, #1-2)",Marjane Satrapi,"Satrapi, Marjane",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,recommended by Nico,0,0
+,The Republic of Pirates: Being the True and Surprising Story of the Caribbean Pirates and the Man Who Brought Them Down,Colin Woodard,"Woodard, Colin",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,,0,0
+,The Moon Is a Harsh Mistress,Robert A. Heinlein,"Heinlein, Robert A.",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,,0,0
+,Narrative of the Life of Frederick Douglass,Frederick Douglass,"Douglass, Frederick",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,,0,0
+,"Shadow and Bone (The Shadow and Bone Trilogy, #1)",Leigh Bardugo,"Bardugo, Leigh",,"=""""","=""""",0,,,,,,,,2026/07/14,to-read,,to-read,,,,0,0
+,Uncanny Valley,Anna Wiener,"Wiener, Anna",,"=""""","=""""",3,,,,,,,,2026/07/14,,,read,,,"meh, was alright.",1,0
+,The Future,Naomi Alderman,"Alderman, Naomi",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,pretty good.,1,0
+,"Legends & Lattes (Legends & Lattes, #1)",Travis Baldree,"Baldree, Travis",,"=""""","=""""",3,,,,,,,,2026/07/14,,,read,,,decent,1,0
+,Birnam Wood,Eleanor Catton,"Catton, Eleanor",,"=""""","=""""",3,,,,,,,,2026/07/14,,,read,,,recommended by Sara. Meh.,1,0
+,"A Pirate of Exquisite Mind: Explorer, Naturalist, and Buccaneer: The Life of William Dampier",Diana Preston,"Preston, Diana",Michael Preston,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,pretty interesting!,1,0
+,"The Housemaid (The Housemaid, #1)",Freida McFadden,"McFadden, Freida",,"=""""","=""""",3,,,,,,,,2026/07/14,,,read,,,,1,0
+,"Slippage: Previously Uncollected, Precariously Poised Stories",Harlan Ellison,"Ellison, Harlan",,"=""""","=""""",3,,,,,,,,2026/07/14,,,read,,,,1,0
+,"We Are Legion (We Are Bob) (Bobiverse, #1)",Dennis E. Taylor,"Taylor, Dennis E.",,"=""""","=""""",3,,,,,,,,2026/07/14,,,read,,,,1,0
+,"Dungeon Crawler Carl (Dungeon Crawler Carl, #1)",Matt Dinniman,"Dinniman, Matt",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,,1,0
+,"Carl's Doomsday Scenario (Dungeon Crawler Carl, #2)",Matt Dinniman,"Dinniman, Matt",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,,1,0
+,"The Dungeon Anarchist's Cookbook (Dungeon Crawler Carl, #3)",Matt Dinniman,"Dinniman, Matt",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,,1,0
+,"The Gate of the Feral Gods (Dungeon Crawler Carl, #4)",Matt Dinniman,"Dinniman, Matt",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,,1,0
+,"The Butcher's Masquerade (Dungeon Crawler Carl, #5)",Matt Dinniman,"Dinniman, Matt",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,,1,0
+,"The Eye of the Bedlam Bride (Dungeon Crawler Carl, #6)",Matt Dinniman,"Dinniman, Matt",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,,1,0
+,"This Inevitable Ruin (Dungeon Crawler Carl, #7)",Matt Dinniman,"Dinniman, Matt",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,,1,0
+,Project Hail Mary,Andy Weir,"Weir, Andy",,"=""""","=""""",5,,,,,,,,2026/07/14,,,read,,,,1,0
+,"Zero G (Zero G, #1)",Dan Wells,"Wells, Dan",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,,1,0
+,Dragon Planet,Dan Wells,"Wells, Dan",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,,1,0
+,"Stargazer (Zero G, #2)",Dan Wells,"Wells, Dan",,"=""""","=""""",4,,,,,,,,2026/07/14,,,read,,,,1,0
