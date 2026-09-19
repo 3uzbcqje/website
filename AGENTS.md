@@ -45,7 +45,8 @@ Schema gotchas, easy to get wrong:
 - `rating` is a **string** (`"4"`), not a number, in both movies and tv.
 - Other keys appear in the data but not in the add scripts: movies also has `comments`, `link`,
   `notes`; tv also has `imdb`.
-- `add_movie.js` skips duplicates by title; `add_tv.js` appends unconditionally.
+- Both scripts reject a duplicate title (compared case/punctuation/accent-insensitively) with
+  an error; pass `--force` to add anyway.
 - Both rewrite the whole file as `JSON.stringify(data, null, 2) + '\n'`. Match that
   formatting for hand edits so diffs stay small.
 - `lists/comedians.json` is *not* JSON — it's a bare list of URLs despite the extension.

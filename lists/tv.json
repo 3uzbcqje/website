@@ -16,7 +16,8 @@
   },
   {
     "title": "Dr. Stone",
-    "review": "👍"
+    "review": "👍",
+    "notes": "Recommended by Patrick"
   },
   {
     "title": "Good Cop Bad Cop",
@@ -43,10 +44,6 @@
     "title": "Delicious in Dungeon",
     "notes": "Recommended by Patrick",
     "review": "👍"
-  },
-  {
-    "title": "Dr. STONE",
-    "notes": "Recommended by Patrick"
   },
   {
     "title": "Man on the Inside",
@@ -838,10 +835,6 @@
     "title": "This Giant Beast That is the Global Economy"
   },
   {
-    "review": "👍",
-    "title": "Three Body Problem"
-  },
-  {
     "title": "Tim & Eric Awesome Show"
   },
   {
@@ -936,9 +929,6 @@
   },
   {
     "title": "la Reina de sur"
-  },
-  {
-    "title": "maniac"
   },
   {
     "title": "rockos modern life"

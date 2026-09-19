@@ -3,6 +3,18 @@
 const fs = require('fs');
 const path = require('path');
 
+// Titles vary in case, punctuation and accents between entries ("Dr. Stone"
+// vs "Dr. STONE"), so compare them loosely. Parentheticals are deliberately
+// kept: "Mortal Kombat (1995)" and "Mortal Kombat (2021)" are different films.
+function normalize(s) {
+  return String(s || '')
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim();
+}
+
 const args = process.argv.slice(2);
 const usage = `
 Usage: node add_movie.js [options]
@@ -11,6 +23,7 @@ Options:
   --title <title>     Movie title (required)
   --rating <rating>   Rating 0-5 (optional)
   --review <review>   Review text (optional)
+  --force             Add even if the title is already in movies.json
   -h, --help         Show this help message
 
 Example:
@@ -50,6 +63,8 @@ if (reviewIndex !== -1 && args[reviewIndex + 1]) {
   newMovie.review = args[reviewIndex + 1];
 }
 
+const force = args.includes('--force');
+
 const moviesPath = path.join(__dirname, 'movies.json');
 
 let movies = [];
@@ -61,10 +76,14 @@ try {
   process.exit(1);
 }
 
-const exists = movies.some(m => m._title === title);
-if (!exists) {
-  movies.push(newMovie);
+const duplicate = movies.find(m => normalize(m._title) === normalize(title));
+if (duplicate && !force) {
+  console.error(`Error: "${duplicate._title}" is already in movies.json. `
+    + 'Use --force to add it anyway.');
+  process.exit(1);
 }
+
+movies.push(newMovie);
 
 try {
   fs.writeFileSync(moviesPath, JSON.stringify(movies, null, 2) + '\n');
