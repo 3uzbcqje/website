@@ -12,56 +12,56 @@
   },
   {
     "title": "Bad Thoughts",
-    "review": "👎"
+    "rating": "3"
   },
   {
     "title": "Dr. Stone",
-    "review": "👍",
-    "notes": "Recommended by Patrick"
+    "notes": "Recommended by Patrick",
+    "rating": "3"
   },
   {
     "title": "Good Cop Bad Cop",
-    "review": "👍"
+    "rating": "3"
   },
   {
     "title": "Common Side Effects",
-    "review": "👍"
+    "rating": "3"
   },
   {
     "title": "Vice Principals",
-    "review": "👎"
+    "rating": "3"
   },
   {
     "title": "The Studio",
-    "review": "👍"
+    "rating": "4"
   },
   {
     "title": "Frieren: Beyond Journey's End",
     "notes": "Recommended by Patrick",
-    "review": "👍"
+    "rating": "5"
   },
   {
     "title": "Delicious in Dungeon",
     "notes": "Recommended by Patrick",
-    "review": "👍"
+    "rating": "4"
   },
   {
     "title": "Man on the Inside",
-    "review": "👍"
+    "rating": "3"
   },
   {
     "title": "Exploding Kittens"
   },
   {
     "title": "Kaos",
-    "review": "👎"
+    "rating": "3"
   },
   {
     "title": "Creature Commandos"
   },
   {
     "title": "Pantheon",
-    "review": "👍"
+    "rating": "4"
   },
   {
     "rating": "2",
@@ -82,108 +82,108 @@
     "title": "Kevin can fuck himself"
   },
   {
-    "review": "👎",
-    "title": "Dune: Prophecy"
+    "title": "Dune: Prophecy",
+    "rating": "2"
   },
   {
-    "review": "👎",
-    "title": "12 Monkeys"
+    "title": "12 Monkeys",
+    "rating": "3"
   },
   {
     "notes": "Netflix series recommended by Jake",
     "title": "13th"
   },
   {
-    "review": "👍",
-    "title": "A.P. Bio"
+    "title": "A.P. Bio",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "3 Body Problem"
+    "title": "3 Body Problem",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "30 Rock"
+    "title": "30 Rock",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Adventure Time"
+    "title": "Adventure Time",
+    "rating": "4"
   },
   {
-    "review": "👎",
-    "title": "Ahsoka"
+    "title": "Ahsoka",
+    "rating": "2"
   },
   {
-    "review": "👎",
-    "title": "Altered Carbon"
+    "title": "Altered Carbon",
+    "rating": "3"
   },
   {
-    "review": "👎",
-    "title": "Ambient Swim"
+    "title": "Ambient Swim",
+    "rating": "3"
   },
   {
-    "review": "👎",
-    "title": "American Gods"
+    "title": "American Gods",
+    "rating": "3"
   },
   {
     "notes": "HBO",
     "title": "Animals"
   },
   {
-    "review": "👍",
-    "title": "Aqua Teen Hunger Force"
+    "title": "Aqua Teen Hunger Force",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Archer"
+    "title": "Archer",
+    "rating": "5"
   },
   {
-    "review": "👍",
-    "title": "Arrested Development"
+    "title": "Arrested Development",
+    "rating": "4"
   },
   {
     "notes": "Only watched the first two episodes, but I'm not enjoying it.",
-    "review": "👎",
-    "title": "Attack on Titan"
+    "title": "Attack on Titan",
+    "rating": "2"
   },
   {
-    "review": "👍",
-    "title": "Avatar: The Last Airbender (2024)"
+    "title": "Avatar: The Last Airbender (2024)",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "Avenue 5"
+    "title": "Avenue 5",
+    "rating": "4"
   },
   {
-    "review": "👎",
-    "title": "Axe Cop"
+    "title": "Axe Cop",
+    "rating": "2"
   },
   {
-    "review": "👍",
-    "title": "Bad Monkey"
+    "title": "Bad Monkey",
+    "rating": "4"
   },
   {
-    "review": "👎",
-    "title": "Barry"
+    "title": "Barry",
+    "rating": "2"
   },
   {
     "notes": "Zach Galifianakis",
     "title": "Baskets"
   },
   {
-    "review": "👍",
-    "title": "Battlestar Galactica (2004)"
+    "title": "Battlestar Galactica (2004)",
+    "rating": "5"
   },
   {
-    "review": "👍",
-    "title": "Beavis and Butt-head"
+    "title": "Beavis and Butt-head",
+    "rating": "5"
   },
   {
     "title": "Bee and Puppycat"
   },
   {
-    "review": "👎",
-    "title": "Beef"
+    "title": "Beef",
+    "rating": "3"
   },
   {
     "notes": "anime",
@@ -194,37 +194,37 @@
   },
   {
     "notes": "It took me a long time to give this show a second chance after that awful first episode, but it turned out to be an amazing show overall!",
-    "review": "👍",
-    "title": "Black Mirror"
+    "title": "Black Mirror",
+    "rating": "5"
   },
   {
     "notes": "OK, but I just never feel compelled to watch it.",
-    "review": "👎",
-    "title": "Bob's Burgers"
+    "title": "Bob's Burgers",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "Bojack Horseman"
+    "title": "Bojack Horseman",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Broad City"
+    "title": "Broad City",
+    "rating": "4"
   },
   {
-    "review": "👎",
-    "title": "Brooklyn 99"
+    "title": "Brooklyn 99",
+    "rating": "3"
   },
   {
     "notes": "Recommended by Brian",
     "title": "Class of '07"
   },
   {
-    "review": "👍",
-    "title": "Cobra Kai"
+    "title": "Cobra Kai",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "Community"
+    "title": "Community",
+    "rating": "3"
   },
   {
     "title": "Comrade Detective"
@@ -233,28 +233,28 @@
     "title": "Cooked"
   },
   {
-    "review": "👍",
-    "title": "Cowboy Bebop (2021)"
+    "title": "Cowboy Bebop (2021)",
+    "rating": "5"
   },
   {
-    "review": "👍",
-    "title": "Cowboy Bebop"
+    "title": "Cowboy Bebop",
+    "rating": "5"
   },
   {
     "notes": "Recommended by Brian",
     "title": "Cunk on Earth"
   },
   {
-    "review": "👎",
-    "title": "Cyberpunk Edgerunners"
+    "title": "Cyberpunk Edgerunners",
+    "rating": "3"
   },
   {
     "title": "Danger5"
   },
   {
     "notes": "Cringey but amazing!",
-    "review": "👍",
-    "title": "Dave"
+    "title": "Dave",
+    "rating": "4"
   },
   {
     "notes": "Rooster Teeth",
@@ -268,106 +268,106 @@
     "title": "Derek DelGaudio's in & of Itself"
   },
   {
-    "review": "👍",
-    "title": "Devs"
+    "title": "Devs",
+    "rating": "4"
   },
   {
     "notes": "Apparently the final scene is pretty relevant to now (2020)",
     "title": "Dinosaurs"
   },
   {
-    "review": "👍",
-    "title": "Dirk Gently's Holistic Detective Agency"
+    "title": "Dirk Gently's Holistic Detective Agency",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Doom Patrol"
+    "title": "Doom Patrol",
+    "rating": "3"
   },
   {
     "notes": "On hulu. Recommended by Brian",
     "title": "Extraordinary"
   },
   {
-    "review": "👍",
-    "title": "Fallout"
+    "title": "Fallout",
+    "rating": "4"
   },
   {
     "title": "Family Guy"
   },
   {
-    "review": "👍",
-    "title": "Firefly"
+    "title": "Firefly",
+    "rating": "5"
   },
   {
     "notes": "Recommended by Otisi",
-    "review": "👎",
-    "title": "Flight Attendant"
+    "title": "Flight Attendant",
+    "rating": "3"
   },
   {
     "notes": "Too much drama.",
-    "review": "👎",
-    "title": "For All Mankind"
+    "title": "For All Mankind",
+    "rating": "2"
   },
   {
     "notes": "Amazon Prime",
     "title": "Forever"
   },
   {
-    "review": "👎",
-    "title": "Foundation"
+    "title": "Foundation",
+    "rating": "3"
   },
   {
     "notes": "I don't really remember this show. Meh.",
-    "review": "👎",
-    "title": "Freaks and Geeks"
+    "title": "Freaks and Geeks",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "Futurama"
+    "title": "Futurama",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "GLOW"
+    "title": "GLOW",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "Girls5Eva"
+    "title": "Girls5Eva",
+    "rating": "4"
   },
   {
     "title": "God's Favorite Idiot"
   },
   {
-    "review": "👍",
-    "title": "Good Omens"
+    "title": "Good Omens",
+    "rating": "4"
   },
   {
     "title": "Goosebumps (2023)"
   },
   {
-    "review": "👍",
-    "title": "Gravity Falls"
+    "title": "Gravity Falls",
+    "rating": "5"
   },
   {
-    "review": "👍",
-    "title": "History of the World: Part II"
+    "title": "History of the World: Part II",
+    "rating": "3"
   },
   {
     "title": "I Think You Should Leave with Tim Robinson"
   },
   {
-    "review": "👍",
-    "title": "Invader Zim"
+    "title": "Invader Zim",
+    "rating": "4"
   },
   {
-    "review": "👎",
-    "title": "Invasion"
+    "title": "Invasion",
+    "rating": "2"
   },
   {
     "title": "Jackass"
   },
   {
-    "review": "👍",
-    "title": "Jane the Virgin"
+    "title": "Jane the Virgin",
+    "rating": "3"
   },
   {
     "notes": "Recommended by Arturo",
@@ -378,30 +378,30 @@
   },
   {
     "notes": "Started watching, but didn't make it very far.",
-    "review": "👎",
-    "title": "Kim's Convenience"
+    "title": "Kim's Convenience",
+    "rating": "2"
   },
   {
-    "review": "👍",
-    "title": "King of the Hill"
+    "title": "King of the Hill",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Kipo and the Age of Wonderbeasts"
+    "title": "Kipo and the Age of Wonderbeasts",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Larva Island"
+    "title": "Larva Island",
+    "rating": "4"
   },
   {
     "notes": "Lots of very lowbrow humor: snot, farts, buttholes, etc. My kids love it.",
-    "review": "👍",
-    "title": "Larva"
+    "title": "Larva",
+    "rating": "4"
   },
   {
     "notes": "Amazing sound engineering. Crazy show.",
-    "review": "👍",
-    "title": "Legion"
+    "title": "Legion",
+    "rating": "4"
   },
   {
     "title": "Lexx"
@@ -414,21 +414,21 @@
   },
   {
     "notes": "Watched this with Corbin. It started off enjoyable, but towards the end you're just yelling at the actors to stop making stupid decisions, haha.",
-    "review": "👎",
-    "title": "Locke and Key"
+    "title": "Locke and Key",
+    "rating": "2"
   },
   {
-    "review": "👍",
-    "title": "Loki"
+    "title": "Loki",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Loudermilk"
+    "title": "Loudermilk",
+    "rating": "3"
   },
   {
     "notes": "A few good episodes, but it quickly devolved into just sex and gore - the writers seemed to have given up.",
-    "review": "👎",
-    "title": "Lovecraft Country"
+    "title": "Lovecraft Country",
+    "rating": "2"
   },
   {
     "title": "Man in the High Castle"
@@ -438,19 +438,19 @@
     "title": "Man vs. Bee"
   },
   {
-    "review": "👍",
-    "title": "Maniac"
+    "title": "Maniac",
+    "rating": "4"
   },
   {
-    "review": "👎",
-    "title": "Marvel's Hit Monkey"
+    "title": "Marvel's Hit Monkey",
+    "rating": "3"
   },
   {
     "title": "Max Headroom"
   },
   {
-    "review": "👍",
-    "title": "Metalacolypse"
+    "title": "Metalacolypse",
+    "rating": "4"
   },
   {
     "title": "Mighty Boosh: Tundra"
@@ -459,25 +459,25 @@
     "title": "Mike Judge Presents: Tales from the Tour Bus"
   },
   {
-    "review": "👍",
-    "title": "Mike Judge's Beavis and Butt-head"
+    "title": "Mike Judge's Beavis and Butt-head",
+    "rating": "5"
   },
   {
     "notes": "Entertaining, but not enough to recommend to others.",
-    "review": "👎",
-    "title": "Miracle Workers"
+    "title": "Miracle Workers",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "Monty Python's Flying Circus"
+    "title": "Monty Python's Flying Circus",
+    "rating": "5"
   },
   {
-    "review": "👍",
-    "title": "Moon Knight"
+    "title": "Moon Knight",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Mr Robot"
+    "title": "Mr Robot",
+    "rating": "5"
   },
   {
     "title": "Mr Wizard"
@@ -493,8 +493,8 @@
     "title": "Mr. Show"
   },
   {
-    "review": "👍",
-    "title": "Mrs. Davis"
+    "title": "Mrs. Davis",
+    "rating": "4"
   },
   {
     "title": "Ms. Marvel"
@@ -503,30 +503,30 @@
     "title": "Never Have I Ever"
   },
   {
-    "review": "👍",
-    "title": "New Girl"
+    "title": "New Girl",
+    "rating": "3"
   },
   {
     "notes": "Was compelling at first, but the story progresses too slowly, and now the show has been cancelled.",
-    "review": "👎",
-    "title": "Night Sky"
+    "title": "Night Sky",
+    "rating": "3"
   },
   {
-    "review": "👎",
-    "title": "Nine Perfect Strangers"
+    "title": "Nine Perfect Strangers",
+    "rating": "2"
   },
   {
-    "review": "👍",
-    "title": "One Piece (2023)"
+    "title": "One Piece (2023)",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "Only Murders in the Building (season 4)"
+    "title": "Only Murders in the Building (season 4)",
+    "rating": "3"
   },
   {
     "notes": "Recommended by Jake. It was OK. Kind of silly, mildly funny.",
-    "review": "👎",
-    "title": "Our Flag Means Death"
+    "title": "Our Flag Means Death",
+    "rating": "3"
   },
   {
     "notes": "https://www.imdb.com/title/tt11685912/",
@@ -537,26 +537,26 @@
   },
   {
     "notes": "Interesting. Different.",
-    "review": "👍",
-    "title": "Over the garden Wall"
+    "title": "Over the garden Wall",
+    "rating": "4"
   },
   {
     "notes": "I mean... it's a show. It passes the time.",
-    "review": "👎",
-    "title": "Parks and Recreation"
+    "title": "Parks and Recreation",
+    "rating": "3"
   },
   {
     "notes": "Meh, not memorable.",
-    "review": "👎",
-    "title": "Party Down"
+    "title": "Party Down",
+    "rating": "3"
   },
   {
     "notes": "Recommended by Blanahands and Jake",
     "title": "Paul T. Goldman"
   },
   {
-    "review": "👍",
-    "title": "Peacemaker"
+    "title": "Peacemaker",
+    "rating": "4"
   },
   {
     "title": "Philip K. Dick's Electric Dreams"
@@ -566,47 +566,47 @@
     "title": "Pistol"
   },
   {
-    "review": "👍",
-    "title": "Poker Face"
+    "title": "Poker Face",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Portlandia"
+    "title": "Portlandia",
+    "rating": "4"
   },
   {
     "notes": "It was intriguing in the beginning, but it went to shit rather quickly.",
-    "review": "👎",
-    "title": "Raised by Wolves"
+    "title": "Raised by Wolves",
+    "rating": "3"
   },
   {
     "title": "Regular Show"
   },
   {
-    "review": "👎",
-    "title": "Resident Alien"
+    "title": "Resident Alien",
+    "rating": "3"
   },
   {
     "title": "Review (with Andy Daly)"
   },
   {
-    "review": "👍",
-    "title": "Rick and Morty"
+    "title": "Rick and Morty",
+    "rating": "5"
   },
   {
-    "review": "👍",
-    "title": "Roar"
+    "title": "Roar",
+    "rating": "3"
   },
   {
     "notes": "I like it, but haven't finished it.",
     "title": "Robot Chicken"
   },
   {
-    "review": "👎",
-    "title": "Scavengers Reign (2023)"
+    "title": "Scavengers Reign (2023)",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "Schitt's Creek"
+    "title": "Schitt's Creek",
+    "rating": "4"
   },
   {
     "title": "Search Party"
@@ -615,45 +615,45 @@
     "title": "Serial Experiments Lain"
   },
   {
-    "review": "👍",
-    "title": "Severance"
+    "title": "Severance",
+    "rating": "4"
   },
   {
     "title": "Shaun the Sheep: The Flight Before Christmas"
   },
   {
     "notes": "Recommended by blanahan",
-    "review": "👍",
-    "title": "She-Hulk: Attorney at Law"
+    "title": "She-Hulk: Attorney at Law",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "Silicon Valley"
+    "title": "Silicon Valley",
+    "rating": "5"
   },
   {
-    "review": "👎",
-    "title": "Silo"
+    "title": "Silo",
+    "rating": "3"
   },
   {
     "notes": "Entertaining, but not enough to recommend to others.",
-    "review": "👎",
-    "title": "Snowpiercer"
+    "title": "Snowpiercer",
+    "rating": "3"
   },
   {
     "title": "Solar Opposites"
   },
   {
     "notes": "This show was so good!",
-    "review": "👍",
-    "title": "Son of Zorn"
+    "title": "Son of Zorn",
+    "rating": "5"
   },
   {
-    "review": "👍",
-    "title": "Space Ghost Coast to Coast"
+    "title": "Space Ghost Coast to Coast",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Squid Games"
+    "title": "Squid Games",
+    "rating": "3"
   },
   {
     "title": "Squidbillies"
@@ -662,90 +662,90 @@
     "title": "Star Trek: Discovery"
   },
   {
-    "review": "👎",
-    "title": "Star Trek: Lower Decks"
+    "title": "Star Trek: Lower Decks",
+    "rating": "3"
   },
   {
-    "review": "👎",
-    "title": "Star Trek: Picard"
+    "title": "Star Trek: Picard",
+    "rating": "3"
   },
   {
-    "review": "👎",
-    "title": "Star Trek: Strange New Worlds"
+    "title": "Star Trek: Strange New Worlds",
+    "rating": "2"
   },
   {
-    "review": "👍",
-    "title": "Star Trek: The Next Generation"
+    "title": "Star Trek: The Next Generation",
+    "rating": "5"
   },
   {
-    "review": "👍",
-    "title": "Star Wars: Andor"
+    "title": "Star Wars: Andor",
+    "rating": "5"
   },
   {
-    "review": "👎",
-    "title": "Star Wars: Obi Wan"
+    "title": "Star Wars: Obi Wan",
+    "rating": "2"
   },
   {
     "notes": "Good beginning, but I lost interest towards the end...",
-    "review": "👎",
-    "title": "Station Eleven"
+    "title": "Station Eleven",
+    "rating": "3"
   },
   {
     "title": "Steven Universe"
   },
   {
-    "review": "👍",
-    "title": "Stranger Things"
+    "title": "Stranger Things",
+    "rating": "4"
   },
   {
     "notes": "It was good, but there are too many seasons of the same shit.",
-    "review": "👎",
-    "title": "Succession"
+    "title": "Succession",
+    "rating": "3"
   },
   {
     "rating": "3",
     "title": "Sunny (2024)"
   },
   {
-    "review": "👍",
-    "title": "Superstore"
+    "title": "Superstore",
+    "rating": "3"
   },
   {
     "notes": "Interesting. Weird. But I don't think I'd watch another season of it.",
-    "review": "👎",
-    "title": "Sweet Tooth"
+    "title": "Sweet Tooth",
+    "rating": "2"
   },
   {
     "notes": "recommended by Jeremy",
     "title": "Tales from the Loop"
   },
   {
-    "review": "👍",
-    "title": "Ted Lasso"
+    "title": "Ted Lasso",
+    "rating": "4"
   },
   {
     "imdb": "https://www.imdb.com/title/tt12614214/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520afterparty",
-    "review": "👍",
-    "title": "The Afterparty (2022)"
+    "title": "The Afterparty (2022)",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "The Amazing World of Gumball"
+    "title": "The Amazing World of Gumball",
+    "rating": "5"
   },
   {
     "notes": "Prime. Recommneded by Otisi",
     "title": "The Americans"
   },
   {
-    "review": "👍",
-    "title": "The Aquabats! Super Show!"
+    "title": "The Aquabats! Super Show!",
+    "rating": "4"
   },
   {
     "title": "The Ballad of Buster Scruggs"
   },
   {
-    "review": "👎",
-    "title": "The Big Door Prize"
+    "title": "The Big Door Prize",
+    "rating": "3"
   },
   {
     "notes": "Recommended by random ConsenSys people.",
@@ -753,8 +753,8 @@
   },
   {
     "notes": "Too gory, but still interesting.",
-    "review": "👍",
-    "title": "The Boys"
+    "title": "The Boys",
+    "rating": "3"
   },
   {
     "notes": "Brian says the first season was so good it restored his faith in humanity.",
@@ -768,20 +768,20 @@
   },
   {
     "notes": "I'm not into reality TV.",
-    "review": "👎",
-    "title": "The Handmaid's Tale"
+    "title": "The Handmaid's Tale",
+    "rating": "2"
   },
   {
-    "review": "👍",
-    "title": "The IT Crowd"
+    "title": "The IT Crowd",
+    "rating": "4"
   },
   {
     "title": "The Increasingly Poor Decisions of Todd Margaret"
   },
   {
     "notes": "Didn't finish it. Main character is too annoying.",
-    "review": "👎",
-    "title": "The Last Man on Earth TV show (FOX)"
+    "title": "The Last Man on Earth TV show (FOX)",
+    "rating": "2"
   },
   {
     "review": "",
@@ -798,12 +798,12 @@
     "title": "The Orville: New Horizons"
   },
   {
-    "review": "👎",
-    "title": "The Outlaws (2021)"
+    "title": "The Outlaws (2021)",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "The Peripheral"
+    "title": "The Peripheral",
+    "rating": "3"
   },
   {
     "notes": "on amazon prime",
@@ -813,8 +813,8 @@
     "title": "The Sandman (2022)"
   },
   {
-    "review": "👍",
-    "title": "The Simpsons"
+    "title": "The Simpsons",
+    "rating": "4"
   },
   {
     "title": "The Tick"
@@ -824,12 +824,12 @@
   },
   {
     "notes": "This show had such subtle but amazing comedy in it. I dunno. I really enjoyed it.",
-    "review": "👍",
-    "title": "The Woman in the House Across the Street From the Girl in the Window"
+    "title": "The Woman in the House Across the Street From the Girl in the Window",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "This Fool"
+    "title": "This Fool",
+    "rating": "3"
   },
   {
     "title": "This Giant Beast That is the Global Economy"
@@ -845,63 +845,63 @@
     "title": "Trigun Stampede"
   },
   {
-    "review": "👍",
-    "title": "Trigun"
+    "title": "Trigun",
+    "rating": "5"
   },
   {
     "notes": "Either ridiculously funny, or just kind of weird. On the fence.",
-    "review": "👍",
-    "title": "Unbreakable Kimmy Schmidt"
+    "title": "Unbreakable Kimmy Schmidt",
+    "rating": "3"
   },
   {
-    "review": "👎",
-    "title": "Unstable"
+    "title": "Unstable",
+    "rating": "2"
   },
   {
-    "review": "👍",
-    "title": "Upload"
+    "title": "Upload",
+    "rating": "4"
   },
   {
-    "review": "👎",
-    "title": "WandaVision"
+    "title": "WandaVision",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "Watchmen"
+    "title": "Watchmen",
+    "rating": "4"
   },
   {
-    "review": "👍",
-    "title": "Wednesday"
+    "title": "Wednesday",
+    "rating": "3"
   },
   {
     "notes": "Finsihed seasons 1, 2, and maybe 3? Was good.",
-    "review": "👍",
-    "title": "Westworld"
+    "title": "Westworld",
+    "rating": "3"
   },
   {
-    "review": "👍",
-    "title": "What We Do In The Shadows"
+    "title": "What We Do In The Shadows",
+    "rating": "4"
   },
   {
     "notes": "Freaking music, set in Hawaii, love it.",
-    "review": "👍",
-    "title": "White Lotus"
+    "title": "White Lotus",
+    "rating": "4"
   },
   {
     "notes": "The first couple of episodes were alright, but the 3rd and 4th fell apart...",
-    "review": "👎",
-    "title": "Willow"
+    "title": "Willow",
+    "rating": "2"
   },
   {
     "title": "Wipeout"
   },
   {
-    "review": "👍",
-    "title": "Workaholics"
+    "title": "Workaholics",
+    "rating": "5"
   },
   {
-    "review": "👍",
-    "title": "Young Sheldon"
+    "title": "Young Sheldon",
+    "rating": "4"
   },
   {
     "title": "bravest warriors"
@@ -934,12 +934,12 @@
     "title": "rockos modern life"
   },
   {
-    "review": "👍",
-    "title": "the Orville"
+    "title": "the Orville",
+    "rating": "5"
   },
   {
-    "review": "👍",
-    "title": "the good place"
+    "title": "the good place",
+    "rating": "4"
   },
   {
     "title": "the venture bros"
@@ -965,5 +965,50 @@
   },
   {
     "title": "Fallout: The Ghoul Log"
+  },
+  {
+    "title": "Odd Taxi"
+  },
+  {
+    "title": "Gary and His Demons"
+  },
+  {
+    "title": "Mr. Bean"
+  },
+  {
+    "title": "Red vs. Blue"
+  },
+  {
+    "title": "Stargate Origins",
+    "rating": "2"
+  },
+  {
+    "title": "Primal",
+    "notes": "Genndy Tartakovsky"
+  },
+  {
+    "title": "Adventure Time: Fionna & Cake"
+  },
+  {
+    "title": "The Way of the Househusband"
+  },
+  {
+    "title": "Love, Death & Robots",
+    "rating": "5"
+  },
+  {
+    "title": "Dandadan",
+    "rating": "4"
+  },
+  {
+    "title": "Lanterns",
+    "rating": "4"
+  },
+  {
+    "title": "President Curtis",
+    "rating": "5"
+  },
+  {
+    "title": "Rick and Morty: The Anime"
   }
 ]
