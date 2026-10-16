@@ -83,3 +83,18 @@ sudo fwupdmgr update
 sudo systemctl enable nftables.service
 sudo systemctl start nftables.service
 ```
+
+# Add TRIM to LUKS
+https://wiki.archlinux.org/title/Dm-crypt/Specialties#Discard/TRIM_support_for_solid_state_drives_(SSD)
+```
+lsblk --discard
+# If DISC-GRAN and DISC-MAX have non-zero values, TRIM is supported.
+
+# For a LUKS2 device, TRIM support can be enabled by using the --allow-discards --persistent options when opening it. The allow-discards flag will be written into the LUKS2 header and the option will be automatically used whenever the LUKS2 device is opened.
+sudo cryptsetup --allow-discards --persistent refresh root
+
+# Optionally, trim manually:
+sudo fstrim -v /
+
+# Trimming happens automatically via the fstrim.timer systemd service, which appears to be enabled by default on Arch.
+```
