@@ -1,5 +1,0 @@
-# Posters are downloaded by fetch_posters.js from Wikipedia, where they are
-# non-free files used under a fair-use rationale that does not transfer here.
-# They are kept out of the repo on purpose -- re-run the script to rebuild them.
-*
-!.gitignore

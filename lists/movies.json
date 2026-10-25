@@ -3279,6 +3279,12 @@
     "poster": "posters/movies/masters-of-the-universe-2026.jpeg"
   },
   {
-    "_title": "Digger"
+    "_title": "Digger",
+    "poster": "posters/movies/digger.jpg"
+  },
+  {
+    "_title": "Sacrifice",
+    "rating": "4",
+    "poster": "posters/movies/sacrifice.jpg"
   }
 ]
