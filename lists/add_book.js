@@ -31,9 +31,11 @@ Options:
   --rating <0-5>        Your rating; implies --shelf read
   --review <text>       Your review
   --notes <text>        Private notes
-  --shelf <shelf>       read | to-read | currently-reading
+  --shelf <shelf>       read | to-read | currently-reading | forgot | unfinished
                         (default: read with --rating, otherwise to-read)
-  --date-read <date>    YYYY/MM/DD, only used for the read shelf (default: today)
+                        forgot and unfinished also put the book on read
+  --date-read <date>    YYYY/MM/DD, only used for books on read
+                        (default: today, or blank for forgot)
   --isbn <isbn>         Look the book up by ISBN instead of title/author
   --as-typed            Keep your author spelling even if the catalog differs
   --no-lookup           Skip the metadata lookup, write only what you passed
@@ -420,6 +422,11 @@ async function lookup(query) {
 
 // -------------------------------------------------------------------- main
 
+// Every book sits on exactly one exclusive shelf. The custom shelves in the
+// export are only ever used alongside read.
+const EXCLUSIVE_SHELVES = ['read', 'to-read', 'currently-reading'];
+const READ_SUBSHELVES = ['forgot', 'unfinished'];
+
 async function main() {
   const opts = parseArgs(process.argv.slice(2));
 
@@ -443,9 +450,13 @@ async function main() {
   }
 
   const shelf = opts.shelf || (opts.rating !== undefined ? 'read' : 'to-read');
-  if (!['read', 'to-read', 'currently-reading'].includes(shelf)) {
-    die(`--shelf must be read, to-read, or currently-reading (got "${shelf}")`);
+  if (![...EXCLUSIVE_SHELVES, ...READ_SUBSHELVES].includes(shelf)) {
+    die(`--shelf must be one of ${[...EXCLUSIVE_SHELVES, ...READ_SUBSHELVES].join(', ')}`
+      + ` (got "${shelf}")`);
   }
+  // forgot and unfinished are custom shelves layered on top of read.
+  const exclusive = READ_SUBSHELVES.includes(shelf) ? 'read' : shelf;
+  const isRead = exclusive === 'read';
   if (opts['date-read'] && !/^\d{4}\/\d{2}\/\d{2}$/.test(opts['date-read'])) {
     die('--date-read must look like YYYY/MM/DD');
   }
@@ -493,7 +504,7 @@ async function main() {
     else if (digits.length === 10) meta.isbn10 = digits;
   }
 
-  // Positions on the to-read shelf run oldest (#1) to newest; take the next one.
+  // Shelf positions run oldest (#1) to newest; take the next one.
   let position = 0;
   if (shelf !== 'read') {
     for (const r of body) {
@@ -518,15 +529,15 @@ async function main() {
     meta.pages || '',
     meta.yearPublished || '',
     meta.originalYear || '',
-    shelf === 'read' ? (opts['date-read'] || today()) : '',
+    isRead ? (opts['date-read'] || (shelf === 'forgot' ? '' : today())) : '',
     today(),                                              // Date Added
     shelf === 'read' ? '' : shelf,
     shelf === 'read' ? '' : `${shelf} (#${position})`,
-    shelf,                                                // Exclusive Shelf
+    exclusive,                                            // Exclusive Shelf
     opts.review || '',
     '',                                                   // Spoiler
     opts.notes || '',
-    shelf === 'read' ? '1' : '0',                         // Read Count
+    isRead ? '1' : '0',                                   // Read Count
     '0',                                                  // Owned Copies
   ];
 

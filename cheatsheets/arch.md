@@ -85,7 +85,9 @@ sudo systemctl start nftables.service
 ```
 
 # Add TRIM to LUKS
+
 https://wiki.archlinux.org/title/Dm-crypt/Specialties#Discard/TRIM_support_for_solid_state_drives_(SSD)
+
 ```
 lsblk --discard
 # If DISC-GRAN and DISC-MAX have non-zero values, TRIM is supported.

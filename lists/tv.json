@@ -1,10 +1,12 @@
 [
   {
-    "title": "Animal Control"
+    "title": "Animal Control",
+    "poster": "posters/tv/animal-control.jpeg"
   },
   {
     "title": "Yo Gabba Gabba Birthday Boogie",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/yo-gabba-gabba-birthday-boogie.png"
   },
   {
     "title": "The Animation Show (Vol. 1 & 2 Boxed Set)",
@@ -12,110 +14,137 @@
   },
   {
     "title": "Bad Thoughts",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/bad-thoughts.jpg"
   },
   {
     "title": "Dr. Stone",
     "notes": "Recommended by Patrick",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/dr-stone.jpg"
   },
   {
     "title": "Good Cop Bad Cop",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/good-cop-bad-cop.png"
   },
   {
     "title": "Common Side Effects",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/common-side-effects.png"
   },
   {
     "title": "Vice Principals",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/vice-principals.png"
   },
   {
     "title": "The Studio",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/the-studio.png"
   },
   {
     "title": "Frieren: Beyond Journey's End",
     "notes": "Recommended by Patrick",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/frieren-beyond-journey-s-end.png"
   },
   {
     "title": "Delicious in Dungeon",
     "notes": "Recommended by Patrick",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/delicious-in-dungeon.jpeg"
   },
   {
     "title": "Man on the Inside",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/man-on-the-inside.png"
   },
   {
-    "title": "Exploding Kittens"
+    "title": "Exploding Kittens",
+    "poster": "posters/tv/exploding-kittens.png"
   },
   {
     "title": "Kaos",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/kaos.jpg"
   },
   {
-    "title": "Creature Commandos"
+    "title": "Creature Commandos",
+    "poster": "posters/tv/creature-commandos.jpg"
   },
   {
     "title": "Pantheon",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/pantheon.jpg"
   },
   {
     "rating": "2",
-    "title": "Yellowjackets"
+    "title": "Yellowjackets",
+    "poster": "posters/tv/yellowjackets.png"
   },
   {
-    "title": "Secret Level"
-  },
-  {
-    "rating": "3",
-    "title": "It's Florida, Man"
-  },
-  {
-    "title": "The Curse"
+    "title": "Secret Level",
+    "poster": "posters/tv/secret-level.png"
   },
   {
     "rating": "3",
-    "title": "Kevin can fuck himself"
+    "title": "It's Florida, Man",
+    "poster": "posters/tv/it-s-florida-man.png"
+  },
+  {
+    "title": "The Curse",
+    "poster": "posters/tv/the-curse.png"
+  },
+  {
+    "rating": "3",
+    "title": "Kevin can fuck himself",
+    "poster": "posters/tv/kevin-can-fuck-himself.jpg"
   },
   {
     "title": "Dune: Prophecy",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/dune-prophecy.png"
   },
   {
     "title": "12 Monkeys",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/12-monkeys.png"
   },
   {
     "notes": "Netflix series recommended by Jake",
-    "title": "13th"
+    "title": "13th",
+    "poster": "posters/tv/13th.jpg"
   },
   {
     "title": "A.P. Bio",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/a-p-bio.png"
   },
   {
     "title": "3 Body Problem",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/3-body-problem.png"
   },
   {
     "title": "30 Rock",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/30-rock.jpg"
   },
   {
     "title": "Adventure Time",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/adventure-time.png"
   },
   {
     "title": "Ahsoka",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/ahsoka.png"
   },
   {
     "title": "Altered Carbon",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/altered-carbon.jpg"
   },
   {
     "title": "Ambient Swim",
@@ -123,92 +152,114 @@
   },
   {
     "title": "American Gods",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/american-gods.png"
   },
   {
     "notes": "HBO",
-    "title": "Animals"
+    "title": "Animals",
+    "poster": "posters/tv/animals.jpg"
   },
   {
     "title": "Aqua Teen Hunger Force",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/aqua-teen-hunger-force.jpg"
   },
   {
     "title": "Archer",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/archer.jpg"
   },
   {
     "title": "Arrested Development",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/arrested-development.png"
   },
   {
     "notes": "Only watched the first two episodes, but I'm not enjoying it.",
     "title": "Attack on Titan",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/attack-on-titan.jpg"
   },
   {
     "title": "Avatar: The Last Airbender (2024)",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/avatar-the-last-airbender-2024.png"
   },
   {
     "title": "Avenue 5",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/avenue-5.png"
   },
   {
     "title": "Axe Cop",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/axe-cop.png"
   },
   {
     "title": "Bad Monkey",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/bad-monkey.png"
   },
   {
     "title": "Barry",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/barry.png"
   },
   {
     "notes": "Zach Galifianakis",
-    "title": "Baskets"
+    "title": "Baskets",
+    "poster": "posters/tv/baskets.png"
   },
   {
     "title": "Battlestar Galactica (2004)",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/battlestar-galactica-2004.jpg"
   },
   {
     "title": "Beavis and Butt-head",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/beavis-and-butt-head.jpg"
   },
   {
-    "title": "Bee and Puppycat"
+    "title": "Bee and Puppycat",
+    "poster": "posters/tv/bee-and-puppycat.png"
   },
   {
     "title": "Beef",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/beef.png"
   },
   {
     "notes": "anime",
-    "title": "Berserk"
+    "title": "Berserk",
+    "poster": "posters/tv/berserk.jpg"
   },
   {
-    "title": "Bill Nye Saves the World"
+    "title": "Bill Nye Saves the World",
+    "poster": "posters/tv/bill-nye-saves-the-world.png"
   },
   {
     "notes": "It took me a long time to give this show a second chance after that awful first episode, but it turned out to be an amazing show overall!",
     "title": "Black Mirror",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/black-mirror.jpg"
   },
   {
     "notes": "OK, but I just never feel compelled to watch it.",
     "title": "Bob's Burgers",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/bob-s-burgers.jpg"
   },
   {
     "title": "Bojack Horseman",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/bojack-horseman.png"
   },
   {
     "title": "Broad City",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/broad-city.gif"
   },
   {
     "title": "Brooklyn 99",
@@ -216,29 +267,35 @@
   },
   {
     "notes": "Recommended by Brian",
-    "title": "Class of '07"
+    "title": "Class of '07",
+    "poster": "posters/tv/class-of-07.png"
   },
   {
     "title": "Cobra Kai",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/cobra-kai.png"
   },
   {
     "title": "Community",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/community.jpg"
   },
   {
-    "title": "Comrade Detective"
+    "title": "Comrade Detective",
+    "poster": "posters/tv/comrade-detective.jpg"
   },
   {
     "title": "Cooked"
   },
   {
     "title": "Cowboy Bebop (2021)",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/cowboy-bebop-2021.jpg"
   },
   {
     "title": "Cowboy Bebop",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/cowboy-bebop.jpg"
   },
   {
     "notes": "Recommended by Brian",
@@ -246,7 +303,8 @@
   },
   {
     "title": "Cyberpunk Edgerunners",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/cyberpunk-edgerunners.jpg"
   },
   {
     "title": "Danger5"
@@ -258,10 +316,12 @@
   },
   {
     "notes": "Rooster Teeth",
-    "title": "Day 5"
+    "title": "Day 5",
+    "poster": "posters/tv/day-5.png"
   },
   {
-    "title": "Defying Gravity"
+    "title": "Defying Gravity",
+    "poster": "posters/tv/defying-gravity.png"
   },
   {
     "notes": "Recommended by Alan",
@@ -269,125 +329,155 @@
   },
   {
     "title": "Devs",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/devs.png"
   },
   {
     "notes": "Apparently the final scene is pretty relevant to now (2020)",
-    "title": "Dinosaurs"
+    "title": "Dinosaurs",
+    "poster": "posters/tv/dinosaurs.png"
   },
   {
     "title": "Dirk Gently's Holistic Detective Agency",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/dirk-gently-s-holistic-detective-agency.jpg"
   },
   {
     "title": "Doom Patrol",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/doom-patrol.jpg"
   },
   {
     "notes": "On hulu. Recommended by Brian",
-    "title": "Extraordinary"
+    "title": "Extraordinary",
+    "poster": "posters/tv/extraordinary.jpg"
   },
   {
     "title": "Fallout",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/fallout.png"
   },
   {
-    "title": "Family Guy"
+    "title": "Family Guy",
+    "poster": "posters/tv/family-guy.png"
   },
   {
     "title": "Firefly",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/firefly.jpg"
   },
   {
     "notes": "Recommended by Otisi",
     "title": "Flight Attendant",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/flight-attendant.jpg"
   },
   {
     "notes": "Too much drama.",
     "title": "For All Mankind",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/for-all-mankind.png"
   },
   {
     "notes": "Amazon Prime",
-    "title": "Forever"
+    "title": "Forever",
+    "poster": "posters/tv/forever.png"
   },
   {
     "title": "Foundation",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/foundation.jpg"
   },
   {
     "notes": "I don't really remember this show. Meh.",
     "title": "Freaks and Geeks",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/freaks-and-geeks.jpg"
   },
   {
     "title": "Futurama",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/futurama.png"
   },
   {
     "title": "GLOW",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/glow.png"
   },
   {
     "title": "Girls5Eva",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/girls5eva.png"
   },
   {
     "title": "God's Favorite Idiot"
   },
   {
     "title": "Good Omens",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/good-omens.png"
   },
   {
-    "title": "Goosebumps (2023)"
+    "title": "Goosebumps (2023)",
+    "poster": "posters/tv/goosebumps-2023.png"
   },
   {
     "title": "Gravity Falls",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/gravity-falls.png"
   },
   {
     "title": "History of the World: Part II",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/history-of-the-world-part-ii.jpg"
   },
   {
-    "title": "I Think You Should Leave with Tim Robinson"
+    "title": "I Think You Should Leave with Tim Robinson",
+    "poster": "posters/tv/i-think-you-should-leave-with-tim-robinson.png"
   },
   {
     "title": "Invader Zim",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/invader-zim.jpg"
   },
   {
     "title": "Invasion",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/invasion.jpg"
   },
   {
-    "title": "Jackass"
+    "title": "Jackass",
+    "poster": "posters/tv/jackass.png"
   },
   {
     "title": "Jane the Virgin",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/jane-the-virgin.jpg"
   },
   {
     "notes": "Recommended by Arturo",
-    "title": "Jury Duty"
+    "title": "Jury Duty",
+    "poster": "posters/tv/jury-duty.png"
   },
   {
-    "title": "Key and Peele"
+    "title": "Key and Peele",
+    "poster": "posters/tv/key-and-peele.jpg"
   },
   {
     "notes": "Started watching, but didn't make it very far.",
     "title": "Kim's Convenience",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/kim-s-convenience.png"
   },
   {
     "title": "King of the Hill",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/king-of-the-hill.jpg"
   },
   {
     "title": "Kipo and the Age of Wonderbeasts",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/kipo-and-the-age-of-wonderbeasts.png"
   },
   {
     "title": "Larva Island",
@@ -401,154 +491,191 @@
   {
     "notes": "Amazing sound engineering. Crazy show.",
     "title": "Legion",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/legion.jpg"
   },
   {
-    "title": "Lexx"
+    "title": "Lexx",
+    "poster": "posters/tv/lexx.jpg"
   },
   {
-    "title": "Life and Beth"
+    "title": "Life and Beth",
+    "poster": "posters/tv/life-and-beth.jpg"
   },
   {
-    "title": "Limmy's Show"
+    "title": "Limmy's Show",
+    "poster": "posters/tv/limmy-s-show.jpg"
   },
   {
     "notes": "Watched this with Corbin. It started off enjoyable, but towards the end you're just yelling at the actors to stop making stupid decisions, haha.",
     "title": "Locke and Key",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/locke-and-key.png"
   },
   {
     "title": "Loki",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/loki.png"
   },
   {
     "title": "Loudermilk",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/loudermilk.png"
   },
   {
     "notes": "A few good episodes, but it quickly devolved into just sex and gore - the writers seemed to have given up.",
     "title": "Lovecraft Country",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/lovecraft-country.jpg"
   },
   {
-    "title": "Man in the High Castle"
+    "title": "Man in the High Castle",
+    "poster": "posters/tv/man-in-the-high-castle.jpg"
   },
   {
     "notes": "watch with kids",
-    "title": "Man vs. Bee"
+    "title": "Man vs. Bee",
+    "poster": "posters/tv/man-vs-bee.png"
   },
   {
     "title": "Maniac",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/maniac.jpg"
   },
   {
     "title": "Marvel's Hit Monkey",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/marvel-s-hit-monkey.png"
   },
   {
-    "title": "Max Headroom"
+    "title": "Max Headroom",
+    "poster": "posters/tv/max-headroom.png"
   },
   {
     "title": "Metalacolypse",
     "rating": "4"
   },
   {
-    "title": "Mighty Boosh: Tundra"
+    "title": "Mighty Boosh: Tundra",
+    "poster": "posters/tv/mighty-boosh-tundra.png"
   },
   {
-    "title": "Mike Judge Presents: Tales from the Tour Bus"
+    "title": "Mike Judge Presents: Tales from the Tour Bus",
+    "poster": "posters/tv/mike-judge-presents-tales-from-the-tour-bus.png"
   },
   {
     "title": "Mike Judge's Beavis and Butt-head",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/mike-judge-s-beavis-and-butt-head.png"
   },
   {
     "notes": "Entertaining, but not enough to recommend to others.",
     "title": "Miracle Workers",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/miracle-workers.png"
   },
   {
     "title": "Monty Python's Flying Circus",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/monty-python-s-flying-circus.png"
   },
   {
     "title": "Moon Knight",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/moon-knight.jpg"
   },
   {
     "title": "Mr Robot",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/mr-robot.png"
   },
   {
-    "title": "Mr Wizard"
+    "title": "Mr Wizard",
+    "poster": "posters/tv/mr-wizard.png"
   },
   {
-    "title": "Mr. & Mrs. Smith"
+    "title": "Mr. & Mrs. Smith",
+    "poster": "posters/tv/mr-mrs-smith.jpg"
   },
   {
     "notes": "Apple TV",
-    "title": "Mr. Corman"
+    "title": "Mr. Corman",
+    "poster": "posters/tv/mr-corman.png"
   },
   {
     "title": "Mr. Show"
   },
   {
     "title": "Mrs. Davis",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/mrs-davis.jpg"
   },
   {
-    "title": "Ms. Marvel"
+    "title": "Ms. Marvel",
+    "poster": "posters/tv/ms-marvel.jpg"
   },
   {
-    "title": "Never Have I Ever"
+    "title": "Never Have I Ever",
+    "poster": "posters/tv/never-have-i-ever.png"
   },
   {
     "title": "New Girl",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/new-girl.jpg"
   },
   {
     "notes": "Was compelling at first, but the story progresses too slowly, and now the show has been cancelled.",
     "title": "Night Sky",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/night-sky.jpg"
   },
   {
     "title": "Nine Perfect Strangers",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/nine-perfect-strangers.png"
   },
   {
     "title": "One Piece (2023)",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/one-piece-2023.png"
   },
   {
     "title": "Only Murders in the Building (season 4)",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/only-murders-in-the-building-season-4.jpeg"
   },
   {
     "notes": "Recommended by Jake. It was OK. Kind of silly, mildly funny.",
     "title": "Our Flag Means Death",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/our-flag-means-death.png"
   },
   {
     "notes": "https://www.imdb.com/title/tt11685912/",
-    "title": "Outer Range"
+    "title": "Outer Range",
+    "poster": "posters/tv/outer-range.jpg"
   },
   {
-    "title": "Outlaw Star"
+    "title": "Outlaw Star",
+    "poster": "posters/tv/outlaw-star.jpg"
   },
   {
     "notes": "Interesting. Different.",
     "title": "Over the garden Wall",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/over-the-garden-wall.jpg"
   },
   {
     "notes": "I mean... it's a show. It passes the time.",
     "title": "Parks and Recreation",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/parks-and-recreation.jpg"
   },
   {
     "notes": "Meh, not memorable.",
     "title": "Party Down",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/party-down.png"
   },
   {
     "notes": "Recommended by Blanahands and Jake",
@@ -556,49 +683,61 @@
   },
   {
     "title": "Peacemaker",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/peacemaker.jpg"
   },
   {
-    "title": "Philip K. Dick's Electric Dreams"
+    "title": "Philip K. Dick's Electric Dreams",
+    "poster": "posters/tv/philip-k-dick-s-electric-dreams.png"
   },
   {
     "notes": "https://www.imdb.com/title/tt13823494/",
-    "title": "Pistol"
+    "title": "Pistol",
+    "poster": "posters/tv/pistol.jpg"
   },
   {
     "title": "Poker Face",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/poker-face.png"
   },
   {
     "title": "Portlandia",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/portlandia.jpg"
   },
   {
     "notes": "It was intriguing in the beginning, but it went to shit rather quickly.",
     "title": "Raised by Wolves",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/raised-by-wolves.png"
   },
   {
-    "title": "Regular Show"
+    "title": "Regular Show",
+    "poster": "posters/tv/regular-show.png"
   },
   {
     "title": "Resident Alien",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/resident-alien.webp"
   },
   {
-    "title": "Review (with Andy Daly)"
+    "title": "Review (with Andy Daly)",
+    "poster": "posters/tv/review-with-andy-daly.png"
   },
   {
     "title": "Rick and Morty",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/rick-and-morty.png"
   },
   {
     "title": "Roar",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/roar.png"
   },
   {
     "notes": "I like it, but haven't finished it.",
-    "title": "Robot Chicken"
+    "title": "Robot Chicken",
+    "poster": "posters/tv/robot-chicken.png"
   },
   {
     "title": "Scavengers Reign (2023)",
@@ -606,80 +745,100 @@
   },
   {
     "title": "Schitt's Creek",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/schitt-s-creek.png"
   },
   {
-    "title": "Search Party"
+    "title": "Search Party",
+    "poster": "posters/tv/search-party.png"
   },
   {
-    "title": "Serial Experiments Lain"
+    "title": "Serial Experiments Lain",
+    "poster": "posters/tv/serial-experiments-lain.jpg"
   },
   {
     "title": "Severance",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/severance.png"
   },
   {
-    "title": "Shaun the Sheep: The Flight Before Christmas"
+    "title": "Shaun the Sheep: The Flight Before Christmas",
+    "poster": "posters/tv/shaun-the-sheep-the-flight-before-christmas.png"
   },
   {
     "notes": "Recommended by blanahan",
     "title": "She-Hulk: Attorney at Law",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/she-hulk-attorney-at-law.jpg"
   },
   {
     "title": "Silicon Valley",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/silicon-valley.png"
   },
   {
     "title": "Silo",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/silo.jpg"
   },
   {
     "notes": "Entertaining, but not enough to recommend to others.",
     "title": "Snowpiercer",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/snowpiercer.png"
   },
   {
-    "title": "Solar Opposites"
+    "title": "Solar Opposites",
+    "poster": "posters/tv/solar-opposites.png"
   },
   {
     "notes": "This show was so good!",
     "title": "Son of Zorn",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/son-of-zorn.png"
   },
   {
     "title": "Space Ghost Coast to Coast",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/space-ghost-coast-to-coast.png"
   },
   {
     "title": "Squid Games",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/squid-games.png"
   },
   {
-    "title": "Squidbillies"
+    "title": "Squidbillies",
+    "poster": "posters/tv/squidbillies.png"
   },
   {
-    "title": "Star Trek: Discovery"
+    "title": "Star Trek: Discovery",
+    "poster": "posters/tv/star-trek-discovery.png"
   },
   {
     "title": "Star Trek: Lower Decks",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/star-trek-lower-decks.jpg"
   },
   {
     "title": "Star Trek: Picard",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/star-trek-picard.png"
   },
   {
     "title": "Star Trek: Strange New Worlds",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/star-trek-strange-new-worlds.jpeg"
   },
   {
     "title": "Star Trek: The Next Generation",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/star-trek-the-next-generation.png"
   },
   {
     "title": "Star Wars: Andor",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/star-wars-andor.png"
   },
   {
     "title": "Star Wars: Obi Wan",
@@ -688,64 +847,79 @@
   {
     "notes": "Good beginning, but I lost interest towards the end...",
     "title": "Station Eleven",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/station-eleven.png"
   },
   {
-    "title": "Steven Universe"
+    "title": "Steven Universe",
+    "poster": "posters/tv/steven-universe.png"
   },
   {
     "title": "Stranger Things",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/stranger-things.png"
   },
   {
     "notes": "It was good, but there are too many seasons of the same shit.",
     "title": "Succession",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/succession.jpg"
   },
   {
     "rating": "3",
-    "title": "Sunny (2024)"
+    "title": "Sunny (2024)",
+    "poster": "posters/tv/sunny-2024.png"
   },
   {
     "title": "Superstore",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/superstore.jpg"
   },
   {
     "notes": "Interesting. Weird. But I don't think I'd watch another season of it.",
     "title": "Sweet Tooth",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/sweet-tooth.png"
   },
   {
     "notes": "recommended by Jeremy",
-    "title": "Tales from the Loop"
+    "title": "Tales from the Loop",
+    "poster": "posters/tv/tales-from-the-loop.jpg"
   },
   {
     "title": "Ted Lasso",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/ted-lasso.jpg"
   },
   {
     "imdb": "https://www.imdb.com/title/tt12614214/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520afterparty",
     "title": "The Afterparty (2022)",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/the-afterparty-2022.png"
   },
   {
     "title": "The Amazing World of Gumball",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/the-amazing-world-of-gumball.png"
   },
   {
     "notes": "Prime. Recommneded by Otisi",
-    "title": "The Americans"
+    "title": "The Americans",
+    "poster": "posters/tv/the-americans.png"
   },
   {
     "title": "The Aquabats! Super Show!",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/the-aquabats-super-show.png"
   },
   {
-    "title": "The Ballad of Buster Scruggs"
+    "title": "The Ballad of Buster Scruggs",
+    "poster": "posters/tv/the-ballad-of-buster-scruggs.png"
   },
   {
     "title": "The Big Door Prize",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/the-big-door-prize.png"
   },
   {
     "notes": "Recommended by random ConsenSys people.",
@@ -754,78 +928,98 @@
   {
     "notes": "Too gory, but still interesting.",
     "title": "The Boys",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/the-boys.png"
   },
   {
     "notes": "Brian says the first season was so good it restored his faith in humanity.",
-    "title": "The Circle"
+    "title": "The Circle",
+    "poster": "posters/tv/the-circle.png"
   },
   {
-    "title": "The Dark Crystal: Age of Resistance"
+    "title": "The Dark Crystal: Age of Resistance",
+    "poster": "posters/tv/the-dark-crystal-age-of-resistance.png"
   },
   {
-    "title": "The Guardians of Justice"
+    "title": "The Guardians of Justice",
+    "poster": "posters/tv/the-guardians-of-justice.jpg"
   },
   {
     "notes": "I'm not into reality TV.",
     "title": "The Handmaid's Tale",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/the-handmaid-s-tale.png"
   },
   {
     "title": "The IT Crowd",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/the-it-crowd.jpg"
   },
   {
-    "title": "The Increasingly Poor Decisions of Todd Margaret"
+    "title": "The Increasingly Poor Decisions of Todd Margaret",
+    "poster": "posters/tv/the-increasingly-poor-decisions-of-todd-margaret.png"
   },
   {
     "notes": "Didn't finish it. Main character is too annoying.",
     "title": "The Last Man on Earth TV show (FOX)",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/the-last-man-on-earth-tv-show-fox.jpg"
   },
   {
     "review": "",
-    "title": "The Last of Us"
+    "title": "The Last of Us",
+    "poster": "posters/tv/the-last-of-us.png"
   },
   {
-    "title": "The Mighty Boosh"
+    "title": "The Mighty Boosh",
+    "poster": "posters/tv/the-mighty-boosh.png"
   },
   {
     "notes": "HBO. Recommended by Otisi",
-    "title": "The Nevers"
+    "title": "The Nevers",
+    "poster": "posters/tv/the-nevers.png"
   },
   {
-    "title": "The Orville: New Horizons"
+    "title": "The Orville: New Horizons",
+    "poster": "posters/tv/the-orville-new-horizons.png"
   },
   {
     "title": "The Outlaws (2021)",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/the-outlaws-2021.jpg"
   },
   {
     "title": "The Peripheral",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/the-peripheral.jpg"
   },
   {
     "notes": "on amazon prime",
-    "title": "The Preacher"
+    "title": "The Preacher",
+    "poster": "posters/tv/the-preacher.png"
   },
   {
-    "title": "The Sandman (2022)"
+    "title": "The Sandman (2022)",
+    "poster": "posters/tv/the-sandman-2022.jpg"
   },
   {
     "title": "The Simpsons",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/the-simpsons.png"
   },
   {
-    "title": "The Tick"
+    "title": "The Tick",
+    "poster": "posters/tv/the-tick.png"
   },
   {
-    "title": "The Wire"
+    "title": "The Wire",
+    "poster": "posters/tv/the-wire.png"
   },
   {
     "notes": "This show had such subtle but amazing comedy in it. I dunno. I really enjoyed it.",
     "title": "The Woman in the House Across the Street From the Girl in the Window",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/the-woman-in-the-house-across-the-street-from-the-girl-in-the-window.png"
   },
   {
     "title": "This Fool",
@@ -835,79 +1029,98 @@
     "title": "This Giant Beast That is the Global Economy"
   },
   {
-    "title": "Tim & Eric Awesome Show"
+    "title": "Tim & Eric Awesome Show",
+    "poster": "posters/tv/tim-eric-awesome-show.png"
   },
   {
     "rating": "3",
-    "title": "Time Bandits"
+    "title": "Time Bandits",
+    "poster": "posters/tv/time-bandits.png"
   },
   {
-    "title": "Trigun Stampede"
+    "title": "Trigun Stampede",
+    "poster": "posters/tv/trigun-stampede.jpg"
   },
   {
     "title": "Trigun",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/trigun.png"
   },
   {
     "notes": "Either ridiculously funny, or just kind of weird. On the fence.",
     "title": "Unbreakable Kimmy Schmidt",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/unbreakable-kimmy-schmidt.png"
   },
   {
     "title": "Unstable",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/unstable.png"
   },
   {
     "title": "Upload",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/upload.jpeg"
   },
   {
     "title": "WandaVision",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/wandavision.png"
   },
   {
     "title": "Watchmen",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/watchmen.jpg"
   },
   {
     "title": "Wednesday",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/wednesday.png"
   },
   {
     "notes": "Finsihed seasons 1, 2, and maybe 3? Was good.",
     "title": "Westworld",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/tv/westworld.jpg"
   },
   {
     "title": "What We Do In The Shadows",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/what-we-do-in-the-shadows.jpg"
   },
   {
     "notes": "Freaking music, set in Hawaii, love it.",
     "title": "White Lotus",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/white-lotus.png"
   },
   {
     "notes": "The first couple of episodes were alright, but the 3rd and 4th fell apart...",
     "title": "Willow",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/willow.jpg"
   },
   {
-    "title": "Wipeout"
+    "title": "Wipeout",
+    "poster": "posters/tv/wipeout.png"
   },
   {
     "title": "Workaholics",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/workaholics.png"
   },
   {
     "title": "Young Sheldon",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/young-sheldon.png"
   },
   {
-    "title": "bravest warriors"
+    "title": "bravest warriors",
+    "poster": "posters/tv/bravest-warriors.png"
   },
   {
-    "title": "burn notice"
+    "title": "burn notice",
+    "poster": "posters/tv/burn-notice.png"
   },
   {
     "title": "http://www.startrekcontinues.com/"
@@ -922,93 +1135,120 @@
     "title": "https://www.imdb.com/chart/toptv/"
   },
   {
-    "title": "humans"
+    "title": "humans",
+    "poster": "posters/tv/humans.png"
   },
   {
     "title": "iBlade (Rooster Teeth)"
   },
   {
-    "title": "la Reina de sur"
+    "title": "la Reina de sur",
+    "poster": "posters/tv/la-reina-de-sur.jpg"
   },
   {
-    "title": "rockos modern life"
+    "title": "rockos modern life",
+    "poster": "posters/tv/rockos-modern-life.png"
   },
   {
     "title": "the Orville",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/the-orville.jpeg"
   },
   {
     "title": "the good place",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/the-good-place.png"
   },
   {
     "title": "the venture bros"
   },
   {
-    "title": "you me and the apocalypse"
+    "title": "you me and the apocalypse",
+    "poster": "posters/tv/you-me-and-the-apocalypse.png"
   },
   {
     "title": "Big Mistakes",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/big-mistakes.jpeg"
   },
   {
-    "title": "The Bondsman"
+    "title": "The Bondsman",
+    "poster": "posters/tv/the-bondsman.jpg"
   },
   {
-    "title": "I'm a Virgo"
+    "title": "I'm a Virgo",
+    "poster": "posters/tv/i-m-a-virgo.png"
   },
   {
-    "title": "Undone"
+    "title": "Undone",
+    "poster": "posters/tv/undone.jpg"
   },
   {
-    "title": "Invincible"
+    "title": "Invincible",
+    "poster": "posters/tv/invincible.jpg"
   },
   {
-    "title": "Fallout: The Ghoul Log"
+    "title": "Fallout: The Ghoul Log",
+    "poster": "posters/tv/fallout-the-ghoul-log.png"
   },
   {
-    "title": "Odd Taxi"
+    "title": "Odd Taxi",
+    "poster": "posters/tv/odd-taxi.jpg"
   },
   {
     "title": "Gary and His Demons"
   },
   {
-    "title": "Mr. Bean"
+    "title": "Mr. Bean",
+    "poster": "posters/tv/mr-bean.jpg"
   },
   {
-    "title": "Red vs. Blue"
+    "title": "Red vs. Blue",
+    "poster": "posters/tv/red-vs-blue.jpg"
   },
   {
     "title": "Stargate Origins",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/tv/stargate-origins.png"
   },
   {
     "title": "Primal",
-    "notes": "Genndy Tartakovsky"
+    "notes": "Genndy Tartakovsky",
+    "poster": "posters/tv/primal.png"
   },
   {
-    "title": "Adventure Time: Fionna & Cake"
+    "title": "Adventure Time: Fionna & Cake",
+    "poster": "posters/tv/adventure-time-fionna-cake.png"
   },
   {
-    "title": "The Way of the Househusband"
+    "title": "The Way of the Househusband",
+    "poster": "posters/tv/the-way-of-the-househusband.jpg"
   },
   {
     "title": "Love, Death & Robots",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/love-death-robots.png"
   },
   {
     "title": "Dandadan",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/dandadan.webp"
   },
   {
     "title": "Lanterns",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/tv/lanterns.png"
   },
   {
     "title": "President Curtis",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/tv/president-curtis.png"
   },
   {
-    "title": "Rick and Morty: The Anime"
+    "title": "Rick and Morty: The Anime",
+    "poster": "posters/tv/rick-and-morty-the-anime.png"
+  },
+  {
+    "title": "Haunted Hotel"
   }
 ]

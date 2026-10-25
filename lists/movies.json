@@ -1,238 +1,297 @@
 [
   {
     "_title": "12 Monkeys",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/12-monkeys.jpg"
   },
   {
     "_title": "21 Jump Street",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/21-jump-street.jpg"
   },
   {
     "_title": "8-bit Christmas",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/8-bit-christmas.jpg"
   },
   {
     "_title": "A Bug's Life",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/a-bug-s-life.jpg"
   },
   {
     "_title": "A Christmas Story",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/a-christmas-story.jpg"
   },
   {
     "_title": "A Minecraft Movie",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/a-minecraft-movie.jpg"
   },
   {
     "_title": "A Quiet Place Part II",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/a-quiet-place-part-ii.jpg"
   },
   {
     "_title": "A Quiet Place",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/a-quiet-place.png"
   },
   {
     "_title": "A Quiet Place: Day One",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/a-quiet-place-day-one.jpg"
   },
   {
     "_title": "A Serious Man",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/a-serious-man.png"
   },
   {
-    "_title": "A Simple Favor"
+    "_title": "A Simple Favor",
+    "poster": "posters/movies/a-simple-favor.png"
   },
   {
     "_title": "A Turtle's Tale: Sammy's Adventures",
     "rating": "4",
-    "review": "Corbin loved this movie when he was little."
+    "review": "Corbin loved this movie when he was little.",
+    "poster": "posters/movies/a-turtle-s-tale-sammy-s-adventures.jpg"
   },
   {
     "_title": "A Wrinkle in Time",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/a-wrinkle-in-time.jpg"
   },
   {
-    "_title": "Adaptation"
+    "_title": "Adaptation",
+    "poster": "posters/movies/adaptation.jpg"
   },
   {
     "_title": "Adult Swim Yule Log",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/adult-swim-yule-log.png"
   },
   {
-    "_title": "Airplane!"
+    "_title": "Airplane!",
+    "poster": "posters/movies/airplane.jpg"
   },
   {
     "_title": "Aladdin (1992)",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/aladdin-1992.jpg"
   },
   {
     "_title": "Alice in Wonderland",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/alice-in-wonderland.png"
   },
   {
     "_title": "Alita battle angel",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/alita-battle-angel.png"
   },
   {
     "_title": "All is Lost",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/all-is-lost.jpg"
   },
   {
     "_title": "Altered Carbon: Resleeved",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/altered-carbon-resleeved.jpg"
   },
   {
     "_title": "Amelie",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/amelie.jpg"
   },
   {
     "_title": "America: The Motion Picture",
     "rating": "0",
-    "review": "So bad that I barely made it past the exposition."
+    "review": "So bad that I barely made it past the exposition.",
+    "poster": "posters/movies/america-the-motion-picture.jpg"
   },
   {
     "_title": "American Ultra",
     "rating": "2",
-    "review": "decent. not amazing."
+    "review": "decent. not amazing.",
+    "poster": "posters/movies/american-ultra.jpg"
   },
   {
     "_title": "Anon",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/anon.png"
   },
   {
-    "_title": "Another Simple Favor"
+    "_title": "Another Simple Favor",
+    "poster": "posters/movies/another-simple-favor.png"
   },
   {
     "_title": "Ant-Man and the Wasp",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/ant-man-and-the-wasp.jpg"
   },
   {
     "_title": "Ant-Man",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/ant-man.jpg"
   },
   {
     "_title": "Arrival",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/arrival.jpg"
   },
   {
     "_title": "Ash vs. Evil Dead",
     "rating": "2",
-    "review": "Really similar to the original movies, but I'm just not that into it."
+    "review": "Really similar to the original movies, but I'm just not that into it.",
+    "poster": "posters/movies/ash-vs-evil-dead.png"
   },
   {
-    "_title": "Baby Driver"
+    "_title": "Baby Driver",
+    "poster": "posters/movies/baby-driver.jpg"
   },
   {
     "_title": "Back to the Future Part II",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/back-to-the-future-part-ii.jpg"
   },
   {
     "_title": "Back to the Future",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/back-to-the-future.jpg"
   },
   {
     "_title": "Bad Grandpa",
     "rating": "2",
-    "review": "Crossdessing kid trolling the pagent at the end was amazing, but overall, not worth it."
+    "review": "Crossdessing kid trolling the pagent at the end was amazing, but overall, not worth it.",
+    "poster": "posters/movies/bad-grandpa.jpg"
   },
   {
     "_title": "Bad Moms",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/bad-moms.jpg"
   },
   {
     "_title": "Baraka",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/baraka.jpg"
   },
   {
     "_title": "Barbie",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/barbie.jpg"
   },
   {
     "_title": "Barton Fink",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/barton-fink.jpg"
   },
   {
     "_title": "Battlestar Galactica: The Complete Series",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/battlestar-galactica-the-complete-series.jpg"
   },
   {
     "_title": "Baywatch",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/baywatch.jpg"
   },
   {
     "_title": "Beach Bum",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/beach-bum.png"
   },
   {
     "_title": "Beavis and Butt-head Do America",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/beavis-and-butt-head-do-america.jpg"
   },
   {
     "_title": "Beavis and Butt-head Do The Universe",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/beavis-and-butt-head-do-the-universe.jpg"
   },
   {
     "_title": "Beetlejuice Beetlejuice (2024)",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/beetlejuice-beetlejuice-2024.jpg"
   },
   {
     "_title": "Beetlejuice",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/beetlejuice.png"
   },
   {
-    "_title": "Being John Malkovich"
+    "_title": "Being John Malkovich",
+    "poster": "posters/movies/being-john-malkovich.jpg"
   },
   {
     "_title": "Beverly Hills Cop: Axel F",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/beverly-hills-cop-axel-f.jpg"
   },
   {
     "_title": "Big Daddy",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/big-daddy.jpg"
   },
   {
     "_title": "Big Trouble in Little China",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/big-trouble-in-little-china.jpg"
   },
   {
     "_title": "Big",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/big.jpg"
   },
   {
     "_title": "Bill & Ted Face the Music",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/bill-ted-face-the-music.jpg"
   },
   {
     "_title": "Bill and Teds Excellent Adventure",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/bill-and-teds-excellent-adventure.jpg"
   },
   {
     "_title": "Birdman",
     "rating": "4",
-    "review": "Awesome"
+    "review": "Awesome",
+    "poster": "posters/movies/birdman.png"
   },
   {
     "_title": "Black Mirror Bandersnatch",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/black-mirror-bandersnatch.jpg"
   },
   {
     "_title": "Black Panther",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/black-panther.jpg"
   },
   {
     "_title": "Black Panther: Wakanda Forever",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/black-panther-wakanda-forever.jpg"
   },
   {
-    "_title": "BlackkKlansman"
+    "_title": "BlackkKlansman",
+    "poster": "posters/movies/blackkklansman.png"
   },
   {
     "_title": "Blade Runner 2049",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/blade-runner-2049.png"
   },
   {
     "_title": "Blade Runner",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/blade-runner.png"
   },
   {
     "_title": "Blood Machines",
@@ -241,101 +300,125 @@
   },
   {
     "_title": "Blood Simple",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/blood-simple.jpg"
   },
   {
     "_title": "Bone Tomahawk",
     "rating": "0",
-    "review": "Alternated between too boring and just fucking awful violence and gore. I couldn't even finish it."
+    "review": "Alternated between too boring and just fucking awful violence and gore. I couldn't even finish it.",
+    "poster": "posters/movies/bone-tomahawk.jpg"
   },
   {
-    "_title": "Bookworm"
+    "_title": "Bookworm",
+    "poster": "posters/movies/bookworm.jpg"
   },
   {
     "_title": "Borat Subsequent Moviefilm",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/borat-subsequent-moviefilm.jpeg"
   },
   {
     "_title": "Borderlands",
     "rating": "3",
-    "review": "I love the Borderlands games, and I feel like this was a fairly faithful adaptation. That being said, it was not an amazing movie... but it wasn't terrible either."
+    "review": "I love the Borderlands games, and I feel like this was a fairly faithful adaptation. That being said, it was not an amazing movie... but it wasn't terrible either.",
+    "poster": "posters/movies/borderlands.jpg"
   },
   {
     "_title": "Braid",
-    "review": "Funded by Ethereum/ERC20 crowdsale, produced by Joe Lubin... Interesting."
+    "review": "Funded by Ethereum/ERC20 crowdsale, produced by Joe Lubin... Interesting.",
+    "poster": "posters/movies/braid.jpg"
   },
   {
     "_title": "Brave",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/brave.jpg"
   },
   {
-    "_title": "Brazil"
+    "_title": "Brazil",
+    "poster": "posters/movies/brazil.jpg"
   },
   {
-    "_title": "Brewster's Millions"
+    "_title": "Brewster's Millions",
+    "poster": "posters/movies/brewster-s-millions.jpg"
   },
   {
     "_title": "Bullet Train",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/bullet-train.jpeg"
   },
   {
     "_title": "Burn After Reading",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/burn-after-reading.png"
   },
   {
-    "_title": "Buster's Mal Heart"
+    "_title": "Buster's Mal Heart",
+    "poster": "posters/movies/buster-s-mal-heart.jpg"
   },
   {
     "_title": "Bāhubali 2: The Conclcusion",
     "comments": "This is the one with the dudes with shields being catapulted - ridiculous Bollywood action crazy crap."
   },
   {
-    "_title": "Bāhubali: The Beginning"
+    "_title": "Bāhubali: The Beginning",
+    "poster": "posters/movies/bahubali-the-beginning.jpg"
   },
   {
     "_title": "Captain America: Civil War",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/captain-america-civil-war.jpg"
   },
   {
     "_title": "Captain America: The First Avenger",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/captain-america-the-first-avenger.jpg"
   },
   {
     "_title": "Captain Fantastic",
     "rating": "4",
-    "review": "Not as funny as I thought, but shows the inherent fallacy of trying to raise perfrect children..."
+    "review": "Not as funny as I thought, but shows the inherent fallacy of trying to raise perfrect children...",
+    "poster": "posters/movies/captain-fantastic.jpg"
   },
   {
-    "_title": "Captain Horatio Hornblower"
+    "_title": "Captain Horatio Hornblower",
+    "poster": "posters/movies/captain-horatio-hornblower.jpg"
   },
   {
     "_title": "Captain Marvel",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/captain-marvel.jpg"
   },
   {
     "_title": "Captain Phillips",
-    "notes": "Look at me, I am the captain now"
+    "notes": "Look at me, I am the captain now",
+    "poster": "posters/movies/captain-phillips.jpg"
   },
   {
     "_title": "Captain Ron",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/captain-ron.jpg"
   },
   {
     "_title": "Cars",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/cars.jpg"
   },
   {
     "_title": "Caught Stealing",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/caught-stealing.jpg"
   },
   {
     "_title": "Cave of Forgotten Dreams",
     "rating": "2",
-    "review": "Was on a Werner Herzog kick. Interesting."
+    "review": "Was on a Werner Herzog kick. Interesting.",
+    "poster": "posters/movies/cave-of-forgotten-dreams.jpg"
   },
   {
     "_title": "Central Intelligence",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/central-intelligence.jpg"
   },
   {
     "_title": "Century of Enslavement",
@@ -344,39 +427,48 @@
   },
   {
     "_title": "Christopher Robin (2018)",
-    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies.",
+    "poster": "posters/movies/christopher-robin-2018.png"
   },
   {
     "_title": "Civil War (2024)",
-    "rating": "1"
+    "rating": "1",
+    "poster": "posters/movies/civil-war-2024.jpeg"
   },
   {
     "_title": "Clash of the Titans",
-    "review": "Corbin says he loves it."
+    "review": "Corbin says he loves it.",
+    "poster": "posters/movies/clash-of-the-titans.jpg"
   },
   {
-    "_title": "Cocaine Bear"
+    "_title": "Cocaine Bear",
+    "poster": "posters/movies/cocaine-bear.jpg"
   },
   {
     "_title": "Coco",
     "rating": "2",
-    "review": "It was good, but it was too... something... like a pop music song or something. It was engineered to be good and that's what makes it not amazing."
+    "review": "It was good, but it was too... something... like a pop music song or something. It was engineered to be good and that's what makes it not amazing.",
+    "poster": "posters/movies/coco.jpg"
   },
   {
     "_title": "Colossal",
     "rating": "4",
-    "review": "Best movie about giant monsters, alcoholism, and abusive relationships that I've ever seen."
+    "review": "Best movie about giant monsters, alcoholism, and abusive relationships that I've ever seen.",
+    "poster": "posters/movies/colossal.png"
   },
   {
     "_title": "Coming 2 America",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/coming-2-america.jpg"
   },
   {
     "_title": "Coming to America",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/coming-to-america.jpg"
   },
   {
-    "_title": "Companion"
+    "_title": "Companion",
+    "poster": "posters/movies/companion.jpg"
   },
   {
     "_title": "Cops? What?",
@@ -384,1127 +476,1406 @@
   },
   {
     "_title": "Cowboy Bebop Remix",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/cowboy-bebop-remix.jpg"
   },
   {
     "_title": "Crimewave",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/crimewave.jpg"
   },
   {
-    "_title": "DAFT PUNK & LEIJI MATSUMOTO'S INTERSTELLA 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM"
+    "_title": "DAFT PUNK & LEIJI MATSUMOTO'S INTERSTELLA 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM",
+    "poster": "posters/movies/daft-punk-leiji-matsumoto-s-interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem.jpg"
   },
   {
     "_title": "DC League of Super-Pets",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/dc-league-of-super-pets.jpg"
   },
   {
     "_title": "Daddy's Home",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/daddy-s-home.png"
   },
   {
     "_title": "Dead Man",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/dead-man.jpg"
   },
   {
     "_title": "Deadpool & Wolverine",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/deadpool-wolverine.jpg"
   },
   {
     "_title": "Deadpool 2",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/deadpool-2.jpg"
   },
   {
     "_title": "Dear Santa (2024)",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/dear-santa-2024.jpg"
   },
   {
-    "_title": "Death at a Funeral"
+    "_title": "Death at a Funeral",
+    "poster": "posters/movies/death-at-a-funeral.jpg"
   },
   {
     "_title": "Death of a Unicorn",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/death-of-a-unicorn.jpg"
   },
   {
     "_title": "Deep Cover",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/deep-cover.jpg"
   },
   {
     "_title": "Demolition Man",
     "rating": "2",
-    "review": "Kind of amusing, and somewhat prescient when watching it in 2022, but ultimately not an amazing movie."
+    "review": "Kind of amusing, and somewhat prescient when watching it in 2022, but ultimately not an amazing movie.",
+    "poster": "posters/movies/demolition-man.jpg"
   },
   {
     "_title": "Despicable Me 2",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/despicable-me-2.jpg"
   },
   {
     "_title": "Despicable Me 3",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/despicable-me-3.jpg"
   },
   {
     "_title": "Despicable Me 4",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/despicable-me-4.jpeg"
   },
   {
     "_title": "Despicable Me",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/despicable-me.jpg"
   },
   {
     "_title": "Divergent",
     "rating": "1",
-    "review": "Dumb - I need to stop watching this kinda shit."
+    "review": "Dumb - I need to stop watching this kinda shit.",
+    "poster": "posters/movies/divergent.jpg"
   },
   {
     "_title": "Doctor Strange in the Multiverse of Madness",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/doctor-strange-in-the-multiverse-of-madness.jpg"
   },
   {
     "_title": "Doctor Strange",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/doctor-strange.jpg"
   },
   {
     "_title": "Don't Look Up",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/don-t-look-up.jpg"
   },
   {
-    "_title": "Don't Worry, He Won't Get Far on Foot"
+    "_title": "Don't Worry, He Won't Get Far on Foot",
+    "poster": "posters/movies/don-t-worry-he-won-t-get-far-on-foot.jpeg"
   },
   {
     "_title": "Donnie Darko",
     "rating": "5",
-    "review": "Great"
+    "review": "Great",
+    "poster": "posters/movies/donnie-darko.jpg"
   },
   {
     "_title": "Doomsday",
     "rating": "4",
-    "review": "Ridiculous"
+    "review": "Ridiculous",
+    "poster": "posters/movies/doomsday.jpg"
   },
   {
     "_title": "Dora and the Lost City of Gold",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/dora-and-the-lost-city-of-gold.jpg"
   },
   {
     "_title": "Downsizing",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/downsizing.png"
   },
   {
-    "_title": "Dream Scenario"
+    "_title": "Dream Scenario",
+    "poster": "posters/movies/dream-scenario.jpg"
   },
   {
     "_title": "Dredd",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/dredd.jpg"
   },
   {
     "_title": "Dumb Money",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/dumb-money.png"
   },
   {
     "_title": "Dumb and Dumber To",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/dumb-and-dumber-to.jpg"
   },
   {
     "_title": "Dune (2020)",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/dune-2020.jpg"
   },
   {
     "_title": "Dungeons & Dragons: Honor Among Thieves",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/dungeons-dragons-honor-among-thieves.jpg"
   },
   {
-    "_title": "Dust Bunny"
+    "_title": "Dust Bunny",
+    "poster": "posters/movies/dust-bunny.jpg"
   },
   {
-    "_title": "E.T. the Extra Terrestrial"
+    "_title": "E.T. the Extra Terrestrial",
+    "poster": "posters/movies/e-t-the-extra-terrestrial.jpg"
   },
   {
     "_title": "Edge of Tomorrow",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/edge-of-tomorrow.jpg"
   },
   {
     "_title": "Elf",
     "rating": "5",
-    "review": "Hilarious!"
+    "review": "Hilarious!",
+    "poster": "posters/movies/elf.jpg"
   },
   {
     "_title": "Encanto",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/encanto.jpg"
   },
   {
     "_title": "Encounters at the End of the World",
     "rating": "2",
-    "review": "Was on a Werner Herzog kick. Interesting."
+    "review": "Was on a Werner Herzog kick. Interesting.",
+    "poster": "posters/movies/encounters-at-the-end-of-the-world.jpg"
   },
   {
     "_title": "Enola Holmes 2",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/enola-holmes-2.png"
   },
   {
     "_title": "Enola Holmes",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/enola-holmes.jpeg"
   },
   {
     "_title": "Entergalactic",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/entergalactic.png"
   },
   {
     "_title": "Ernest Goes to Camp",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/ernest-goes-to-camp.jpg"
   },
   {
     "_title": "Ernest Saves Christmas",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/ernest-saves-christmas.jpg"
   },
   {
     "_title": "Escape from L.A.",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/escape-from-l-a.jpg"
   },
   {
     "_title": "Escape from New York",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/escape-from-new-york.jpg"
   },
   {
     "_title": "Eternal Sunshine of the Spotless Mind",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/eternal-sunshine-of-the-spotless-mind.png"
   },
   {
     "_title": "Everything Everywhere All at Once",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/everything-everywhere-all-at-once.jpg"
   },
   {
-    "_title": "Everything is Illuminated"
+    "_title": "Everything is Illuminated",
+    "poster": "posters/movies/everything-is-illuminated.jpg"
   },
   {
-    "_title": "Evilspeak"
+    "_title": "Evilspeak",
+    "poster": "posters/movies/evilspeak.jpg"
   },
   {
     "_title": "Explorers",
     "rating": "2",
-    "review": "was good when I was a kid. didn't hold up."
+    "review": "was good when I was a kid. didn't hold up.",
+    "poster": "posters/movies/explorers.jpg"
   },
   {
-    "_title": "Extra ordinary"
+    "_title": "Extra ordinary",
+    "poster": "posters/movies/extra-ordinary.jpg"
   },
   {
     "_title": "Fantastic Beasts and Where to Find Them",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/fantastic-beasts-and-where-to-find-them.jpg"
   },
   {
     "_title": "Fargo",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/fargo.jpg"
   },
   {
-    "_title": "Ferris Bueller's Day Off"
+    "_title": "Ferris Bueller's Day Off",
+    "poster": "posters/movies/ferris-bueller-s-day-off.jpg"
   },
   {
     "_title": "Fight Club",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/fight-club.jpg"
   },
   {
     "_title": "Finch",
     "rating": "2",
-    "review": "Trash"
+    "review": "Trash",
+    "poster": "posters/movies/finch.jpg"
   },
   {
     "_title": "Finding Dory",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/finding-dory.jpg"
   },
   {
     "_title": "Finding Nemo",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/finding-nemo.jpg"
   },
   {
-    "_title": "Finding Ohana"
+    "_title": "Finding Ohana",
+    "poster": "posters/movies/finding-ohana.jpg"
   },
   {
     "_title": "First Strike",
-    "review": "watch with kids"
+    "review": "watch with kids",
+    "poster": "posters/movies/first-strike.jpg"
   },
   {
     "_title": "Flash Gordon",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/flash-gordon.jpg"
   },
   {
     "_title": "Flight of the Navigator",
     "rating": "2",
-    "review": "I liked this movie when I was a kid, but it's really not that interesting."
+    "review": "I liked this movie when I was a kid, but it's really not that interesting.",
+    "poster": "posters/movies/flight-of-the-navigator.jpg"
   },
   {
     "_title": "Flow",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/flow.jpg"
   },
   {
     "_title": "Fly Me to the Moon",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/fly-me-to-the-moon.jpg"
   },
   {
     "_title": "Freakonomics",
     "rating": "2",
-    "review": "Basically just a video podcast. It's alright, but the podcasts are better."
+    "review": "Basically just a video podcast. It's alright, but the podcasts are better.",
+    "poster": "posters/movies/freakonomics.jpg"
   },
   {
     "_title": "Free guy",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/free-guy.jpg"
   },
   {
     "_title": "Freelance",
     "rating": "2",
-    "review": "Decent but not good enough to recommend."
+    "review": "Decent but not good enough to recommend.",
+    "poster": "posters/movies/freelance.png"
   },
   {
     "_title": "Furiosa: A Mad Max Saga",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/furiosa-a-mad-max-saga.jpg"
   },
   {
     "_title": "G20",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/g20.jpg"
   },
   {
-    "_title": "Gambit"
+    "_title": "Gambit",
+    "poster": "posters/movies/gambit.jpg"
   },
   {
     "_title": "Game Night",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/game-night.png"
   },
   {
     "_title": "Gentlemen Broncos",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/gentlemen-broncos.jpg"
   },
   {
-    "_title": "Geostorm"
+    "_title": "Geostorm",
+    "poster": "posters/movies/geostorm.jpg"
   },
   {
     "_title": "Get Out",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/get-out.png"
   },
   {
-    "_title": "Ghost Story"
+    "_title": "Ghost Story",
+    "poster": "posters/movies/ghost-story.jpg"
   },
   {
-    "_title": "Ghost in the Shell 2.0"
+    "_title": "Ghost in the Shell 2.0",
+    "poster": "posters/movies/ghost-in-the-shell-2-0-2.jpg"
   },
   {
     "_title": "Ghost in the Shell",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/ghost-in-the-shell.png"
   },
   {
     "_title": "Ghostbusters II",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/ghostbusters-ii.jpg"
   },
   {
     "_title": "Ghostbusters",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/ghostbusters.png"
   },
   {
     "_title": "Ghostbusters: Afterlife",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/ghostbusters-afterlife.jpg"
   },
   {
     "_title": "Ghostbusters: Frozen Empire",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/ghostbusters-frozen-empire.jpg"
   },
   {
     "_title": "Glass Onion",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/glass-onion.jpg"
   },
   {
-    "_title": "Gleaming the Cube"
+    "_title": "Gleaming the Cube",
+    "poster": "posters/movies/gleaming-the-cube.jpg"
   },
   {
     "_title": "Going in Style",
     "rating": "2",
-    "review": "meh"
+    "review": "meh",
+    "poster": "posters/movies/going-in-style.jpg"
   },
   {
     "_title": "Gone Girl",
-    "review": "Music by NIN"
+    "review": "Music by NIN",
+    "poster": "posters/movies/gone-girl.jpg"
   },
   {
     "_title": "Good Fortune",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/good-fortune.jpg"
   },
   {
-    "_title": "Gremlins"
+    "_title": "Gremlins",
+    "poster": "posters/movies/gremlins.jpg"
   },
   {
     "_title": "Guardians of the Galaxy Vol. 2",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/guardians-of-the-galaxy-vol-2.jpg"
   },
   {
     "_title": "Guardians of the Galaxy Vol. 3",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/guardians-of-the-galaxy-vol-3.jpg"
   },
   {
     "_title": "Guardians of the Galaxy",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/guardians-of-the-galaxy.jpg"
   },
   {
     "_title": "Guns Akimbo",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/guns-akimbo.jpg"
   },
   {
     "_title": "Hackers",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/hackers.jpg"
   },
   {
     "_title": "Hail, Caesar!",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/hail-caesar.jpg"
   },
   {
     "_title": "Half Baked",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/half-baked.jpg"
   },
   {
     "_title": "Happy People",
     "rating": "2",
-    "review": "Was on a Werner Herzog kick. Interesting."
+    "review": "Was on a Werner Herzog kick. Interesting.",
+    "poster": "posters/movies/happy-people.jpg"
   },
   {
     "_title": "Hard Eight",
-    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies.",
+    "poster": "posters/movies/hard-eight.jpg"
   },
   {
     "_title": "Hardcore Henry",
     "rating": "4",
-    "review": "Really only worth watching because of the perspective."
+    "review": "Really only worth watching because of the perspective.",
+    "poster": "posters/movies/hardcore-henry.jpg"
   },
   {
     "_title": "Harry Potter and the Chamber of Secrets",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/harry-potter-and-the-chamber-of-secrets.jpg"
   },
   {
     "_title": "Harry Potter and the Deathly Hallows: Part 1",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/harry-potter-and-the-deathly-hallows-part-1.jpg"
   },
   {
     "_title": "Harry Potter and the Deathly Hallows: Part 2",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/harry-potter-and-the-deathly-hallows-part-2.jpg"
   },
   {
     "_title": "Harry Potter and the Goblet of Fire",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/harry-potter-and-the-goblet-of-fire.jpg"
   },
   {
     "_title": "Harry Potter and the Half-Blood Prince",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/harry-potter-and-the-half-blood-prince.jpg"
   },
   {
     "_title": "Harry Potter and the Order of the Phoenix",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/harry-potter-and-the-order-of-the-phoenix.jpg"
   },
   {
     "_title": "Harry Potter and the Philosopher's Stone",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/harry-potter-and-the-philosopher-s-stone.jpg"
   },
   {
     "_title": "Harry Potter and the Prisoner of Azkaban",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/harry-potter-and-the-prisoner-of-azkaban.jpg"
   },
   {
     "_title": "Heads of State",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/heads-of-state.jpg"
   },
   {
     "_title": "Heathers",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/heathers.png"
   },
   {
     "_title": "Hell Comes to Frogtown",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/hell-comes-to-frogtown.jpg"
   },
   {
-    "_title": "Her"
+    "_title": "Her",
+    "poster": "posters/movies/her.jpg"
   },
   {
     "_title": "Hey Big Boy (Bert Kreischer)"
   },
   {
     "_title": "Hidden Figures",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/hidden-figures.jpg"
   },
   {
     "_title": "Hilda the Mountain King",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/hilda-the-mountain-king.jpg"
   },
   {
     "_title": "History of the World: Part I",
     "rating": "2",
-    "review": "Pretty cringe by modern standards... The good parts seemed overshadowed by it."
+    "review": "Pretty cringe by modern standards... The good parts seemed overshadowed by it.",
+    "poster": "posters/movies/history-of-the-world-part-i.jpg"
   },
   {
     "_title": "Hocus Pocus 2",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/hocus-pocus-2.jpg"
   },
   {
     "_title": "Hocus Pocus",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/hocus-pocus.jpg"
   },
   {
     "_title": "Home (2015)",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/home-2015.jpg"
   },
   {
-    "_title": "Honey Boy"
+    "_title": "Honey Boy",
+    "poster": "posters/movies/honey-boy.jpg"
   },
   {
     "_title": "Horatio Hornblower: The Duel",
-    "review": "This is an A&E series of movies actually."
+    "review": "This is an A&E series of movies actually.",
+    "poster": "posters/movies/horatio-hornblower-the-duel.jpg"
   },
   {
     "_title": "Horrible Bosses 2",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/horrible-bosses-2.jpg"
   },
   {
     "_title": "Hot Fuzz",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/hot-fuzz.jpg"
   },
   {
     "_title": "House of Wolves",
     "rating": "2",
-    "review": "Pretty funny. Watched on a plane with no sound. I should watch it again with sound. Update: borrowed it from the library, but it wasn't interesting enough to watch again."
+    "review": "Pretty funny. Watched on a plane with no sound. I should watch it again with sound. Update: borrowed it from the library, but it wasn't interesting enough to watch again.",
+    "poster": "posters/movies/house-of-wolves.jpg"
   },
   {
     "_title": "How It Ends",
     "rating": "4",
-    "review": "https://en.wikipedia.org/wiki/How_It_Ends_(2021_film)"
+    "review": "https://en.wikipedia.org/wiki/How_It_Ends_(2021_film)",
+    "poster": "posters/movies/how-it-ends.png"
   },
   {
     "_title": "Howl's Moving Castle",
     "rating": "4",
-    "review": "Ends rather abruptly and stupidly, but it was mostly enjoyable."
+    "review": "Ends rather abruptly and stupidly, but it was mostly enjoyable.",
+    "poster": "posters/movies/howl-s-moving-castle.jpg"
   },
   {
     "_title": "Hundreds of Beavers",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/hundreds-of-beavers.png"
   },
   {
     "_title": "I Am Mother",
     "rating": "4",
-    "review": "A nice, morally-confusing movie about a robo-mom."
+    "review": "A nice, morally-confusing movie about a robo-mom.",
+    "poster": "posters/movies/i-am-mother.png"
   },
   {
     "_title": "I Don't Feel at Home in This World Anymore.",
     "rating": "2",
-    "review": "Good, but not good enough to recommend."
+    "review": "Good, but not good enough to recommend.",
+    "poster": "posters/movies/i-don-t-feel-at-home-in-this-world-anymore.png"
   },
   {
     "_title": "I Lost My Body",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/i-lost-my-body.jpg"
   },
   {
     "_title": "I Used to Go Here",
     "rating": "2",
-    "review": "Decent, but not good enough to recommend..."
+    "review": "Decent, but not good enough to recommend...",
+    "poster": "posters/movies/i-used-to-go-here.jpeg"
   },
   {
     "_title": "I am not an Easy Man",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/i-am-not-an-easy-man.png"
   },
   {
     "_title": "I heart Huckabees",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/i-heart-huckabees.jpg"
   },
   {
     "_title": "I'm Totally Fine",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/i-m-totally-fine.jpg"
   },
   {
     "_title": "IT (2017)",
     "rating": "2",
-    "review": "Corbin made me watch this. We are both traumatized now."
+    "review": "Corbin made me watch this. We are both traumatized now.",
+    "poster": "posters/movies/it-2017.jpg"
   },
   {
-    "_title": "Ice Pirates"
+    "_title": "Ice Pirates",
+    "poster": "posters/movies/ice-pirates.jpg"
   },
   {
     "_title": "Ichi the Killer",
     "rating": "2",
-    "review": "Watched 10 minutes. Boring/stupid. Watched trailer. Fuck! Nope."
+    "review": "Watched 10 minutes. Boring/stupid. Watched trailer. Fuck! Nope.",
+    "poster": "posters/movies/ichi-the-killer.jpg"
   },
   {
     "_title": "Idiocracy",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/idiocracy.jpg"
   },
   {
     "_title": "In Time",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/in-time.jpg"
   },
   {
     "_title": "In a World",
     "rating": "2",
-    "review": "Pretty good"
+    "review": "Pretty good",
+    "poster": "posters/movies/in-a-world.jpg"
   },
   {
     "_title": "Incredibles 2",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/incredibles-2.jpg"
   },
   {
     "_title": "Indiana Jones and the Dial of Destiny",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/indiana-jones-and-the-dial-of-destiny.jpg"
   },
   {
     "_title": "Indiana Jones and the Kingdom of the Crystal Skull",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/indiana-jones-and-the-kingdom-of-the-crystal-skull.jpg"
   },
   {
     "_title": "Indiana Jones and the Last Crusade",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/indiana-jones-and-the-last-crusade.png"
   },
   {
     "_title": "Indiana Jones and the Raiders of the Lost Ark",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/indiana-jones-and-the-raiders-of-the-lost-ark.jpg"
   },
   {
     "_title": "Indiana Jones and the Temple of Doom",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/indiana-jones-and-the-temple-of-doom.jpg"
   },
   {
     "_title": "Inherent Vice",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/inherent-vice.jpg"
   },
   {
-    "_title": "Inside Llewyn Davis"
+    "_title": "Inside Llewyn Davis",
+    "poster": "posters/movies/inside-llewyn-davis.jpg"
   },
   {
     "_title": "Inside Out",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/inside-out.jpg"
   },
   {
     "_title": "Inside",
-    "review": "https://www.imdb.com/title/tt14544192/"
+    "review": "https://www.imdb.com/title/tt14544192/",
+    "poster": "posters/movies/inside.jpg"
   },
   {
     "_title": "Interstellar",
     "rating": "4",
-    "review": "Good"
+    "review": "Good",
+    "poster": "posters/movies/interstellar.jpg"
   },
   {
     "_title": "Intolerable Cruelty",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/intolerable-cruelty.jpg"
   },
   {
     "_title": "Inu-oh",
-    "notes": "Recommended by Patrick - he says it's a anime rock opera - totally not what he expected"
+    "notes": "Recommended by Patrick - he says it's a anime rock opera - totally not what he expected",
+    "poster": "posters/movies/inu-oh.jpg"
   },
   {
-    "_title": "Iron Eagle"
+    "_title": "Iron Eagle",
+    "poster": "posters/movies/iron-eagle.jpg"
   },
   {
     "_title": "Iron Man 2",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/iron-man-2.jpg"
   },
   {
     "_title": "Iron Man",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/iron-man.jpg"
   },
   {
     "_title": "Isle of Dogs",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/isle-of-dogs.jpg"
   },
   {
     "_title": "It's Such a Beautiful Day",
-    "review": "Don Hertzfeldt"
+    "review": "Don Hertzfeldt",
+    "poster": "posters/movies/it-s-such-a-beautiful-day.jpg"
   },
   {
-    "_title": "JUMANJI"
+    "_title": "JUMANJI",
+    "poster": "posters/movies/jumanji.jpg"
   },
   {
     "_title": "JUMANJI: WELCOME TO THE JUNGLE",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/jumanji-welcome-to-the-jungle.png"
   },
   {
-    "_title": "Jackass 2.5"
+    "_title": "Jackass 2.5",
+    "poster": "posters/movies/jackass-2-5.png"
   },
   {
-    "_title": "Jackass 3.5"
+    "_title": "Jackass 3.5",
+    "poster": "posters/movies/jackass-3-5.jpg"
   },
   {
-    "_title": "Jackass 3D"
+    "_title": "Jackass 3D",
+    "poster": "posters/movies/jackass-3d.jpg"
   },
   {
     "_title": "Jackass Number Two",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/jackass-number-two.jpg"
   },
   {
     "_title": "Jackass: The Movie",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/jackass-the-movie.jpg"
   },
   {
     "_title": "Jojo Rabbit",
     "rating": "5",
-    "review": "Such a great, weird movie. I aspire to be like Rosie - she was an amazing parent."
+    "review": "Such a great, weird movie. I aspire to be like Rosie - she was an amazing parent.",
+    "poster": "posters/movies/jojo-rabbit.jpg"
   },
   {
     "_title": "Joker",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/joker.jpg"
   },
   {
     "_title": "Joker: Folie à Deux",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/joker-folie-a-deux.jpg"
   },
   {
     "_title": "Jupiter Ascending",
     "rating": "2",
-    "review": "Pretty but dumb"
+    "review": "Pretty but dumb",
+    "poster": "posters/movies/jupiter-ascending.jpg"
   },
   {
     "_title": "Jurassic Park",
     "rating": "4",
-    "review": "It's a UNIX system! I know this!"
+    "review": "It's a UNIX system! I know this!",
+    "poster": "posters/movies/jurassic-park.jpg"
   },
   {
     "_title": "Kajillionaire",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/kajillionaire.jpeg"
   },
   {
     "_title": "Karate Kid",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/karate-kid.jpg"
   },
   {
     "_title": "Keanu",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/keanu.png"
   },
   {
     "_title": "Kiki's Delivery Service",
     "rating": "2",
-    "review": "Meh"
+    "review": "Meh",
+    "poster": "posters/movies/kiki-s-delivery-service.jpg"
   },
   {
     "_title": "Kill Bill volume 1",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/kill-bill-volume-1.png"
   },
   {
     "_title": "Kingsman: The Secret Service",
     "rating": "2",
-    "review": "Not sure why I finished it. Just tropy spy weirdness."
+    "review": "Not sure why I finished it. Just tropy spy weirdness.",
+    "poster": "posters/movies/kingsman-the-secret-service.jpg"
   },
   {
     "_title": "Knives Out",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/knives-out.png"
   },
   {
     "_title": "Kopps",
-    "review": "Swedish movie"
+    "review": "Swedish movie",
+    "poster": "posters/movies/kopps.jpg"
   },
   {
-    "_title": "Krampus"
+    "_title": "Krampus",
+    "poster": "posters/movies/krampus.jpg"
   },
   {
-    "_title": "Krull"
+    "_title": "Krull",
+    "poster": "posters/movies/krull.jpg"
   },
   {
     "_title": "Kung Fu Hustle",
     "rating": "4",
-    "review": "Didn't hold up as well as I thought, especially if you're watching the dubbed version, but still pretty damn good, ha."
+    "review": "Didn't hold up as well as I thought, especially if you're watching the dubbed version, but still pretty damn good, ha.",
+    "poster": "posters/movies/kung-fu-hustle.jpg"
   },
   {
     "_title": "Kung Fu Panda",
-    "review": "watch with kids"
+    "review": "watch with kids",
+    "poster": "posters/movies/kung-fu-panda.jpg"
   },
   {
     "_title": "Kung Pow! Enter the Fist",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/kung-pow-enter-the-fist.jpg"
   },
   {
-    "_title": "Kung fury full length"
+    "_title": "Kung fury full length",
+    "poster": "posters/movies/kung-fury-full-length.png"
   },
   {
     "_title": "Lady Bird (2017)",
-    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies.",
+    "poster": "posters/movies/lady-bird-2017.jpeg"
   },
   {
     "_title": "Lady Hawke",
-    "notes": "Recommended by Scott"
+    "notes": "Recommended by Scott",
+    "poster": "posters/movies/lady-hawke.jpg"
   },
   {
     "_title": "Land of the Lost",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/land-of-the-lost.jpg"
   },
   {
     "_title": "Lara Croft: Tomb Raider (2001)",
-    "review": "Music by NIN"
+    "review": "Music by NIN",
+    "poster": "posters/movies/lara-croft-tomb-raider-2001.png"
   },
   {
     "_title": "Lazer Team",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/lazer-team.jpg"
   },
   {
     "_title": "Lightyear",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/lightyear.jpg"
   },
   {
     "_title": "Lo and Behold, Reveries of the Connected World",
     "rating": "2",
-    "review": "Good, but too many kooks and mostly depressing."
+    "review": "Good, but too many kooks and mostly depressing.",
+    "poster": "posters/movies/lo-and-behold-reveries-of-the-connected-world.png"
   },
   {
     "_title": "Logan Lucky",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/logan-lucky.png"
   },
   {
     "_title": "Lost Highway",
-    "review": "Music by NIN"
+    "review": "Music by NIN",
+    "poster": "posters/movies/lost-highway.png"
   },
   {
     "_title": "Lost in Translation",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/lost-in-translation.jpg"
   },
   {
-    "_title": "Love Me"
+    "_title": "Love Me",
+    "poster": "posters/movies/love-me.jpg"
   },
   {
     "_title": "Love and Monsters",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/love-and-monsters.jpeg"
   },
   {
     "_title": "Luca",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/luca.png"
   },
   {
-    "_title": "Lucky Number Slevin"
+    "_title": "Lucky Number Slevin",
+    "poster": "posters/movies/lucky-number-slevin.jpg"
   },
   {
     "_title": "M3gan",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/m3gan.jpeg"
   },
   {
     "_title": "Mad Max Beyond Thunderdome",
     "rating": "2",
-    "review": "I was sitting here thinking whether this is good enough to borrow from the library, and I was like... nah... so, I gave it an N."
+    "review": "I was sitting here thinking whether this is good enough to borrow from the library, and I was like... nah... so, I gave it an N.",
+    "poster": "posters/movies/mad-max-beyond-thunderdome.jpg"
   },
   {
     "_title": "Mad Max Fury Road",
     "rating": "2",
-    "review": "Meh"
+    "review": "Meh",
+    "poster": "posters/movies/mad-max-fury-road.jpg"
   },
   {
     "_title": "Madagascar",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/madagascar.jpg"
   },
   {
     "_title": "Magnolia",
-    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies.",
+    "poster": "posters/movies/magnolia.png"
   },
   {
-    "_title": "Maiden"
+    "_title": "Maiden",
+    "poster": "posters/movies/maiden.jpg"
   },
   {
     "_title": "Marvel's the Avengers",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/marvel-s-the-avengers.jpg"
   },
   {
     "_title": "Mary Poppins",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/mary-poppins.jpg"
   },
   {
     "_title": "Master and Commander",
-    "review": "Has the HMS Surprise!"
+    "review": "Has the HMS Surprise!",
+    "poster": "posters/movies/master-and-commander.jpg"
   },
   {
     "_title": "Matilda",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/matilda.jpg"
   },
   {
     "_title": "Me, You, and Everyone we Know",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/me-you-and-everyone-we-know.jpg"
   },
   {
     "_title": "Mickey 17",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/mickey-17.png"
   },
   {
     "_title": "Midsommer",
     "rating": "1",
-    "review": "One of Beth's favorite movies. Unfortunately, the genre of psychological thrillers + gore is really hard for my sensitive ass to watch."
+    "review": "One of Beth's favorite movies. Unfortunately, the genre of psychological thrillers + gore is really hard for my sensitive ass to watch.",
+    "poster": "posters/movies/midsommer.jpg"
   },
   {
     "_title": "Migration",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/migration.jpg"
   },
   {
     "_title": "Mike & Dave Need Wedding Dates",
     "rating": "2",
-    "review": "Funny and stupid."
+    "review": "Funny and stupid.",
+    "poster": "posters/movies/mike-dave-need-wedding-dates.jpg"
   },
   {
     "_title": "Miller's Crossing",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/miller-s-crossing.jpg"
   },
   {
     "_title": "Milo and Otis",
     "rating": "4",
-    "review": "Pretty awesome. Corbin loved it. We watched this a bunch of times in the minivan."
+    "review": "Pretty awesome. Corbin loved it. We watched this a bunch of times in the minivan.",
+    "poster": "posters/movies/milo-and-otis.jpg"
   },
   {
     "_title": "Minions",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/minions.jpg"
   },
   {
     "_title": "Minions: Rise of Gru",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/minions-rise-of-gru.jpg"
   },
   {
     "_title": "Moana 2",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/moana-2.jpg"
   },
   {
     "_title": "Moana",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/moana.jpg"
   },
   {
-    "_title": "Monkey Man"
+    "_title": "Monkey Man",
+    "poster": "posters/movies/monkey-man.jpg"
   },
   {
     "_title": "Monty Python and The Holy Grail",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/monty-python-and-the-holy-grail.png"
   },
   {
     "_title": "Moonfall",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/moonfall.jpg"
   },
   {
-    "_title": "Moonstruck"
+    "_title": "Moonstruck",
+    "poster": "posters/movies/moonstruck.jpg"
   },
   {
-    "_title": "Mortal Kombat (2021)"
+    "_title": "Mortal Kombat (2021)",
+    "poster": "posters/movies/mortal-kombat-2021.png"
   },
   {
-    "_title": "Mortal Kombat (1995)"
+    "_title": "Mortal Kombat (1995)",
+    "poster": "posters/movies/mortal-kombat-1995.jpg"
   },
   {
     "_title": "Movie 43",
     "rating": "4",
-    "review": "Completely absurd, heh."
+    "review": "Completely absurd, heh.",
+    "poster": "posters/movies/movie-43.jpg"
   },
   {
     "_title": "Mr. Poppers Penguins",
-    "review": "watch with kids"
+    "review": "watch with kids",
+    "poster": "posters/movies/mr-poppers-penguins.jpg"
   },
   {
-    "_title": "Mute"
+    "_title": "Mute",
+    "poster": "posters/movies/mute.png"
   },
   {
     "_title": "My Neighbor Totoro",
     "rating": "5",
-    "review": "Excellent!"
+    "review": "Excellent!",
+    "poster": "posters/movies/my-neighbor-totoro.jpg"
   },
   {
     "_title": "Nadiya's Time to Eat"
   },
   {
     "_title": "Napoleon Dynamite",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/napoleon-dynamite.jpg"
   },
   {
     "_title": "Natural Born Killers",
-    "review": "Music by NIN"
+    "review": "Music by NIN",
+    "poster": "posters/movies/natural-born-killers.jpg"
   },
   {
     "_title": "Nausicaä of the Valley of the Wind",
     "rating": "2",
-    "review": "Despite interesting art and world, it just didn't grab me."
+    "review": "Despite interesting art and world, it just didn't grab me.",
+    "poster": "posters/movies/nausicaa-of-the-valley-of-the-wind.jpg"
   },
   {
-    "_title": "Needle in a Timestack"
+    "_title": "Needle in a Timestack",
+    "poster": "posters/movies/needle-in-a-timestack.jpg"
   },
   {
     "_title": "Nimona",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/nimona.png"
   },
   {
     "_title": "No Country for Old Men",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/no-country-for-old-men.jpg"
   },
   {
     "_title": "No Hard Feelings (2023)",
     "rating": "5",
-    "review": "Jennifer Lawrence's most absurd performance, I laughed by my ass off."
+    "review": "Jennifer Lawrence's most absurd performance, I laughed by my ass off.",
+    "poster": "posters/movies/no-hard-feelings-2023.png"
   },
   {
     "_title": "Nope",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/nope.jpg"
   },
   {
     "_title": "Nothing but Trouble",
-    "link": "https://en.wikipedia.org/wiki/Nothing_but_Trouble_(1991_film)"
+    "link": "https://en.wikipedia.org/wiki/Nothing_but_Trouble_(1991_film)",
+    "poster": "posters/movies/nothing-but-trouble.jpg"
   },
   {
     "_title": "O Brother, Where Art Thou?",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/o-brother-where-art-thou.jpg"
   },
   {
     "_title": "Oceans 8",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/oceans-8.jpeg"
   },
   {
     "_title": "Office Space",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/office-space.jpg"
   },
   {
     "_title": "Old Dads",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/old-dads.jpg"
   },
   {
     "_title": "On Becoming a Guinea Fowl",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/on-becoming-a-guinea-fowl.jpg"
   },
   {
-    "_title": "On Falling"
+    "_title": "On Falling",
+    "poster": "posters/movies/on-falling.jpg"
   },
   {
     "_title": "One Piece",
-    "review": "Netflix. Looks weird. Kids might enjoy it?"
+    "review": "Netflix. Looks weird. Kids might enjoy it?",
+    "poster": "posters/movies/one-piece.jpg"
   },
   {
     "_title": "Onward",
     "rating": "4",
-    "review": "As the haver of a dead dad, this was particurly rough, but good."
+    "review": "As the haver of a dead dad, this was particurly rough, but good.",
+    "poster": "posters/movies/onward.jpg"
   },
   {
     "_title": "Open Wide",
     "rating": "2",
-    "review": "Mewing, LOL. Started to watch with Corbin, but we never finished it."
+    "review": "Mewing, LOL. Started to watch with Corbin, but we never finished it.",
+    "poster": "posters/movies/open-wide.jpg"
   },
   {
     "_title": "Osmosis Jones",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/osmosis-jones.jpg"
   },
   {
     "_title": "Paddington 2",
-    "review": "It has absurdly high ratings and was referenced in The Unbearable Weight of Massive Talent..."
+    "review": "It has absurdly high ratings and was referenced in The Unbearable Weight of Massive Talent...",
+    "poster": "posters/movies/paddington-2.jpg"
   },
   {
     "_title": "Paddington",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/paddington.jpg"
   },
   {
     "_title": "Palm Springs",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/palm-springs.jpeg"
   },
   {
     "_title": "ParaNorman (2012)",
-    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies.",
+    "poster": "posters/movies/paranorman-2012.jpg"
   },
   {
     "_title": "Parasite",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/parasite.png"
   },
   {
     "_title": "Passenger",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/passenger.jpg"
   },
   {
     "_title": "Past Lives",
     "rating": "4",
-    "review": "Recommended by Ilya"
+    "review": "Recommended by Ilya",
+    "poster": "posters/movies/past-lives.png"
   },
   {
     "_title": "Patriots Day",
-    "review": "Music by NIN"
+    "review": "Music by NIN",
+    "poster": "posters/movies/patriots-day.png"
   },
   {
     "_title": "Paws of Fury",
     "rating": "2",
-    "review": "Weird reboot of Blazing Saddles for kids? It was OK, but not OK enough to recommend."
+    "review": "Weird reboot of Blazing Saddles for kids? It was OK, but not OK enough to recommend.",
+    "poster": "posters/movies/paws-of-fury.jpg"
   },
   {
-    "_title": "Pee Wee's Big Adventure"
+    "_title": "Pee Wee's Big Adventure",
+    "poster": "posters/movies/pee-wee-s-big-adventure.jpg"
   },
   {
-    "_title": "Peggy Sue Got Married"
+    "_title": "Peggy Sue Got Married",
+    "poster": "posters/movies/peggy-sue-got-married.jpg"
   },
   {
     "_title": "Penguins of Madagascar",
     "rating": "4",
-    "review": "Very solid, rewatchable kids' movie. Watched it several times."
+    "review": "Very solid, rewatchable kids' movie. Watched it several times.",
+    "poster": "posters/movies/penguins-of-madagascar.jpg"
   },
   {
-    "_title": "Perfect Day"
+    "_title": "Perfect Day",
+    "poster": "posters/movies/perfect-day.jpg"
   },
   {
-    "_title": "Personal Shopper"
+    "_title": "Personal Shopper",
+    "poster": "posters/movies/personal-shopper.jpg"
   },
   {
     "_title": "Pirates of the Carribean 4",
-    "review": "Has the HMS Surprise!"
+    "review": "Has the HMS Surprise!",
+    "poster": "posters/movies/pirates-of-the-carribean-4.png"
   },
   {
     "_title": "Pitch Black",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/pitch-black.jpg"
   },
   {
     "_title": "Planet Earth",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/planet-earth.jpg"
   },
   {
     "_title": "Playtime",
-    "review": "https://m.imdb.com/title/tt0062136/"
+    "review": "https://m.imdb.com/title/tt0062136/",
+    "poster": "posters/movies/playtime.jpg"
   },
   {
     "_title": "Please Don't Destroy: The Treasure of Foggy Mountain",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/please-don-t-destroy-the-treasure-of-foggy-mountain.jpg"
   },
   {
-    "_title": "Pom Poko"
+    "_title": "Pom Poko",
+    "poster": "posters/movies/pom-poko.jpg"
   },
   {
     "_title": "Ponyo",
     "rating": "4",
-    "review": "Good, but not as good as Totoro"
+    "review": "Good, but not as good as Totoro",
+    "poster": "posters/movies/ponyo.png"
   },
   {
     "_title": "Poor Things",
     "rating": "3",
-    "review": "The poor things are the men who try to possess or control the truly liberated woman, Bella. While this movie was fascinating and the cinematography was great, it was pretty uncomfortable to watch."
+    "review": "The poor things are the men who try to possess or control the truly liberated woman, Bella. While this movie was fascinating and the cinematography was great, it was pretty uncomfortable to watch.",
+    "poster": "posters/movies/poor-things.jpg"
   },
   {
-    "_title": "Pretty in Pink"
+    "_title": "Pretty in Pink",
+    "poster": "posters/movies/pretty-in-pink.jpg"
   },
   {
-    "_title": "Prince of Darkness (1987)"
+    "_title": "Prince of Darkness (1987)",
+    "poster": "posters/movies/prince-of-darkness-1987.jpg"
   },
   {
     "_title": "Princess Mononoke",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/princess-mononoke.png"
   },
   {
     "_title": "Problemista",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/problemista.png"
   },
   {
     "_title": "Prospect",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/prospect.jpg"
   },
   {
     "_title": "Psycho Goreman",
-    "review": "watch with kids"
+    "review": "watch with kids",
+    "poster": "posters/movies/psycho-goreman.jpg"
   },
   {
     "_title": "Punch-Drunk Love",
-    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies.",
+    "poster": "posters/movies/punch-drunk-love.png"
   },
   {
     "_title": "R.I.P.D.",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/r-i-p-d.jpg"
   },
   {
-    "_title": "RBG"
+    "_title": "RBG",
+    "poster": "posters/movies/rbg.jpeg"
   },
   {
     "_title": "RRR",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/rrr.jpg"
   },
   {
     "_title": "Raising Arizona",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/raising-arizona.jpg"
   },
   {
     "_title": "Ralph Breaks the Internet",
     "rating": "4",
-    "review": "The Disney princesses scenes are hilarious."
+    "review": "The Disney princesses scenes are hilarious.",
+    "poster": "posters/movies/ralph-breaks-the-internet.png"
   },
   {
     "_title": "Rampage",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/rampage.jpg"
   },
   {
     "_title": "Random Swimmer Films",
@@ -1512,38 +1883,47 @@
     "review": "What is this? I put this in here, but I have no idea what I'm referring to."
   },
   {
-    "_title": "Rapture-Palooza"
+    "_title": "Rapture-Palooza",
+    "poster": "posters/movies/rapture-palooza.jpg"
   },
   {
     "_title": "Ratatouille",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/ratatouille.jpg"
   },
   {
     "_title": "Raya and the Last Dragon",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/raya-and-the-last-dragon.png"
   },
   {
     "_title": "Ready Player One",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/ready-player-one.png"
   },
   {
     "_title": "Real Genius",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/real-genius.jpg"
   },
   {
     "_title": "Rebel Moon: Part One - A Child of Fire",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/rebel-moon-part-one-a-child-of-fire.jpg"
   },
   {
     "_title": "Rejected",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/rejected.png"
   },
   {
     "_title": "Renfield",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/renfield.jpg"
   },
   {
-    "_title": "Return to Oz"
+    "_title": "Return to Oz",
+    "poster": "posters/movies/return-to-oz.jpg"
   },
   {
     "_title": "Riftworld Chronicles",
@@ -1552,248 +1932,309 @@
   },
   {
     "_title": "Robin Hood: Men in Tights",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/robin-hood-men-in-tights.jpg"
   },
   {
-    "_title": "Robocop"
+    "_title": "Robocop",
+    "poster": "posters/movies/robocop.jpg"
   },
   {
-    "_title": "Robot Dreams"
+    "_title": "Robot Dreams",
+    "poster": "posters/movies/robot-dreams.jpg"
   },
   {
     "_title": "Rogue One: A Star Wars Story",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/rogue-one-a-star-wars-story.png"
   },
   {
-    "_title": "Ron Funches: Giggle Fit"
+    "_title": "Ron Funches: Giggle Fit",
+    "poster": "posters/movies/ron-funches-giggle-fit.jpg"
   },
   {
     "_title": "SLC Punk",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/slc-punk.jpg"
   },
   {
     "_title": "Sandy Wexler",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/sandy-wexler.jpg"
   },
   {
     "_title": "Sausage Party",
     "rating": "0",
-    "review": "Couldn't even make it through this. Can't believe so many great actors had roles in this lousy movie."
+    "review": "Couldn't even make it through this. Can't believe so many great actors had roles in this lousy movie.",
+    "poster": "posters/movies/sausage-party.png"
   },
   {
     "_title": "Save Yourselves!",
     "rating": "2",
-    "review": "Generally good, but it lacked a real ending..."
+    "review": "Generally good, but it lacked a real ending...",
+    "poster": "posters/movies/save-yourselves.jpeg"
   },
   {
     "_title": "Scarface",
-    "review": "Cohen Bro's version"
+    "review": "Cohen Bro's version",
+    "poster": "posters/movies/scarface.jpg"
   },
   {
     "_title": "Scrooged",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/scrooged.jpg"
   },
   {
     "_title": "Self Reliance",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/self-reliance.jpg"
   },
   {
     "_title": "Serenity",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/serenity.png"
   },
   {
     "_title": "Severed Ways",
-    "review": "Recommended by Rick Perry."
+    "review": "Recommended by Rick Perry.",
+    "poster": "posters/movies/severed-ways.jpg"
   },
   {
     "_title": "Shaolin Soccer",
     "rating": "4",
-    "review": "Rhys liked this one. We should watch it again, now that he's into soccer."
+    "review": "Rhys liked this one. We should watch it again, now that he's into soccer.",
+    "poster": "posters/movies/shaolin-soccer.jpg"
   },
   {
     "_title": "Shazam",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/shazam.jpg"
   },
   {
     "_title": "Short Circuit 2",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/short-circuit-2.jpg"
   },
   {
     "_title": "Short Circuit",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/short-circuit.jpg"
   },
   {
     "_title": "Shrek 2",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/shrek-2.jpg"
   },
   {
     "_title": "Shrek",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/shrek.jpg"
   },
   {
     "_title": "Sidekicks (1992)",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/sidekicks-1992.jpg"
   },
   {
-    "_title": "Silence of the Hams"
+    "_title": "Silence of the Hams",
+    "poster": "posters/movies/silence-of-the-hams.jpg"
   },
   {
     "_title": "Sin City",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/sin-city.jpg"
   },
   {
     "_title": "Sisters",
     "rating": "4",
-    "review": "Hilarious!"
+    "review": "Hilarious!",
+    "poster": "posters/movies/sisters.png"
   },
   {
-    "_title": "Sita Sings the Blues"
+    "_title": "Sita Sings the Blues",
+    "poster": "posters/movies/sita-sings-the-blues.png"
   },
   {
     "_title": "Slumberland",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/slumberland.jpg"
   },
   {
     "_title": "Snatch",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/snatch.jpg"
   },
   {
     "_title": "Snowpiercer",
     "rating": "2",
-    "review": "Meh"
+    "review": "Meh",
+    "poster": "posters/movies/snowpiercer.jpg"
   },
   {
     "_title": "Solo: A Star Wars Story",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/solo-a-star-wars-story.jpg"
   },
   {
     "_title": "Song of the Sea",
     "rating": "5",
-    "review": "Great movie!"
+    "review": "Great movie!",
+    "poster": "posters/movies/song-of-the-sea.jpg"
   },
   {
     "_title": "Sonic the Hedgehog 2",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/sonic-the-hedgehog-2.jpg"
   },
   {
     "_title": "Sonic the Hedgehog",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/sonic-the-hedgehog.jpg"
   },
   {
     "_title": "Sorry to Bother You",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/sorry-to-bother-you.png"
   },
   {
     "_title": "Soul",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/soul.jpg"
   },
   {
-    "_title": "Sound of music"
+    "_title": "Sound of music",
+    "poster": "posters/movies/sound-of-music.jpg"
   },
   {
     "_title": "Southland Tales",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/southland-tales.png"
   },
   {
     "_title": "Space Sweepers",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/space-sweepers.jpg"
   },
   {
     "_title": "Spaceballs",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/spaceballs.jpg"
   },
   {
     "_title": "Spider-Man: Across the Spider-Verse",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/spider-man-across-the-spider-verse.jpg"
   },
   {
     "_title": "Spider-Man: Far From Home",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/spider-man-far-from-home.jpg"
   },
   {
     "_title": "Spider-Man: Into the Spider-Verse",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/spider-man-into-the-spider-verse.png"
   },
   {
     "_title": "Spirited Away",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/spirited-away.png"
   },
   {
     "_title": "St. Vincent",
     "rating": "2",
-    "review": "Bill Murray. Good."
+    "review": "Bill Murray. Good.",
+    "poster": "posters/movies/st-vincent.jpg"
   },
   {
     "_title": "Star Trek Beyond",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/star-trek-beyond.jpg"
   },
   {
     "_title": "Star Trek: Section 31",
     "rating": "1",
-    "review": "Just bad... What the hell."
+    "review": "Just bad... What the hell.",
+    "poster": "posters/movies/star-trek-section-31.jpg"
   },
   {
     "_title": "Star Wars: Episode I – The Phantom Menace",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/star-wars-episode-i-the-phantom-menace.jpg"
   },
   {
     "_title": "Star Wars: Episode II – Attack of the Clones",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/star-wars-episode-ii-attack-of-the-clones.jpg"
   },
   {
     "_title": "Star Wars: Episode III – Revenge of the Sith",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/star-wars-episode-iii-revenge-of-the-sith.png"
   },
   {
     "_title": "Star Wars: Episode IV – A New Hope",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/star-wars-episode-iv-a-new-hope.jpg"
   },
   {
     "_title": "Star Wars: Episode V – The Empire Strikes Back",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/star-wars-episode-v-the-empire-strikes-back.jpg"
   },
   {
     "_title": "Star Wars: Episode VI – Return of the Jedi",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/star-wars-episode-vi-return-of-the-jedi.jpg"
   },
   {
     "_title": "Star Wars: Episode VII – The Force Awakens",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/star-wars-episode-vii-the-force-awakens.jpg"
   },
   {
     "_title": "Star Wars: The Last Jedi",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/star-wars-the-last-jedi.jpg"
   },
   {
     "_title": "Star Wars: The Rise of Skywalker",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/star-wars-the-rise-of-skywalker.jpg"
   },
   {
     "_title": "Stargate",
     "rating": "5",
-    "review": "One of my mom's favorite movies. And mine too."
+    "review": "One of my mom's favorite movies. And mine too.",
+    "poster": "posters/movies/stargate.jpg"
   },
   {
     "_title": "Step Brothers",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/step-brothers.jpg"
   },
   {
     "_title": "Strange World",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/strange-world.jpg"
   },
   {
-    "_title": "Suburbicon"
+    "_title": "Suburbicon",
+    "poster": "posters/movies/suburbicon.jpg"
   },
   {
-    "_title": "Sukiyaki Western Django"
+    "_title": "Sukiyaki Western Django",
+    "poster": "posters/movies/sukiyaki-western-django.jpg"
   },
   {
     "_title": "Super Troopers 2",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/super-troopers-2.png"
   },
   {
     "_title": "Super Troopers",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/super-troopers.jpg"
   },
   {
     "_title": "Superintelegence",
@@ -1802,185 +2243,232 @@
   },
   {
     "_title": "Superlopez",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/superlopez.jpg"
   },
   {
     "_title": "Swiss Army Man",
     "rating": "3",
-    "review": "Certainly different. Got a few laughs."
+    "review": "Certainly different. Got a few laughs.",
+    "poster": "posters/movies/swiss-army-man.png"
   },
   {
     "_title": "Sword in the Stone",
     "rating": "4",
-    "review": "One of my favorite Disney movies."
+    "review": "One of my favorite Disney movies.",
+    "poster": "posters/movies/sword-in-the-stone.jpg"
   },
   {
     "_title": "Synecdoche, New York (2008)",
-    "review": "Music by Jon Brion, who seems to be associated with several really good movies."
+    "review": "Music by Jon Brion, who seems to be associated with several really good movies.",
+    "poster": "posters/movies/synecdoche-new-york-2008.jpg"
   },
   {
     "_title": "Tag",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/tag.png"
   },
   {
     "_title": "Teenage Mutant Ninja Turtles",
-    "review": "watch with kids"
+    "review": "watch with kids",
+    "poster": "posters/movies/teenage-mutant-ninja-turtles.jpg"
   },
   {
     "_title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/teenage-mutant-ninja-turtles-mutant-mayhem.jpg"
   },
   {
-    "_title": "Tekken"
+    "_title": "Tekken",
+    "poster": "posters/movies/tekken.jpg"
   },
   {
-    "_title": "Terminator movies"
+    "_title": "Terminator movies",
+    "poster": "posters/movies/terminator-movies.png"
   },
   {
     "_title": "Tetris",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/tetris.jpg"
   },
   {
     "_title": "Thank You for Supporting the Arts"
   },
   {
     "_title": "The Adam Project",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-adam-project.png"
   },
   {
-    "_title": "The Adventures of Buckaroo Banzai Across the 8th Dimension"
+    "_title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+    "poster": "posters/movies/the-adventures-of-buckaroo-banzai-across-the-8th-dimension.jpg"
   },
   {
     "_title": "The Art of Self-Defense",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-art-of-self-defense.jpeg"
   },
   {
-    "_title": "The Artifice Girl"
+    "_title": "The Artifice Girl",
+    "poster": "posters/movies/the-artifice-girl.jpg"
   },
   {
     "_title": "The Bad Guys",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-bad-guys.jpeg"
   },
   {
     "_title": "The Ballad of Buster Scruggs",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/the-ballad-of-buster-scruggs.png"
   },
   {
     "_title": "The Beach",
-    "review": "A24"
+    "review": "A24",
+    "poster": "posters/movies/the-beach.jpg"
   },
   {
     "_title": "The Big Lebowski",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/the-big-lebowski.jpg"
   },
   {
     "_title": "The Big Year",
-    "review": "About birdwatch? Recommended by Marisol."
+    "review": "About birdwatch? Recommended by Marisol.",
+    "poster": "posters/movies/the-big-year.jpg"
   },
   {
     "_title": "The Boy and the Heron",
     "rating": "2",
-    "review": "It's like Miyazaki is parodying himself..."
+    "review": "It's like Miyazaki is parodying himself...",
+    "poster": "posters/movies/the-boy-and-the-heron.jpg"
   },
   {
-    "_title": "The Burbs"
+    "_title": "The Burbs",
+    "poster": "posters/movies/the-burbs.jpg"
   },
   {
-    "_title": "The Care Bears Movie"
+    "_title": "The Care Bears Movie",
+    "poster": "posters/movies/the-care-bears-movie.jpg"
   },
   {
-    "_title": "The Christmas Chronicles 2"
+    "_title": "The Christmas Chronicles 2",
+    "poster": "posters/movies/the-christmas-chronicles-2.jpg"
   },
   {
     "_title": "The Christmas Chronicles",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-christmas-chronicles.png"
   },
   {
-    "_title": "The Chronicles of Riddick"
+    "_title": "The Chronicles of Riddick",
+    "poster": "posters/movies/the-chronicles-of-riddick.jpg"
   },
   {
-    "_title": "The Chronicles of Riddick: Dark Fury"
+    "_title": "The Chronicles of Riddick: Dark Fury",
+    "poster": "posters/movies/the-chronicles-of-riddick-dark-fury.jpg"
   },
   {
     "_title": "The Circle",
     "rating": "3",
-    "review": "Enjoyed the book. Movie was the same. Whatever."
+    "review": "Enjoyed the book. Movie was the same. Whatever.",
+    "poster": "posters/movies/the-circle.png"
   },
   {
     "_title": "The City of Lost Children",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-city-of-lost-children.jpg"
   },
   {
     "_title": "The Conformist",
-    "review": "https://www.rottentomatoes.com/m/conformist"
+    "review": "https://www.rottentomatoes.com/m/conformist",
+    "poster": "posters/movies/the-conformist.jpg"
   },
   {
-    "_title": "The Corsican Brothers"
+    "_title": "The Corsican Brothers",
+    "poster": "posters/movies/the-corsican-brothers.jpeg"
   },
   {
     "_title": "The Dead Don't Die",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/the-dead-don-t-die.jpeg"
   },
   {
     "_title": "The Death of Stalin",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-death-of-stalin.png"
   },
   {
     "_title": "The Donut King",
-    "review": "Arturo recommends"
+    "review": "Arturo recommends",
+    "poster": "posters/movies/the-donut-king.jpg"
   },
   {
     "_title": "The Endless",
-    "review": "Horror but looks good? Give it a try."
+    "review": "Horror but looks good? Give it a try.",
+    "poster": "posters/movies/the-endless.png"
   },
   {
-    "_title": "The Fall Guy (2024)"
+    "_title": "The Fall Guy (2024)",
+    "poster": "posters/movies/the-fall-guy-2024.jpg"
   },
   {
     "_title": "The Fall",
-    "review": "Recommended by Tony https://m.imdb.com/title/tt0460791/?ref_=fn_al_tt_3"
+    "review": "Recommended by Tony https://m.imdb.com/title/tt0460791/?ref_=fn_al_tt_3",
+    "poster": "posters/movies/the-fall.jpg"
   },
   {
     "_title": "The Fifth Element",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/the-fifth-element.jpg"
   },
   {
-    "_title": "The Flight of Dragons"
+    "_title": "The Flight of Dragons",
+    "poster": "posters/movies/the-flight-of-dragons.jpg"
   },
   {
     "_title": "The Forbidden Kingdom",
-    "review": "watch with kids"
+    "review": "watch with kids",
+    "poster": "posters/movies/the-forbidden-kingdom.jpg"
   },
   {
     "_title": "The Future",
-    "review": "https://m.imdb.com/title/tt1235170/?ref_=m_nmfmd_dr_4"
+    "review": "https://m.imdb.com/title/tt1235170/?ref_=m_nmfmd_dr_4",
+    "poster": "posters/movies/the-future.jpg"
   },
   {
     "_title": "The Girl with the Dragon Tattoo",
-    "review": "Music by NIN"
+    "review": "Music by NIN",
+    "poster": "posters/movies/the-girl-with-the-dragon-tattoo.jpg"
   },
   {
-    "_title": "The Glass Castle"
+    "_title": "The Glass Castle",
+    "poster": "posters/movies/the-glass-castle.png"
   },
   {
     "_title": "The Golden Child",
-    "review": "4"
+    "review": "4",
+    "poster": "posters/movies/the-golden-child.jpg"
   },
   {
     "_title": "The Goonies",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-goonies.jpg"
   },
   {
     "_title": "The Gorge",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/the-gorge.jpg"
   },
   {
     "_title": "The Hateful Eight",
     "rating": "2",
-    "review": "Kinda good despite racial epithets, until it turned to shit."
+    "review": "Kinda good despite racial epithets, until it turned to shit.",
+    "poster": "posters/movies/the-hateful-eight.jpg"
   },
   {
-    "_title": "The Highwaymen"
+    "_title": "The Highwaymen",
+    "poster": "posters/movies/the-highwaymen.jpeg"
   },
   {
     "_title": "The History of Future Folk",
@@ -1988,120 +2476,150 @@
   },
   {
     "_title": "The Hitman's Bodyguard",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-hitman-s-bodyguard.jpg"
   },
   {
     "_title": "The Hudsucker Proxy",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-hudsucker-proxy.jpg"
   },
   {
     "_title": "The Hunger Games: Catching Fire",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-hunger-games-catching-fire.jpg"
   },
   {
     "_title": "The Hunger Games: Mockingjay, Part 1",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-hunger-games-mockingjay-part-1.jpg"
   },
   {
     "_title": "The Hunger Games: Mockingjay, Part 2",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-hunger-games-mockingjay-part-2.jpg"
   },
   {
-    "_title": "The Hunger Games: The Ballad of Songbirds and Snakes"
+    "_title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+    "poster": "posters/movies/the-hunger-games-the-ballad-of-songbirds-and-snakes.jpg"
   },
   {
     "_title": "The Incredibles",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-incredibles.jpg"
   },
   {
     "_title": "The Jerk",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-jerk.jpg"
   },
   {
-    "_title": "The Ladykillers"
+    "_title": "The Ladykillers",
+    "poster": "posters/movies/the-ladykillers.jpg"
   },
   {
     "_title": "The Larva Island Movie"
   },
   {
     "_title": "The Last Dragon",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-last-dragon.png"
   },
   {
-    "_title": "The Last Starfighter"
+    "_title": "The Last Starfighter",
+    "poster": "posters/movies/the-last-starfighter.jpg"
   },
   {
-    "_title": "The Lego Batman Movie"
+    "_title": "The Lego Batman Movie",
+    "poster": "posters/movies/the-lego-batman-movie.jpg"
   },
   {
-    "_title": "The Lego Movie"
+    "_title": "The Lego Movie",
+    "poster": "posters/movies/the-lego-movie.jpg"
   },
   {
     "_title": "The Little Hours",
     "rating": "2",
-    "review": "Weird, but not amazing."
+    "review": "Weird, but not amazing.",
+    "poster": "posters/movies/the-little-hours.jpg"
   },
   {
     "_title": "The Little Mermaid",
     "rating": "3",
-    "review": "Just not that big a fan of the Little Mermaid. Whatever."
+    "review": "Just not that big a fan of the Little Mermaid. Whatever.",
+    "poster": "posters/movies/the-little-mermaid.png"
   },
   {
     "_title": "The Machine",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-machine.jpg"
   },
   {
     "_title": "The Magnificent Seven",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-magnificent-seven.jpg"
   },
   {
     "_title": "The Man Who Wasn't There",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-man-who-wasn-t-there.jpg"
   },
   {
-    "_title": "The Mandela Effect"
+    "_title": "The Mandela Effect",
+    "poster": "posters/movies/the-mandela-effect.jpg"
   },
   {
     "_title": "The Martian",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-martian.jpg"
   },
   {
     "_title": "The Midnight Sky",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-midnight-sky.png"
   },
   {
     "_title": "The Ministry of Ungentlemanly Warfare",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/the-ministry-of-ungentlemanly-warfare.jpg"
   },
   {
     "_title": "The Mitchells vs. the Machines",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-mitchells-vs-the-machines.jpg"
   },
   {
     "_title": "The Naked Gun (2025)",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-naked-gun-2025.jpg"
   },
   {
     "_title": "The Naked Man",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-naked-man.jpg"
   },
   {
-    "_title": "The Neverending Story"
+    "_title": "The Neverending Story",
+    "poster": "posters/movies/the-neverending-story.jpg"
   },
   {
     "_title": "The Nice Guys",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-nice-guys.png"
   },
   {
     "_title": "The Penguin Lessons",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-penguin-lessons.jpg"
   },
   {
     "_title": "The Phantom of the Open",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-phantom-of-the-open.jpg"
   },
   {
-    "_title": "The Red Turtle"
+    "_title": "The Red Turtle",
+    "poster": "posters/movies/the-red-turtle.png"
   },
   {
     "_title": "The Samurai of Ayothaya (aka Muay Thai Warrior)",
@@ -2109,150 +2627,188 @@
   },
   {
     "_title": "The Sandlot",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-sandlot.jpg"
   },
   {
     "_title": "The Secret Life of Pets",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-secret-life-of-pets.jpg"
   },
   {
     "_title": "The Social Dilemma",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-social-dilemma.jpg"
   },
   {
     "_title": "The Social Network",
     "rating": "3",
-    "review": "Music by NIN"
+    "review": "Music by NIN",
+    "poster": "posters/movies/the-social-network.png"
   },
   {
     "_title": "The Spy Next Door",
-    "review": "watch with kids"
+    "review": "watch with kids",
+    "poster": "posters/movies/the-spy-next-door.jpg"
   },
   {
-    "_title": "The Suicide Squad"
+    "_title": "The Suicide Squad",
+    "poster": "posters/movies/the-suicide-squad.jpg"
   },
   {
     "_title": "The Super Mario Bros Movie (2023)",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-super-mario-bros-movie-2023.jpg"
   },
   {
-    "_title": "The Swedish Theory of Love"
+    "_title": "The Swedish Theory of Love",
+    "poster": "posters/movies/the-swedish-theory-of-love.jpg"
   },
   {
     "_title": "The Theory of Everything",
     "rating": "4",
-    "review": "Stephen Hawking has had a hard, but interesting life."
+    "review": "Stephen Hawking has had a hard, but interesting life.",
+    "poster": "posters/movies/the-theory-of-everything.jpg"
   },
   {
     "_title": "The Tomorrow War",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-tomorrow-war.jpg"
   },
   {
-    "_title": "The Toy"
+    "_title": "The Toy",
+    "poster": "posters/movies/the-toy.jpg"
   },
   {
-    "_title": "The Transformers the Movie (1986)"
+    "_title": "The Transformers the Movie (1986)",
+    "poster": "posters/movies/the-transformers-the-movie-1986.jpg"
   },
   {
     "_title": "The Unbearable Weight of Massive Talent",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-unbearable-weight-of-massive-talent.jpg"
   },
   {
     "_title": "The Union",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-union.jpg"
   },
   {
     "_title": "The VelociPastor",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/the-velocipastor.jpg"
   },
   {
     "_title": "The Vietnam War by Ken Burns and Lynn Novick",
-    "review": "Music by NIN"
+    "review": "Music by NIN",
+    "poster": "posters/movies/the-vietnam-war-by-ken-burns-and-lynn-novick.jpg"
   },
   {
-    "_title": "The Wandering Earth 2"
+    "_title": "The Wandering Earth 2",
+    "poster": "posters/movies/the-wandering-earth-2.jpg"
   },
   {
     "_title": "The Wandering Earth",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/the-wandering-earth.jpg"
   },
   {
-    "_title": "The Weather Man"
+    "_title": "The Weather Man",
+    "poster": "posters/movies/the-weather-man.jpg"
   },
   {
     "_title": "The Wild Robot",
     "rating": "3",
-    "review": "Rhys wanted to see it. Decent."
+    "review": "Rhys wanted to see it. Decent.",
+    "poster": "posters/movies/the-wild-robot.jpg"
   },
   {
     "_title": "The Wizard of Oz",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/the-wizard-of-oz.jpg"
   },
   {
     "_title": "They Cloned Tyrone",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/they-cloned-tyrone.png"
   },
   {
     "_title": "They Live",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/they-live.jpg"
   },
   {
     "_title": "This Is A Disaster",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/this-is-a-disaster.jpg"
   },
   {
     "_title": "This Place Rules",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/this-place-rules.jpg"
   },
   {
     "_title": "Thor",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/thor.jpg"
   },
   {
     "_title": "Thor: Ragnarok",
     "rating": "2",
-    "review": "A bunch of fighting and like 3 funny parts. Typical comic book movie."
+    "review": "A bunch of fighting and like 3 funny parts. Typical comic book movie.",
+    "poster": "posters/movies/thor-ragnarok.jpg"
   },
   {
     "_title": "Three Amigos",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/three-amigos.jpg"
   },
   {
-    "_title": "Three Billboards Outside Ebbing, Missouri"
+    "_title": "Three Billboards Outside Ebbing, Missouri",
+    "poster": "posters/movies/three-billboards-outside-ebbing-missouri.png"
   },
   {
     "_title": "Thunderbolts*",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/thunderbolts.jpg"
   },
   {
-    "_title": "Tickling Giants"
+    "_title": "Tickling Giants",
+    "poster": "posters/movies/tickling-giants.jpg"
   },
   {
-    "_title": "Tom Segura: Ball Hog"
+    "_title": "Tom Segura: Ball Hog",
+    "poster": "posters/movies/tom-segura-ball-hog.jpg"
   },
   {
     "_title": "Tom and Jerry movie",
-    "review": "watch with kids"
+    "review": "watch with kids",
+    "poster": "posters/movies/tom-and-jerry-movie.png"
   },
   {
     "_title": "Tommy Boy",
-    "review": "watch with kids"
+    "review": "watch with kids",
+    "poster": "posters/movies/tommy-boy.jpg"
   },
   {
     "_title": "Total Recall",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/total-recall.jpg"
   },
   {
     "_title": "Toy Story 2",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/toy-story-2.jpg"
   },
   {
     "_title": "Toy Story 3",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/toy-story-3.jpg"
   },
   {
     "_title": "Toy Story",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/toy-story.jpg"
   },
   {
     "_title": "Train Wreck",
@@ -2260,368 +2816,469 @@
   },
   {
     "_title": "Triangle of Sadness",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/triangle-of-sadness.jpg"
   },
   {
     "_title": "Tron",
     "rating": "4",
-    "review": "watch with kids"
+    "review": "watch with kids",
+    "poster": "posters/movies/tron.jpg"
   },
   {
-    "_title": "Tron: Ares"
+    "_title": "Tron: Ares",
+    "poster": "posters/movies/tron-ares.jpg"
   },
   {
     "_title": "True Grit",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/true-grit.jpg"
   },
   {
     "_title": "True Romance",
-    "notes": "Recommended by Scott. I've seen it before, but don't remember it."
+    "notes": "Recommended by Scott. I've seen it before, but don't remember it.",
+    "poster": "posters/movies/true-romance.jpg"
   },
   {
     "_title": "Twas the Night Before Spongemas"
   },
   {
     "_title": "Twisters (2024)",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/twisters-2024.jpg"
   },
   {
     "_title": "UHF",
-    "rating": "5"
+    "rating": "5",
+    "poster": "posters/movies/uhf.jpg"
   },
   {
     "_title": "Uglies",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/uglies.jpg"
   },
   {
     "_title": "Uncharted",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/uncharted.jpg"
   },
   {
     "_title": "Uncut gems",
-    "review": "Recommended by Brian"
+    "review": "Recommended by Brian",
+    "poster": "posters/movies/uncut-gems.jpg"
   },
   {
     "_title": "Underwater",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/underwater.jpeg"
   },
   {
     "_title": "Up",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/up.jpg"
   },
   {
     "_title": "Us",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/us.png"
   },
   {
     "_title": "Valerian",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/valerian.jpg"
   },
   {
     "_title": "Valley Girls",
-    "notes": "Recommended by Scott"
+    "notes": "Recommended by Scott",
+    "poster": "posters/movies/valley-girls.jpg"
   },
   {
     "_title": "Vengeance",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/vengeance.jpg"
   },
   {
-    "_title": "Vesper"
+    "_title": "Vesper",
+    "poster": "posters/movies/vesper.png"
   },
   {
-    "_title": "Vice Versa"
+    "_title": "Vice Versa",
+    "poster": "posters/movies/vice-versa.jpg"
   },
   {
     "_title": "Violent Night",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/violent-night.jpg"
   },
   {
     "_title": "WALL-E",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/wall-e.jpg"
   },
   {
     "_title": "Wake Up Dead Man: A Knives Out Mystery",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/wake-up-dead-man-a-knives-out-mystery.jpg"
   },
   {
-    "_title": "Wakefield"
+    "_title": "Wakefield",
+    "poster": "posters/movies/wakefield.jpg"
   },
   {
     "_title": "Wallace & Gromit: Vengeance Most Fowl",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/wallace-gromit-vengeance-most-fowl.jpg"
   },
   {
     "_title": "War Dogs",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/war-dogs.jpg"
   },
   {
     "_title": "Waterworld",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/waterworld.jpg"
   },
   {
-    "_title": "Wayne's World 2"
+    "_title": "Wayne's World 2",
+    "poster": "posters/movies/wayne-s-world-2.jpg"
   },
   {
-    "_title": "Wayne's World"
+    "_title": "Wayne's World",
+    "poster": "posters/movies/wayne-s-world.jpg"
   },
   {
-    "_title": "We Are Many"
+    "_title": "We Are Many",
+    "poster": "posters/movies/we-are-many.png"
   },
   {
     "_title": "Weird: The Al Yankovic Story",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/weird-the-al-yankovic-story.jpg"
   },
   {
     "_title": "What We Do in the Shadows",
     "rating": "4",
-    "review": "Hilarious"
+    "review": "Hilarious",
+    "poster": "posters/movies/what-we-do-in-the-shadows.jpg"
   },
   {
     "_title": "What the Health?",
     "rating": "4",
-    "review": "It's good to get fired up about stupid shit in our world."
+    "review": "It's good to get fired up about stupid shit in our world.",
+    "poster": "posters/movies/what-the-health.jpg"
   },
   {
     "_title": "Where'd You Go, Bernadette",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/where-d-you-go-bernadette.png"
   },
   {
     "_title": "Wicked",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/wicked.png"
   },
   {
     "_title": "Willow",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/willow.jpg"
   },
   {
-    "_title": "Willy Wonka"
+    "_title": "Willy Wonka",
+    "poster": "posters/movies/willy-wonka.jpg"
   },
   {
     "_title": "Willy's Wonderland",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/willy-s-wonderland.jpg"
   },
   {
     "_title": "Wine Country",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/wine-country.jpg"
   },
   {
     "_title": "Wonder Woman 1984",
     "rating": "2",
-    "review": "Just total garbage. Damn shame considering the decent cast."
+    "review": "Just total garbage. Damn shame considering the decent cast.",
+    "poster": "posters/movies/wonder-woman-1984.png"
   },
   {
     "_title": "Wonder Woman",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/wonder-woman.jpg"
   },
   {
     "_title": "World of Tomorrow",
-    "review": "Don Hertzfeldt"
+    "review": "Don Hertzfeldt",
+    "poster": "posters/movies/world-of-tomorrow.jpg"
   },
   {
     "_title": "Wreck It Ralph",
     "rating": "3",
-    "review": "Not bad, but not amazing."
+    "review": "Not bad, but not amazing.",
+    "poster": "posters/movies/wreck-it-ralph.png"
   },
   {
     "_title": "Wristcutters",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/wristcutters.jpg"
   },
   {
     "_title": "Y2K",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/y2k.jpeg"
   },
   {
     "_title": "Zombeavers",
     "rating": "2",
-    "review": "Better than I was expecting, but..."
+    "review": "Better than I was expecting, but...",
+    "poster": "posters/movies/zombeavers.jpg"
   },
   {
     "_title": "Zombieland",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/zombieland.jpg"
   },
   {
     "_title": "Zombieland: Double Tap",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/zombieland-double-tap.jpg"
   },
   {
     "_title": "Zoolander",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/zoolander.jpg"
   },
   {
     "_title": "a story of sahel sounds"
   },
   {
-    "_title": "batteries not included"
+    "_title": "batteries not included",
+    "poster": "posters/movies/batteries-not-included.jpg"
   },
   {
-    "_title": "before we vanish"
+    "_title": "before we vanish",
+    "poster": "posters/movies/before-we-vanish.jpg"
   },
   {
     "_title": "http://www.hollywebfestival.com/awardwinners2013"
   },
   {
-    "_title": "leave no Trace"
+    "_title": "leave no Trace",
+    "poster": "posters/movies/leave-no-trace.png"
   },
   {
-    "_title": "waiting for godot"
+    "_title": "waiting for godot",
+    "poster": "posters/movies/waiting-for-godot.jpeg"
   },
   {
     "_title": "wargames",
     "rating": "2",
-    "review": "Good, but not amazing."
+    "review": "Good, but not amazing.",
+    "poster": "posters/movies/wargames.jpg"
   },
   {
-    "_title": "Good Luck, Have Fun, Don't Die"
+    "_title": "Good Luck, Have Fun, Don't Die",
+    "poster": "posters/movies/good-luck-have-fun-don-t-die.jpg"
   },
   {
     "_title": "Project Hail Mary",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/project-hail-mary.jpg"
   },
   {
-    "_title": "Street Fighter (2026)"
+    "_title": "Street Fighter (2026)",
+    "poster": "posters/movies/street-fighter-2026.jpeg"
   },
   {
     "_title": "John Wick",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/john-wick.jpg"
   },
   {
-    "_title": "John Wick 2"
+    "_title": "John Wick 2",
+    "poster": "posters/movies/john-wick-2.png"
   },
   {
     "_title": "Bugonia",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/bugonia.jpg"
   },
   {
-    "_title": "I Love Boosters"
+    "_title": "I Love Boosters",
+    "poster": "posters/movies/i-love-boosters.jpg"
   },
   {
-    "_title": "Wild Horse Nine"
+    "_title": "Wild Horse Nine",
+    "poster": "posters/movies/wild-horse-nine.jpeg"
   },
   {
     "_title": "Jackpot",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/jackpot.jpg"
   },
   {
     "_title": "Superman (2025)",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/superman-2025.jpg"
   },
   {
-    "_title": "Buffet Infinity"
+    "_title": "Buffet Infinity",
+    "poster": "posters/movies/buffet-infinity.jpg"
   },
   {
     "_title": "Mortal Kombat II",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/mortal-kombat-ii.jpg"
   },
   {
     "_title": "Cold Storage (2026)",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/cold-storage-2026.jpg"
   },
   {
-    "_title": "They Will Kill You (2026)"
+    "_title": "They Will Kill You (2026)",
+    "poster": "posters/movies/they-will-kill-you-2026.jpg"
   },
   {
-    "_title": "Life of Pi"
+    "_title": "Life of Pi",
+    "poster": "posters/movies/life-of-pi.jpg"
   },
   {
-    "_title": "Kalki 2898 AD"
+    "_title": "Kalki 2898 AD",
+    "poster": "posters/movies/kalki-2898-ad.jpg"
   },
   {
     "_title": "Don't Tell Larry",
-    "rating": "2"
+    "rating": "2",
+    "poster": "posters/movies/don-t-tell-larry.jpg"
   },
   {
     "_title": "Father Mother Sister Brother",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/father-mother-sister-brother.jpg"
   },
   {
-    "_title": "Queens of the Dead"
+    "_title": "Queens of the Dead",
+    "poster": "posters/movies/queens-of-the-dead.jpg"
   },
   {
     "_title": "Yoroï",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/yoroi.jpg"
   },
   {
-    "_title": "chocolat"
+    "_title": "chocolat",
+    "poster": "posters/movies/chocolat.jpg"
   },
   {
-    "_title": "Count of Monte cristo"
+    "_title": "Count of Monte cristo",
+    "poster": "posters/movies/count-of-monte-cristo.jpg"
   },
   {
     "_title": "We Have a Ghost",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/we-have-a-ghost.png"
   },
   {
-    "_title": "The Lives of Others"
+    "_title": "The Lives of Others",
+    "poster": "posters/movies/the-lives-of-others.jpg"
   },
   {
-    "_title": "Cooties"
+    "_title": "Cooties",
+    "poster": "posters/movies/cooties.jpg"
   },
   {
-    "_title": "Freaky Tales"
+    "_title": "Freaky Tales",
+    "poster": "posters/movies/freaky-tales.jpg"
   },
   {
-    "_title": "The Legend of Ochi"
+    "_title": "The Legend of Ochi",
+    "poster": "posters/movies/the-legend-of-ochi.jpg"
   },
   {
-    "_title": "Three Thousand Years of Longing"
+    "_title": "Three Thousand Years of Longing",
+    "poster": "posters/movies/three-thousand-years-of-longing.jpeg"
   },
   {
-    "_title": "Madagascar 3: Europe's Most Wanted"
+    "_title": "Madagascar 3: Europe's Most Wanted",
+    "poster": "posters/movies/madagascar-3-europe-s-most-wanted.jpg"
   },
   {
-    "_title": "Paddington in Peru"
+    "_title": "Paddington in Peru",
+    "poster": "posters/movies/paddington-in-peru.jpg"
   },
   {
     "_title": "Quantum Cowboys"
   },
   {
-    "_title": "Together (2025)"
+    "_title": "Together (2025)",
+    "poster": "posters/movies/together-2025.jpg"
   },
   {
-    "_title": "The Toxic Avenger (1984)"
+    "_title": "The Toxic Avenger (1984)",
+    "poster": "posters/movies/the-toxic-avenger-1984.jpg"
   },
   {
-    "_title": "The Toxic Avenger (2023)"
+    "_title": "The Toxic Avenger (2023)",
+    "poster": "posters/movies/the-toxic-avenger-2023.png"
   },
   {
-    "_title": "Jonah Hex"
+    "_title": "Jonah Hex",
+    "poster": "posters/movies/jonah-hex.jpg"
   },
   {
-    "_title": "Dhurandhar"
+    "_title": "Dhurandhar",
+    "poster": "posters/movies/dhurandhar.jpg"
   },
   {
-    "_title": "Dune (1984)"
+    "_title": "Dune (1984)",
+    "poster": "posters/movies/dune-1984.jpg"
   },
   {
-    "_title": "Yellowbeard"
+    "_title": "Yellowbeard",
+    "poster": "posters/movies/yellowbeard.jpg"
   },
   {
-    "_title": "We Are Zombies"
+    "_title": "We Are Zombies",
+    "poster": "posters/movies/we-are-zombies.jpeg"
   },
   {
-    "_title": "Space Truckers"
+    "_title": "Space Truckers",
+    "poster": "posters/movies/space-truckers.jpg"
   },
   {
-    "_title": "Starcrash"
+    "_title": "Starcrash",
+    "poster": "posters/movies/starcrash.jpg"
   },
   {
-    "_title": "The Sword and the Sorcerer"
+    "_title": "The Sword and the Sorcerer",
+    "poster": "posters/movies/the-sword-and-the-sorcerer.jpg"
   },
   {
-    "_title": "Turbo Kid"
+    "_title": "Turbo Kid",
+    "poster": "posters/movies/turbo-kid.jpg"
   },
   {
-    "_title": "Fire and Ice (1983)"
+    "_title": "Fire and Ice (1983)",
+    "poster": "posters/movies/fire-and-ice-1983.png"
   },
   {
-    "_title": "The 36th Chamber of Shaolin"
+    "_title": "The 36th Chamber of Shaolin",
+    "poster": "posters/movies/the-36th-chamber-of-shaolin.jpg"
   },
   {
     "_title": "Strawberry Mansion",
-    "rating": "3"
+    "rating": "3",
+    "poster": "posters/movies/strawberry-mansion.jpg"
   },
   {
     "_title": "Masters of the Universe (2026)",
-    "rating": "4"
+    "rating": "4",
+    "poster": "posters/movies/masters-of-the-universe-2026.jpeg"
+  },
+  {
+    "_title": "Digger"
   }
 ]

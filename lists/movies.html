@@ -13,6 +13,7 @@
             --card-bg: white;
             --input-bg: white;
             --input-border: #ddd;
+            --poster-bg: #e3e3e3;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -24,6 +25,7 @@
                 --card-bg: #2d2d2d;
                 --input-bg: #2d2d2d;
                 --input-border: #444;
+                --poster-bg: #3a3a3a;
             }
         }
 
@@ -98,16 +100,71 @@
 
         .movie-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
             gap: 20px;
         }
 
         .movie-card {
             background: var(--card-bg);
             border-radius: 8px;
-            padding: 20px;
+            overflow: hidden;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             transition: transform 0.2s, background-color 0.3s;
+        }
+
+        .movie-body {
+            padding: 20px;
+        }
+
+        .movie-poster {
+            position: relative;
+            aspect-ratio: 2 / 3;
+            background: var(--poster-bg);
+            overflow: hidden;
+        }
+
+        .movie-poster img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .movie-poster img.loaded {
+            opacity: 1;
+        }
+
+        /* Some entries only have a logo or title card, which comes back wide;
+           cropping that to a poster shape would cut the title in half. */
+        .movie-poster img.wide {
+            object-fit: contain;
+            padding: 12px;
+        }
+
+        .movie-poster.loading::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(90deg, transparent, rgba(128,128,128,0.25), transparent);
+            animation: shimmer 1.2s infinite;
+        }
+
+        .movie-poster.empty::after {
+            content: '\1F3AC';
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 42px;
+            opacity: 0.35;
+        }
+
+        @keyframes shimmer {
+            from { transform: translateX(-100%); }
+            to { transform: translateX(100%); }
         }
 
         .movie-card:hover {
@@ -215,6 +272,7 @@
                 root.style.setProperty('--card-bg', '#2d2d2d');
                 root.style.setProperty('--input-bg', '#2d2d2d');
                 root.style.setProperty('--input-border', '#444');
+                root.style.setProperty('--poster-bg', '#3a3a3a');
             } else {
                 root.style.setProperty('--bg-color', '#f5f5f5');
                 root.style.setProperty('--text-color', '#333');
@@ -223,6 +281,7 @@
                 root.style.setProperty('--card-bg', 'white');
                 root.style.setProperty('--input-bg', 'white');
                 root.style.setProperty('--input-border', '#ddd');
+                root.style.setProperty('--poster-bg', '#e3e3e3');
             }
             updateThemeButton(theme);
         }
@@ -257,6 +316,162 @@
             }
         }
 
+        // Posters come from English Wikipedia's page-image API: no key, no signup,
+        // and it sends CORS headers. pilicense=any is required -- film posters are
+        // non-free, and the default "free" filter returns nothing for nearly every
+        // movie. Searching "<title> film" beats an exact-phrase search, which drops
+        // to unrelated articles for short titles ("Sinners", "Adaptation").
+        const POSTER_CACHE_KEY = 'moviePosters.v1';
+        const POSTER_HIT_TTL = 180 * 24 * 60 * 60 * 1000;
+        const POSTER_MISS_TTL = 7 * 24 * 60 * 60 * 1000;
+        const POSTER_CONCURRENCY = 3;
+
+        let posterCache = readPosterCache();
+        let posterQueue = [];
+        let postersInFlight = 0;
+        let posterSaveTimer = null;
+        let postersPaused = false;
+        let posterBackoff = 0;
+
+        function readPosterCache() {
+            try {
+                return JSON.parse(localStorage.getItem(POSTER_CACHE_KEY)) || {};
+            } catch (error) {
+                return {};
+            }
+        }
+
+        function savePosterCache() {
+            clearTimeout(posterSaveTimer);
+            posterSaveTimer = setTimeout(() => {
+                try {
+                    localStorage.setItem(POSTER_CACHE_KEY, JSON.stringify(posterCache));
+                } catch (error) {
+                    // Private mode or quota: posters just get looked up again next visit.
+                }
+            }, 500);
+        }
+
+        // Returns the cached URL, null for a known miss, or undefined if we need to look it up.
+        function cachedPoster(title) {
+            const entry = posterCache[title];
+            if (!entry) return undefined;
+            const ttl = entry.url ? POSTER_HIT_TTL : POSTER_MISS_TTL;
+            if (Date.now() - entry.ts > ttl) return undefined;
+            return entry.url;
+        }
+
+        async function lookupPoster(title) {
+            const params = new URLSearchParams({
+                action: 'query',
+                generator: 'search',
+                gsrsearch: `${title} film`,
+                gsrlimit: '1',
+                prop: 'pageimages',
+                piprop: 'thumbnail',
+                pilicense: 'any',
+                pithumbsize: '400',
+                format: 'json',
+                origin: '*'
+            });
+            const response = await fetch(`https://en.wikipedia.org/w/api.php?${params}`);
+            if (!response.ok) {
+                const error = new Error(`Wikipedia returned ${response.status}`);
+                error.status = response.status;
+                throw error;
+            }
+            const data = await response.json();
+            const pages = data.query && data.query.pages;
+            const page = pages && Object.values(pages)[0];
+            return (page && page.thumbnail && page.thumbnail.source) || null;
+        }
+
+        function renderPoster(box, url) {
+            box.classList.remove('loading');
+            if (!url) {
+                box.classList.add('empty');
+                return;
+            }
+            const img = document.createElement('img');
+            img.alt = `${box.dataset.title} poster`;
+            img.addEventListener('load', () => {
+                if (img.naturalWidth > img.naturalHeight * 1.1) img.classList.add('wide');
+                img.classList.add('loaded');
+            });
+            img.addEventListener('error', () => {
+                img.remove();
+                box.classList.add('empty');
+            });
+            img.src = url;
+            box.appendChild(img);
+        }
+
+        function pumpPosterQueue() {
+            if (postersPaused) return;
+            while (postersInFlight < POSTER_CONCURRENCY && posterQueue.length > 0) {
+                const box = posterQueue.shift();
+                if (!box.isConnected) continue;  // card was filtered away while queued
+                const title = box.dataset.title;
+                postersInFlight++;
+                lookupPoster(title).then(url => {
+                    posterBackoff = 0;
+                    posterCache[title] = { url: url, ts: Date.now() };
+                    savePosterCache();
+                    renderPoster(box, url);
+                }).catch(error => {
+                    const tries = Number(box.dataset.tries || 0) + 1;
+                    box.dataset.tries = tries;
+                    if (error.status === 429 && tries < 3 && box.isConnected) {
+                        posterQueue.unshift(box);
+                        pausePosters();
+                    } else {
+                        // Offline or out of retries: leave it uncached so a later visit tries again.
+                        renderPoster(box, null);
+                    }
+                }).finally(() => {
+                    postersInFlight--;
+                    pumpPosterQueue();
+                });
+            }
+        }
+
+        // Wikipedia answers 429 if we ask too fast, so stop the whole queue for a
+        // moment rather than burning the remaining cards' retries on the same wall.
+        function pausePosters() {
+            if (postersPaused) return;
+            postersPaused = true;
+            posterBackoff = Math.min(posterBackoff ? posterBackoff * 2 : 2000, 60000);
+            setTimeout(() => {
+                postersPaused = false;
+                pumpPosterQueue();
+            }, posterBackoff);
+        }
+
+        const posterObserver = new IntersectionObserver((entries, observer) => {
+            for (const entry of entries) {
+                if (!entry.isIntersecting) continue;
+                observer.unobserve(entry.target);
+                if (entry.target.dataset.poster) {
+                    renderPoster(entry.target, entry.target.dataset.poster);
+                    continue;
+                }
+                const cached = cachedPoster(entry.target.dataset.title);
+                if (cached === undefined) {
+                    entry.target.classList.add('loading');
+                    posterQueue.push(entry.target);
+                } else {
+                    renderPoster(entry.target, cached);
+                }
+            }
+            pumpPosterQueue();
+        }, { rootMargin: '400px' });
+
+        function escapeHtml(value) {
+            return String(value).replace(/[&<>"']/g, char => ({
+                '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+            })[char]);
+        }
+
         function getRatingDisplay(movie) {
             if (movie.rating === undefined || movie.rating === null) {
                 return '<span class="movie-rating no-rating">Unrated</span>';
@@ -279,19 +494,26 @@
             movieCount.textContent = `Showing ${filteredMovies.length} of ${movies.length} movies`;
 
             movieGrid.innerHTML = filteredMovies.map(movie => {
+                const title = escapeHtml(movie._title);
                 let html = `
                     <div class="movie-card">
-                        <div class="movie-title">${movie._title}</div>
-                        ${getRatingDisplay(movie)}
+                        <div class="movie-poster" data-title="${title}"${movie.poster ? ` data-poster="${escapeHtml(movie.poster)}"` : ''}></div>
+                        <div class="movie-body">
+                            <div class="movie-title">${title}</div>
+                            ${getRatingDisplay(movie)}
                 `;
 
                 if (movie.review) {
-                    html += `<div class="movie-review">${movie.review}</div>`;
+                    html += `<div class="movie-review">${escapeHtml(movie.review)}</div>`;
                 }
 
-                html += '</div>';
+                html += '</div></div>';
                 return html;
             }).join('');
+
+            // Cards are rebuilt on every filter/sort, so the old boxes are gone.
+            posterQueue = [];
+            movieGrid.querySelectorAll('.movie-poster').forEach(box => posterObserver.observe(box));
         }
 
         function filterMovies() {
