@@ -3218,10 +3218,12 @@
   },
   {
     "_title": "The Toxic Avenger (1984)",
+    "rating": "2",
     "poster": "posters/movies/the-toxic-avenger-1984.jpg"
   },
   {
     "_title": "The Toxic Avenger (2023)",
+    "rating": "2",
     "poster": "posters/movies/the-toxic-avenger-2023.png"
   },
   {
@@ -3238,6 +3240,7 @@
   },
   {
     "_title": "Yellowbeard",
+    "rating": "2",
     "poster": "posters/movies/yellowbeard.jpg"
   },
   {
@@ -3290,5 +3293,13 @@
   {
     "_title": "Backrooms",
     "rating": "3"
+  },
+  {
+    "_title": "Horns",
+    "rating": "3"
+  },
+  {
+    "_title": "Red Sonja (2025)",
+    "rating": "2"
   }
 ]
