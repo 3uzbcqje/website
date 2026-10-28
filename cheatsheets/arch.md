@@ -100,13 +100,3 @@ sudo fstrim -v /
 
 # Trimming happens automatically via the fstrim.timer systemd service, which appears to be enabled by default on Arch.
 ```
-
-# Handy (speech to text, voice dictation, etc.)
-
-https://handy.computer/docs/linux
-
-yay handy ydotool
-gsettings set org.gnome.settings-daemon.plugins.media-keys custom-keybindings "['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/handy/']"
-gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/handy/ name 'Handy'
-gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/handy/ command 'handy --toggle-transcription'
-gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/handy/ binding '<Control>space'
