@@ -9,7 +9,7 @@ But I think that clobbers actual pre-commit hooks if the git repo has them, whic
 You can also install pre-commit like this:
 
 ```
-pre-commit install --config /home/user/git/devopscoop/dotfiles/3uzbcqje/.pre-commit-config.yaml
+pre-commit install --config /home/user/git/devopscoop-dotfiles/3uzbcqje/.pre-commit-config.yaml
 ```
 
 But then you have to remember to install it every time you clone a repo...
